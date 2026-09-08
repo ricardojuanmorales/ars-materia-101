@@ -1,7 +1,7 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 1.1  
-**Fecha:** 2026-09-07  
+**Versión:** 1.2  
+**Fecha:** 2026-09-08  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
 **Centro operativo:** ChatGPT Project **Ars Materia 101**
@@ -12,16 +12,10 @@
 
 La estructura documental se alinea con la taxonomía completa del Framework. Las funciones se activan según necesidad; no se llenan cartapacios por ceremonia.
 
-## 2. Hito de gobernanza reciente
+## 2. Hitos recientes de gobernanza y producción
 
-**Refactorización Canónica Express v1.0** ejecutada como corrección de arquitectura documental antes de continuar crecimiento del proyecto.
-
-Objetivos:
-1. alinear rutas canónicas con Framework V4.1.0;
-2. preservar contenido y genealogía Git;
-3. reducir deuda técnica/documental;
-4. separar función documental de tipo de artefacto;
-5. mantener navegación humana compacta mediante Estado + Mapa de Ruta + Mapa del Repositorio.
+1. **Refactorización Canónica Express v1.0** ejecutada y promovida a `main` para corregir arquitectura documental y deuda técnica antes de continuar crecimiento del proyecto.
+2. **FEHE-H1 profunda v1.0 CANDIDATA** producida, verificada en GitHub y sometida a Gate humano.
 
 ## 3. Último gate aprobado
 
@@ -57,18 +51,41 @@ Objetivos:
 - Bitácoras, Gates y registros de proceso → `18_DOCUMENTACION_ACTIVA/`
 - OVAt/Moodle → `19_IMPLEMENTACION_Y_DESPLIEGUE/`
 
-## 6. Próximo producto autorizado
+## 6. Producto candidato activo
 
-**FEHE-H1 profunda — versión candidata para validación humana.**
+`08_CURSOS_PROGRAMAS_Y_TRAYECTORIAS/FEHE_H1-H10/H1/CIFI4074_FEHE_H1_Profunda_v1.0_CANDIDATA.md`
 
-## 7. Gate siguiente
+Estado: **CANDIDATA PARA VALIDACIÓN HUMANA**.
 
-Validar FEHE-H1 antes de propagar FEHE-H2...H10.
+La candidata integra:
+- cuatro lentes FEHE;
+- evidencia, interpretación y grados de certeza;
+- auditoría anti-presentismo;
+- epistemología del arte;
+- ciencia contemporánea sin anacronismo;
+- caso principal Blombos Cave y caso comparativo Apollo 11 Cave;
+- HEREDA→TRANSFORMA→INTRODUCE→PROYECTA;
+- conexión controlada con PROEMA;
+- especificación de transferencia futura a OVAt sin producirlo todavía;
+- DUA/carga cognitiva macro;
+- fuentes, riesgos y agenda pendiente.
+
+## 7. Gate activo
+
+**FEHE-H1 profunda v1.0 CANDIDATA → validación humana.**
+
+Opciones:
+- GO
+- GO CON CONDICIONES
+- NO-GO
+
+Sólo un GO o GO CON CONDICIONES resuelto autoriza propagar el patrón a H2-H10.
 
 ## 8. No hacer todavía
 
-- No promover H1-H10 a OFICIAL sin gate humano.
-- No propagar una plantilla FEHE defectuosa antes de aprobar H1.
+- No promover H1 a APROBADO/OFICIAL sin Gate humano.
+- No propagar H2-H10.
+- No producir OVAt-H1 antes de cerrar el Gate FEHE-H1 y autorizar microdiseño.
 - No mezclar FD con PROEMA.
 - No rediseñar la ponderación 60/40.
 - No crear tareas nuevas si puede reutilizarse evidencia ya producida.
