@@ -1,0 +1,21 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary exports
+*.tmp
+*.bak
+~$*
+
+# Local working areas
+_work/
+scratch/
+temp/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
