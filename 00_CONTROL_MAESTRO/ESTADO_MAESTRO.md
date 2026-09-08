@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 1.5  
+**Versión:** 1.6  
 **Fecha:** 2026-09-08  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -8,7 +8,7 @@
 
 ## 1. Posición del proyecto
 
-**Piloto integral H1 abierto con Framework Genérico V4.1.0 activo de forma integral y proporcional.**
+**Piloto integral H1 en producción secuencial con Framework Genérico V4.1.0 activo de forma integral y proporcional.**
 
 La estructura documental se alinea con la taxonomía completa del Framework. Las funciones se activan según necesidad; no se llenan cartapacios por ceremonia.
 
@@ -18,8 +18,8 @@ La estructura documental se alinea con la taxonomía completa del Framework. Las
 2. **FEHE-H1 profunda v1.0** evaluada mediante Gate humano y aprobada para el piloto integral H1.
 3. Contradicción de flujo patrón/propagación resuelta mediante **D-014**: primero H1 como sistema completo, después extracción eventual del patrón.
 4. **Gate FEHE-H1 cerrado con GO** mediante **D-015**.
-5. **Especificación OVAt-H1 v0.1 CANDIDATA** producida y auditada antes de producir materiales finales.
-6. **Gate Especificación OVAt-H1** abierto para validación humana.
+5. **Especificación OVAt-H1 v0.1** producida, auditada y aprobada mediante **D-016**.
+6. **Bloque 1 · Bienvenida H1 v0.1 CANDIDATA** producido y auditado como primer componente del OVAt.
 
 ## 3. Últimos gates y autoridades aprobadas
 
@@ -28,6 +28,7 @@ La estructura documental se alinea con la taxonomía completa del Framework. Las
 - Protocolo FEHE→OVAt→Moodle v0.1: APROBADO como protocolo vigente del prototipo.
 - Evaluación del prototipo: **60 % Clase / 40 % Investigación**, usando los valores de la Tabla de Alineación V2.0.
 - FEHE-H1 profunda v1.0: **APROBADA PARA PILOTO INTEGRAL H1**.
+- Especificación OVAt-H1 v0.1: **APROBADA PARA PRODUCCIÓN SECUENCIAL** mediante D-016.
 
 ## 4. Decisiones vigentes
 
@@ -48,6 +49,8 @@ La estructura documental se alinea con la taxonomía completa del Framework. Las
 15. Una verdad viva por función; Git conserva genealogía y estados superados.
 16. Antes de propagar H2-H10 se probará H1 como sistema completo: FEHE→OVAt→montaje/QA→auditoría inversa→Gate integral H1.
 17. El GO FEHE-H1 autoriza abrir especificación OVAt-H1, no extraer patrón ni propagar H2-H10.
+18. D-016 aprueba: carga objetivo H1 75–100 min; Ficha breve como único producto persistente y formativo; Apollo 11 como transferencia preferida; profundidad química acotada; IA no obligatoria; Moodle mínimo viable.
+19. Producción OVAt-H1 es secuencial: un componente se produce y verifica antes de abrir el siguiente.
 
 ## 5. Rutas canónicas activas
 
@@ -66,78 +69,99 @@ Estado interno vigente: **APROBADA PARA PILOTO INTEGRAL H1**.
 
 Nota de deuda documental: el nombre físico conserva el sufijo `_CANDIDATA` aunque el contenido y estado ya fueron promovidos mediante D-015. Debe resolverse mediante renombrado seguro sin duplicar verdades vivas.
 
-## 7. Producto OVAt-H1 activo
+## 7. Especificación OVAt-H1 vigente
 
 `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H1/CIFI4074_OVAt_H1_Especificacion_v0.1_CANDIDATA.md`
 
-Estado: **CANDIDATA PARA VALIDACIÓN HUMANA**.
+Estado rector vigente por Gate: **APROBADA PARA PRODUCCIÓN SECUENCIAL** mediante D-016.
 
-La especificación define:
-- carga objetivo H1 de 75–100 min;
-- seis bloques funcionales + regla de no crear FD1 en H1;
-- Blombos como caso rector y Apollo 11 como contraste/transferencia;
+Nota de deuda documental: el archivo físico y parte del lenguaje interno conservan estado CANDIDATA previo al Gate; la decisión D-016 y el Gate cerrado tienen precedencia hasta ejecutar sincronización segura del archivo completo.
+
+Decisiones aprobadas:
+- carga objetivo H1: 75–100 min, a validar en QA;
+- seis bloques funcionales; FD1 no se crea en H1;
+- Blombos rector y Apollo 11 contraste/transferencia;
 - alto andamiaje y DUA anticipatoria;
 - Ficha breve de evidencia material como único producto persistente y reusable;
-- ausencia de nueva calificación independiente;
-- profundidad científica acotada para no adelantar H2/H8;
+- ninguna calificación independiente nueva;
+- profundidad científica acotada;
 - IA no obligatoria;
-- arquitectura Moodle mínima viable;
-- auditoría FEHE→Rector→Tabla V2.0→OVAt;
-- trazabilidad de fuentes y procedencia pendiente de curaduría visual final.
+- arquitectura Moodle mínima viable.
 
-## 8. Gate activo
+## 8. Componente OVAt-H1 activo
 
-**Gate Especificación OVAt-H1: ABIERTO.**
+`19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H1/COMPONENTES/CIFI4074_OVAt_H1_Bienvenida_v0.1_CANDIDATA.md`
 
-Producto evaluable:
+Estado: **CANDIDATA PARA VERIFICACIÓN DE COMPONENTE**.
 
-`19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H1/CIFI4074_OVAt_H1_Especificacion_v0.1_CANDIDATA.md`
+La Bienvenida incluye:
+- misterio epistemológico basado en Blombos;
+- texto estudiantil autosuficiente;
+- microdecisión inicial A/B/C no calificada + razón breve;
+- microfeedback diagnóstico sin revelar todavía la lección;
+- ubicación H1 seleccionar/preparar → H2 transformar con calor;
+- cinco objetivos funcionales;
+- DUA/accesibilidad;
+- especificación Moodle candidata;
+- decisión visual explícita de no depender todavía de imagen arqueológica mientras procedencia/licencia no estén cerradas;
+- fuente académica base y disciplina de certeza;
+- mini-auditoría de componente.
 
-Opciones humanas:
+## 9. Gate activo
+
+**Gate de componente: Bienvenida H1 v0.1 CANDIDATA → verificación humana.**
+
+Opciones:
 - GO
 - GO CON CONDICIONES
 - NO-GO
 
-No producir componentes finales OVAt-H1 antes de cerrar este Gate.
+No abrir Bloque 2 · Presentación FEHE antes de decidir este componente.
 
-## 9. Próxima secuencia autorizable
+## 10. Próxima secuencia autorizable
 
-Si la Especificación OVAt-H1 obtiene GO:
+Si Bienvenida H1 obtiene GO:
 
-`registrar Gate → producir Bloque 1 Bienvenida → verificar → Bloque 2 Presentación → Lectura → Caso → Transferencia → Cierre → paquete/matriz Moodle → montaje/QA → auditoría inversa → Gate integral H1`
+`registrar decisión → promover Bienvenida → abrir Bloque 2 Presentación FEHE → verificar → Lectura → Caso → Transferencia → Cierre → paquete/matriz Moodle → montaje/QA → auditoría inversa → Gate integral H1`
 
 Sólo después del Gate integral H1 podrá extraerse el patrón FEHE transferible y evaluarse la propagación H2-H10.
 
-## 10. Estado de implementación
+## 11. Estado de implementación
 
 - FEHE-H1: APROBADA PARA PILOTO INTEGRAL H1.
-- Especificación OVAt-H1: CANDIDATA PARA VALIDACIÓN HUMANA.
-- Gate Especificación OVAt-H1: ABIERTO.
-- OVAt-H1 materiales finales: NO INICIADOS.
+- Especificación OVAt-H1: APROBADA PARA PRODUCCIÓN SECUENCIAL.
+- Bienvenida H1: CANDIDATA PARA VERIFICACIÓN DE COMPONENTE.
+- Presentación FEHE H1: NO INICIADA.
+- Lectura H1: NO INICIADA.
+- Caso H1: NO INICIADO.
+- Transferencia H1: NO INICIADA.
+- Cierre H1: NO INICIADO.
 - Moodle H1: NO MONTADO.
 - QA H1: NO INICIADO.
 - Gate integral H1: PENDIENTE.
 - H2-H10: NO PROPAGADAS.
 
-## 11. No hacer todavía
+## 12. No hacer todavía
 
 - No extraer patrón FEHE transferible.
 - No propagar H2-H10.
-- No producir componentes finales OVAt-H1 antes de validar su especificación.
+- No abrir Presentación FEHE antes de verificar la Bienvenida.
 - No crear FD1 en H1; corresponde al nodo H1+H2 en H2.
 - No mezclar FD con PROEMA.
 - No rediseñar la ponderación 60/40.
 - No crear tareas nuevas si puede reutilizarse evidencia ya producida.
 - No declarar Moodle montado sin evidencia real.
+- No usar imagen generada como evidencia histórica.
 - No reabrir la taxonomía del repositorio sin una contradicción funcional demostrable.
 
-## 12. Deuda documental abierta
+## 13. Deuda documental abierta
 
 1. Renombrar de forma segura el archivo FEHE-H1 para retirar `_CANDIDATA` sin duplicar verdad viva.
 2. Sincronizar metadatos internos del Documento Rector v0.9 y Protocolo v0.1 para que reflejen sus estados aprobados ya establecidos por Estado Maestro.
-3. Verificar que referencias internas al antiguo flujo patrón→H2-H10 hayan quedado subordinadas a D-014.
-4. Curar y verificar recursos visuales/licencias/procedencia para Blombos y Apollo 11 antes de aprobar materiales finales que los utilicen.
+3. Sincronizar de forma segura el archivo de Especificación OVAt-H1 para reflejar D-016 en su estado interno y nombre físico si corresponde.
+4. Verificar que referencias internas al antiguo flujo patrón→H2-H10 hayan quedado subordinadas a D-014.
+5. Curar y verificar recursos visuales/licencias/procedencia para Blombos y Apollo 11 antes de aprobar materiales finales que los utilicen.
 
-## 13. Único próximo movimiento
+## 14. Único próximo movimiento
 
-**Validación humana de la Especificación OVAt-H1 v0.1 CANDIDATA.**
+**Validación humana de Bienvenida H1 v0.1 CANDIDATA.**
