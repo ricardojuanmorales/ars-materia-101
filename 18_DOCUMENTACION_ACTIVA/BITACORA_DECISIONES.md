@@ -15,6 +15,7 @@
 | 2026-09-07 | D-011 | ChatGPT Project se titulará Ars Materia 101 y será centro operativo | Continuidad y contexto | Control maestro | APROBADO |
 | 2026-09-07 | D-012 | GitHub `ricardojuanmorales/ars-materia-101` será fuente de verdad | Trazabilidad/versionado | Todo el proyecto | APROBADO |
 | 2026-09-07 | D-013 | FEHE-H1 será caso de aceptación antes de propagar H2-H10 | Reducir riesgo metodológico | FEHE | APROBADO |
+| 2026-09-08 | D-014 | Completar H1 como sistema integral antes de extraer patrón FEHE o propagar H2-H10 | Resolver contradicción documental y usar H1 como piloto completo FEHE→OVAt→Moodle/QA→Gate integral | Estado Maestro, Mapa de Ruta, Gate FEHE-H1, protocolo operativo | APROBADO |
 
 ## Regla de mantenimiento
 Añadir una fila sólo cuando exista una decisión humana o un cambio rector. Las discusiones exploratorias no se registran como decisiones.
