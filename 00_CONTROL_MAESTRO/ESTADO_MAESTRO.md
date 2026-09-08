@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 1.4  
+**Versión:** 1.5  
 **Fecha:** 2026-09-08  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -18,7 +18,8 @@ La estructura documental se alinea con la taxonomía completa del Framework. Las
 2. **FEHE-H1 profunda v1.0** evaluada mediante Gate humano y aprobada para el piloto integral H1.
 3. Contradicción de flujo patrón/propagación resuelta mediante **D-014**: primero H1 como sistema completo, después extracción eventual del patrón.
 4. **Gate FEHE-H1 cerrado con GO** mediante **D-015**.
-5. Queda formalmente autorizado abrir la **Especificación OVAt-H1 CANDIDATA**; producción OVAt todavía no iniciada.
+5. **Especificación OVAt-H1 v0.1 CANDIDATA** producida y auditada antes de producir materiales finales.
+6. **Gate Especificación OVAt-H1** abierto para validación humana.
 
 ## 3. Últimos gates y autoridades aprobadas
 
@@ -65,50 +66,64 @@ Estado interno vigente: **APROBADA PARA PILOTO INTEGRAL H1**.
 
 Nota de deuda documental: el nombre físico conserva el sufijo `_CANDIDATA` aunque el contenido y estado ya fueron promovidos mediante D-015. Debe resolverse mediante renombrado seguro sin duplicar verdades vivas.
 
-La FEHE aprobada integra:
-- cuatro lentes FEHE;
-- evidencia, interpretación y grados de certeza;
-- auditoría anti-presentismo;
-- epistemología del arte;
-- ciencia contemporánea sin anacronismo;
-- caso principal Blombos Cave y caso comparativo Apollo 11 Cave;
-- HEREDA→TRANSFORMA→INTRODUCE→PROYECTA;
-- conexión controlada con PROEMA;
-- especificación de transferencia futura a OVAt;
-- DUA/carga cognitiva macro;
-- fuentes, riesgos y agenda pendiente.
+## 7. Producto OVAt-H1 activo
 
-## 7. Gate activo
+`19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H1/CIFI4074_OVAt_H1_Especificacion_v0.1_CANDIDATA.md`
 
-**Gate FEHE-H1: CERRADO CON GO.**
+Estado: **CANDIDATA PARA VALIDACIÓN HUMANA**.
 
-Siguiente Gate de diseño:
+La especificación define:
+- carga objetivo H1 de 75–100 min;
+- seis bloques funcionales + regla de no crear FD1 en H1;
+- Blombos como caso rector y Apollo 11 como contraste/transferencia;
+- alto andamiaje y DUA anticipatoria;
+- Ficha breve de evidencia material como único producto persistente y reusable;
+- ausencia de nueva calificación independiente;
+- profundidad científica acotada para no adelantar H2/H8;
+- IA no obligatoria;
+- arquitectura Moodle mínima viable;
+- auditoría FEHE→Rector→Tabla V2.0→OVAt;
+- trazabilidad de fuentes y procedencia pendiente de curaduría visual final.
 
-**Especificación OVAt-H1 CANDIDATA → validación humana.**
+## 8. Gate activo
 
-No producir masivamente OVAt-H1 antes de validar la especificación.
+**Gate Especificación OVAt-H1: ABIERTO.**
 
-## 8. Próxima secuencia autorizada
+Producto evaluable:
 
-`abrir Especificación OVAt-H1 CANDIDATA → auditoría previa → validación humana → producción secuencial OVAt-H1 → preparación/montaje Moodle → QA → auditoría inversa → Gate integral H1`
+`19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H1/CIFI4074_OVAt_H1_Especificacion_v0.1_CANDIDATA.md`
+
+Opciones humanas:
+- GO
+- GO CON CONDICIONES
+- NO-GO
+
+No producir componentes finales OVAt-H1 antes de cerrar este Gate.
+
+## 9. Próxima secuencia autorizable
+
+Si la Especificación OVAt-H1 obtiene GO:
+
+`registrar Gate → producir Bloque 1 Bienvenida → verificar → Bloque 2 Presentación → Lectura → Caso → Transferencia → Cierre → paquete/matriz Moodle → montaje/QA → auditoría inversa → Gate integral H1`
 
 Sólo después del Gate integral H1 podrá extraerse el patrón FEHE transferible y evaluarse la propagación H2-H10.
 
-## 9. Estado de implementación
+## 10. Estado de implementación
 
 - FEHE-H1: APROBADA PARA PILOTO INTEGRAL H1.
-- Especificación OVAt-H1: AUTORIZADA PARA INICIO, todavía no producida.
-- OVAt-H1: NO INICIADO.
+- Especificación OVAt-H1: CANDIDATA PARA VALIDACIÓN HUMANA.
+- Gate Especificación OVAt-H1: ABIERTO.
+- OVAt-H1 materiales finales: NO INICIADOS.
 - Moodle H1: NO MONTADO.
 - QA H1: NO INICIADO.
 - Gate integral H1: PENDIENTE.
 - H2-H10: NO PROPAGADAS.
 
-## 10. No hacer todavía
+## 11. No hacer todavía
 
 - No extraer patrón FEHE transferible.
 - No propagar H2-H10.
-- No producir componentes OVAt-H1 antes de validar su especificación.
+- No producir componentes finales OVAt-H1 antes de validar su especificación.
 - No crear FD1 en H1; corresponde al nodo H1+H2 en H2.
 - No mezclar FD con PROEMA.
 - No rediseñar la ponderación 60/40.
@@ -116,12 +131,13 @@ Sólo después del Gate integral H1 podrá extraerse el patrón FEHE transferibl
 - No declarar Moodle montado sin evidencia real.
 - No reabrir la taxonomía del repositorio sin una contradicción funcional demostrable.
 
-## 11. Deuda documental abierta
+## 12. Deuda documental abierta
 
 1. Renombrar de forma segura el archivo FEHE-H1 para retirar `_CANDIDATA` sin duplicar verdad viva.
 2. Sincronizar metadatos internos del Documento Rector v0.9 y Protocolo v0.1 para que reflejen sus estados aprobados ya establecidos por Estado Maestro.
 3. Verificar que referencias internas al antiguo flujo patrón→H2-H10 hayan quedado subordinadas a D-014.
+4. Curar y verificar recursos visuales/licencias/procedencia para Blombos y Apollo 11 antes de aprobar materiales finales que los utilicen.
 
-## 12. Único próximo movimiento
+## 13. Único próximo movimiento
 
-**Construir la Especificación OVAt-H1 CANDIDATA, sin producir todavía los materiales OVAt.**
+**Validación humana de la Especificación OVAt-H1 v0.1 CANDIDATA.**
