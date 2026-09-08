@@ -1,9 +1,9 @@
 # CIFI 4074 · Ars Materia
-# FEHE-H1 profunda v1.0 CANDIDATA
+# FEHE-H1 profunda v1.0 APROBADA
 ## H1 · Materia, tierra y fuego: los primeros materiales del arte
 
 **Fecha:** 8 de septiembre de 2026  
-**Estado:** CANDIDATA PARA VALIDACIÓN HUMANA  
+**Estado:** APROBADA PARA PILOTO INTEGRAL H1  
 **Función:** ficha estratégico-investigativa histórico-epistemológica y especificación de diseño para H1  
 **Autoridad:** subordinada al prontuario institucional, decisiones humanas aprobadas, Tabla de Alineación V2.0 y Documento Rector vigente  
 **No es todavía:** OVAt, presentación, lectura, actividad Moodle ni patrón aprobado para H2-H10
@@ -604,7 +604,7 @@ Ninguno de estos pendientes impide evaluar la arquitectura FEHE-H1.
 
 ---
 
-# 17. Riesgos que debe vigilar el Gate
+# 17. Riesgos que debe vigilar el piloto integral H1
 
 1. **Sobreextensión del término arte:** riesgo de llamar “arte” a toda materia pigmentaria procesada.
 2. **Anacronismo químico:** riesgo de atribuir categorías actuales a productores tempranos.
@@ -618,7 +618,7 @@ Ninguno de estos pendientes impide evaluar la arquitectura FEHE-H1.
 
 # 18. Criterios de aceptación de H1
 
-Esta candidata puede aprobarse como patrón sólo si el humano responsable considera que:
+FEHE-H1 fue evaluada humanamente y obtuvo **GO** el 8 de septiembre de 2026 porque:
 
 - la identidad H1 es suficientemente clara y distinta de H2;
 - las cuatro lentes convergen sobre el mismo problema material;
@@ -630,16 +630,28 @@ Esta candidata puede aprobarse como patrón sólo si el humano responsable consi
 - el puente H1→H2 es visible;
 - la futura transferencia a OVAt está especificada sin adelantar microdiseño;
 - la carga conceptual parece sostenible para una primera H;
-- las fuentes son suficientes para congelar el patrón metodológico.
+- las fuentes son suficientes para abrir el piloto integral H1.
+
+La aprobación de esta FEHE **no congela todavía un patrón metodológico transferible a H2-H10**. Ese patrón sólo podrá extraerse después de completar OVAt-H1, preparación/montaje Moodle, QA, auditoría inversa y Gate integral H1.
 
 ---
 
-# 19. Propuesta de Gate humano
+# 19. Gate humano
 
-Opciones:
+**Resultado:** **GO**  
+**Fecha:** 8 de septiembre de 2026  
+**Decisión:** D-015  
+**Estado:** APROBADA PARA PILOTO INTEGRAL H1
 
-- **GO:** H1 se aprueba como patrón metodológico para propagar la arquitectura FEHE a H2-H10, manteniendo asimetría disciplinaria.
-- **GO CON CONDICIONES:** aprobar estructura con correcciones puntuales antes de propagación.
-- **NO-GO:** revisar arquitectura H1 antes de producir H2.
+El GO autoriza:
 
-**Hasta decisión humana, este documento permanece CANDIDATO y no autoriza propagación.**
+- cerrar el Gate FEHE-H1;
+- abrir formalmente la **Especificación OVAt-H1 CANDIDATA**;
+- continuar el piloto integral H1 hasta montaje/QA y auditoría inversa.
+
+El GO no autoriza:
+
+- extraer todavía el patrón FEHE transferible;
+- propagar H2-H10;
+- declarar OVAt-H1 aprobado antes de su propio proceso de validación;
+- declarar Moodle montado sin evidencia real.
