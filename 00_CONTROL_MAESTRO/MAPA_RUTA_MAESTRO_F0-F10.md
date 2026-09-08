@@ -1,8 +1,8 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 1.0  
+**Versión:** 1.1  
 **Estado:** ACTIVO  
-**Fecha:** 2026-09-07  
+**Fecha:** 2026-09-08  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
 **Fuente de verdad:** GitHub `main`
 
@@ -55,13 +55,18 @@ Debe permitir responder rápidamente:
 ```text
 Documento Rector aprobado
 → FEHE-H1 profunda CANDIDATA
-→ Gate humano H1
-→ patrón FEHE validado
-→ propagación H2-H10
-→ FEHE → OVAt → Moodle
+→ Gate humano FEHE-H1
+→ especificación y producción OVAt-H1
+→ preparación/montaje Moodle
+→ QA + auditoría inversa
+→ Gate integral H1
+→ extracción del patrón FEHE transferible
+→ evaluación humana para posible propagación H2-H10
 ```
 
 No se reinicia artificialmente el proyecto desde F0. Las funciones F0-F3 se mantienen como gobernanza y herencias activas mientras el piloto avanza de forma express.
+
+**Regla vigente del piloto:** aprobar FEHE-H1 no convierte todavía H1 en patrón ni autoriza propagación H2-H10. Primero debe comprobarse H1 como sistema integral.
 
 ## 5. Carril metodológico y de trazabilidad
 
@@ -94,6 +99,6 @@ No documentar por ceremonia detalles reversibles sin efecto sistémico.
 
 ## 7. Próximo Gate
 
-**FEHE-H1 profunda candidata → validación humana → aprobación o revisión.**
+**FEHE-H1 profunda candidata → validación humana → aprobación, aprobación condicionada o revisión.**
 
-Sólo después puede propagarse H2-H10.
+Un GO FEHE-H1 autoriza abrir el piloto OVAt-H1; no autoriza todavía extraer patrón ni propagar H2-H10. Esa posibilidad sólo se evalúa después del Gate integral H1.
