@@ -22,6 +22,13 @@
 - fuentes verificables.
 
 ## Salida
-**GO:** aprobar H1 como patrón y propagar metodología.  
-**GO CON CONDICIONES:** corregir puntos específicos.  
-**NO-GO:** revisar arquitectura antes de propagar.
+**GO:** aprobar FEHE-H1 para abrir especificación y piloto OVAt-H1. No convierte todavía H1 en patrón ni autoriza propagación H2-H10.  
+**GO CON CONDICIONES:** corregir y verificar puntos específicos antes de cerrar el Gate y abrir OVAt-H1.  
+**NO-GO:** revisar FEHE-H1 y, si el problema es estructural, escalar a arquitectura antes de continuar.
+
+## Regla posterior al Gate FEHE-H1
+Tras un GO, H1 debe comprobarse como sistema integral:
+
+`FEHE-H1 → OVAt-H1 → preparación/montaje Moodle → QA → auditoría inversa → Gate integral H1`
+
+Sólo después del Gate integral H1 podrá extraerse el patrón FEHE transferible y evaluarse humanamente la propagación H2-H10.
