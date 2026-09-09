@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 1.9  
+**Versión:** 2.0  
 **Fecha:** 2026-09-08  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -8,7 +8,7 @@
 
 ## 1. Posición del proyecto
 
-**H1 APROBADO COMO MODELO OPERATIVO mediante Gate Integral H1 con GO humano. Fase activa: extracción del Patrón OVAt-H transferible v1.0 y posterior prueba de transferencia en H2.**
+**H1 APROBADO COMO MODELO OPERATIVO. Patrón OVAt-H transferible v1.0 extraído como CANDIDATO. Fase activa: prueba de transferencia en H2 comenzando por FEHE-H2 profunda.**
 
 Framework Genérico V4.1.0 permanece activo de forma integral y proporcional. H3-H10 no se propagan todavía.
 
@@ -17,14 +17,13 @@ Framework Genérico V4.1.0 permanece activo de forma integral y proporcional. H3
 1. Refactorización Canónica Express v1.0 ejecutada.
 2. FEHE-H1 profunda v1.0 aprobada mediante D-015.
 3. Especificación OVAt-H1 v0.1 aprobada mediante D-016.
-4. H1 producido y montado secuencialmente en Moodle.
-5. Bloque 3 consolidado mediante D-017 como una sola actividad central: Blombos + Guía + Ficha integrada + transferencia breve Apollo 11.
-6. D-018 reconoció H1 completo como MONTADO y abrió Validación Integral H1.
-7. D-019 reconoció recorrido situado de H1 en Moodle como completado con éxito y cerró QA.
-8. Auditoría Inversa H1 v1.0 completada sin hallazgos críticos o mayores documentados.
-9. **D-020: GO al Gate Integral H1. H1 queda APROBADO COMO MODELO OPERATIVO.**
-10. Queda autorizado extraer invariantes, campos condicionales y particularidades y producir Patrón OVAt-H transferible v1.0.
-11. H2 queda autorizado únicamente como prueba de transferencia del patrón; H3-H10 permanecen no propagadas.
+4. H1 producido, montado, recorrido y auditado integralmente.
+5. D-017 consolidó Bloque 3 como una sola actividad central: Blombos + Guía + Ficha integrada + transferencia breve Apollo 11.
+6. D-018 abrió Validación Integral H1.
+7. D-019 cerró QA situado con éxito según recorrido humano.
+8. D-020 cerró Gate Integral H1 con GO y declaró H1 APROBADO COMO MODELO OPERATIVO.
+9. D-021 extrae Patrón OVAt-H transferible v1.0 como CANDIDATO PARA PRUEBA H2.
+10. H2 queda autorizado únicamente como prueba de transferencia del patrón; H3-H10 permanecen no propagadas.
 
 ## 3. Decisiones rectoras vigentes
 
@@ -34,14 +33,12 @@ Framework Genérico V4.1.0 permanece activo de forma integral y proporcional. H3
 - Cuatro lentes: histórico-cultural, material-científica, epistemológica, patrimonial-contemporánea.
 - Clase y PROEMA se integran sin confundirse.
 - Evaluación prototipo: 60 % Clase / 40 % Investigación.
-- H1 carga objetivo: 75–100 min; validar empíricamente con estudiantes durante implementación.
-- H1 usa una sola Ficha breve persistente y formativa.
-- Blombos = caso rector; Apollo 11 = transferencia breve integrada.
-- FD1 no existe en H1; corresponde al nodo H1+H2 en H2.
-- IA no obligatoria y cualquier imagen generada funciona sólo como mediación conceptual.
-- No crear tareas nuevas cuando la evidencia ya puede reutilizarse.
-- El patrón se extrae de H1 validado; no se copia mecánicamente el contenido de H1.
-- H2 debe probar el patrón antes de autorizar propagación H3-H10.
+- Una función pedagógica requiere evidencia adecuada, no una tarea nueva.
+- El patrón transfiere funciones, no superficies, formatos ni contenidos de H1.
+- Una evidencia reusable debe viajar entre actividad, transferencia, cierre y nodos longitudinales cuando corresponda.
+- REC: necesidad pedagógica → estrategia → evidencia → herramienta mínima.
+- QA situado y auditoría inversa son obligatorios antes de aprobar una H como sistema.
+- H2 debe validar el patrón antes de autorizar propagación H3-H10.
 
 ## 4. Estado de H1
 
@@ -50,8 +47,8 @@ Framework Genérico V4.1.0 permanece activo de forma integral y proporcional. H3
 - Lectura oficial FEHE H1: **VERIFICADA**.
 - Actividad central Blombos: **VERIFICADA**.
 - Guía de Estudio Independiente: **VERIFICADA**.
-- Ficha breve de evidencia material: **INTEGRADA y VERIFICADA dentro de la Guía**.
-- Transferencia Apollo 11: **INTEGRADA y VERIFICADA dentro de la misma Guía**.
+- Ficha breve: **INTEGRADA y VERIFICADA**.
+- Transferencia Apollo 11: **INTEGRADA y VERIFICADA**.
 - Cierre H1: **VERIFICADO**.
 - Moodle H1: **VERIFICADO POR RECORRIDO HUMANO**.
 - QA H1: **COMPLETADO CON ÉXITO**.
@@ -59,52 +56,67 @@ Framework Genérico V4.1.0 permanece activo de forma integral y proporcional. H3
 - Gate Integral H1: **CERRADO · GO**.
 - Estado global H1: **APROBADO COMO MODELO OPERATIVO**.
 
-## 5. Cadena pedagógica H1 validada
+## 5. Patrón OVAt-H transferible v1.0
 
-`Bienvenida + microdecisión → Presentación FEHE → Lectura → Blombos → Ficha integrada → contraste Apollo 11 → Cierre + recuperación de decisión`
+Ruta canónica:
 
-Producto persistente único:
+`03_METODOLOGIA_Y_FLUJO_DE_TRABAJO/PROTOCOLOS/PATRON_OVAT_H_TRANSFERIBLE_v1.0_CANDIDATO.md`
 
-`Ficha breve de evidencia material H1`
+Estado:
 
-La Ficha no se separa como tarea independiente y Apollo 11 no abre una segunda actividad.
+**CANDIDATO PARA PRUEBA DE TRANSFERENCIA EN H2**.
 
-## 6. Validación Integral H1 cerrada
+El patrón separa:
 
-Documentos:
+1. **INVARIANTES:** pregunta rectora auténtica; movimiento longitudinal; FEHE como arquitectura; distinción epistemológica; columna vertebral narrativa; evidencia reusable; economía de tareas; cierre con recuperación; QA situado.
+2. **CAMPOS CONDICIONALES:** número de bloques, caso rector, contraste, microdecisión, tipo de producto reusable, FD, PROEMA, profundidad científico-material, andamiaje, herramienta Moodle y recursos visuales.
+3. **PARTICULARIDADES DE H1:** Blombos, Apollo 11, ocre, Ficha exacta, microdecisión A/B/C, 26 diapositivas, lectura de 10 páginas, Guía de 8 páginas y carga 75–100 min como valor específico de H1, no universal.
 
-- `18_DOCUMENTACION_ACTIVA/PROTOCOLO_VALIDACION_INTEGRAL_H1_v1.0.md`
-- `18_DOCUMENTACION_ACTIVA/AUDITORIA_INVERSA_H1_v1.0.md`
-- `18_DOCUMENTACION_ACTIVA/GATE_INTEGRAL_H1.md`
+Arquitectura funcional extraída:
 
-Secuencia completada:
+`F1 Apertura → F2 Marco FEHE → F3 Profundización → F4 Actividad central → F5 Transferencia/reuso → F6 Cierre longitudinal`
 
-`H1 MONTADO → QA Moodle ✓ → auditoría inversa ✓ → Gate Integral H1 GO ✓`
+Las funciones no obligan a seis objetos Moodle separados.
 
-## 7. Resultado de aceptación
+## 6. Regla anti-copia
 
-- Recorrido real en Moodle: completado con éxito según reporte humano.
-- Hallazgos CRÍTICOS reportados: 0.
-- Hallazgos MAYORES reportados: 0.
-- Una sola actividad central: confirmada.
-- Una sola Ficha persistente: confirmada.
-- Apollo 11 integrado como transferencia breve: confirmado.
-- Cierre sin nueva tarea: confirmado.
-- Disciplina epistemológica: preservada.
-- Carga 75–100 min: plausible; observar durante implementación real con estudiantes.
-- Resultado del Gate: **GO**.
+La prueba H2 debe demostrar transferencia real.
 
-## 8. Fase activa: extracción de patrón
+No copiar:
 
-El GO autoriza:
+- número de páginas/diapositivas;
+- estructura visual exacta;
+- Ficha H1 sin adaptación;
+- casos H1;
+- secuencia verbal específica de H1;
+- andamiaje alto por costumbre.
 
-1. separar **invariantes** del modelo validado;
-2. identificar **campos condicionales** activados según la H;
-3. distinguir **particularidades de H1** que no deben propagarse;
-4. producir **Patrón OVAt-H transferible v1.0**;
-5. aplicar el patrón a **H2 como prueba de transferencia**.
+Sí preservar:
 
-No se autoriza todavía propagación automática H3-H10.
+- función;
+- trazabilidad FEHE→OVAt;
+- evidencia reusable;
+- economía de tareas;
+- distinción epistemológica;
+- continuidad longitudinal;
+- QA y Gate.
+
+## 7. Prueba de transferencia H2
+
+H2 debe mostrar que:
+
+1. deriva de FEHE-H2 profunda;
+2. conserva F1–F6 sin clonar H1;
+3. usa un producto reusable pertinente a H2;
+4. integra FD1 porque corresponde al nodo H1+H2;
+5. reutiliza evidencia previa cuando proceda;
+6. ajusta carga, andamiaje y profundidad científica a H2;
+7. supera montaje, QA y auditoría inversa;
+8. permite clasificar el patrón como VALIDADO / VALIDADO CON AJUSTES / NO VALIDADO.
+
+## 8. Secuencia activa
+
+`FEHE-H2 profunda → Gate FEHE-H2 → Especificación OVAt-H2 usando patrón → producción secuencial → montaje Moodle → QA → auditoría inversa → Gate H2 → decisión sobre validación del patrón → eventual propagación H3-H10`
 
 ## 9. Deuda documental abierta
 
@@ -114,16 +126,17 @@ No se autoriza todavía propagación automática H3-H10.
 4. Curar/verificar procedencia y licencias de imágenes documentales de Blombos/Apollo 11 si se incorporan como evidencia visual.
 5. Incorporar al repositorio los artefactos finales de H1 que actualmente existen en Moodle/local si corresponde a la política documental.
 
-Estas deudas no bloquean la extracción del patrón, salvo que revelen contradicción funcional.
+Estas deudas no bloquean la prueba H2 salvo contradicción funcional.
 
 ## 10. No hacer todavía
 
 - No propagar H3-H10.
-- No copiar contenido específico de H1 como si fuera estructura transferible.
-- No abrir FD1 fuera de su nodo H1+H2 en H2.
-- No convertir deuda documental en rediseño pedagógico salvo contradicción funcional.
-- No declarar el patrón validado hasta probarlo en H2.
+- No declarar el patrón VALIDADO antes de completar H2.
+- No copiar H1 como plantilla superficial.
+- No crear tareas nuevas si una evidencia reusable puede resolver la función.
+- No abrir FD1 fuera de H2.
+- No usar herramientas Moodle por novedad tecnológica.
 
 ## 11. Único próximo movimiento
 
-**Extraer y documentar el Patrón OVAt-H transferible v1.0 a partir del H1 validado.**
+**Producir FEHE-H2 profunda usando el Patrón OVAt-H v1.0 como marco de control, no como contenido a rellenar.**
