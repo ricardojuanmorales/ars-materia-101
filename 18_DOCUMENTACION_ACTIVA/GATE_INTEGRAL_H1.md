@@ -1,7 +1,9 @@
 # GATE INTEGRAL H1 — Ars Materia 101
 
 **Fecha de apertura:** 2026-09-08  
-**Estado:** LISTO PARA DECISIÓN HUMANA  
+**Fecha de cierre:** 2026-09-08  
+**Estado:** CERRADO · GO  
+**Decisión humana:** D-020  
 **Producto evaluado:** H1 completo como sistema FEHE→OVAt→Moodle
 
 ## Prerrequisitos
@@ -24,7 +26,7 @@
 - Auditoría inversa: COMPLETADA.
 - Hallazgos CRÍTICOS reportados: 0.
 - Hallazgos MAYORES reportados: 0.
-- Decisión humana final: PENDIENTE.
+- Decisión humana final: **GO**.
 
 ## Criterios de Gate
 
@@ -39,25 +41,29 @@
 9. Fuentes, procedencia y uso de IA correctamente declarados: CUMPLE, con deuda documental no bloqueante para futuras imágenes documentales.
 10. Continuidad H1→H2 clara sin desarrollar todavía H2: CUMPLE.
 
-## Opciones de decisión
-
-- GO
-- GO CON CONDICIONES
-- NO-GO
-
-## Recomendación de auditoría
+## Decisión
 
 **GO**
 
-La recomendación no sustituye la decisión humana final.
+H1 queda **APROBADO COMO MODELO OPERATIVO**.
 
 ## Efecto del GO
 
-Un GO autoriza:
+El GO autoriza:
 
 1. declarar H1 APROBADO COMO MODELO OPERATIVO;
 2. extraer invariantes, campos condicionales y particularidades de H1;
 3. producir Patrón OVAt-H transferible v1.0;
 4. aplicar el patrón a H2 como prueba de transferencia.
 
-No autoriza propagación automática H3-H10.
+No autoriza propagación automática H3-H10. H2 debe funcionar primero como prueba de transferencia del patrón.
+
+## Deuda no bloqueante
+
+- Validar carga real 75–100 min con estudiantes durante implementación.
+- Resolver deuda documental de nombres/estados físicos heredados.
+- Curar procedencia/licencias de imágenes documentales si se incorporan como evidencia visual.
+
+## Siguiente movimiento autorizado
+
+**Extracción del Patrón OVAt-H transferible v1.0 a partir del H1 validado.**
