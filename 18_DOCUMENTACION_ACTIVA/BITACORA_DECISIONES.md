@@ -20,6 +20,7 @@
 | 2026-09-08 | D-016 | GO a Especificación OVAt-H1 v0.1 | Aprueba carga objetivo, Ficha breve reusable/formativa, Apollo 11 como transferencia, profundidad química acotada, IA no obligatoria y Moodle mínimo viable; autoriza producir únicamente Bienvenida H1 antes de abrir Presentación | Especificación OVAt-H1, Gate OVAt-H1, Estado Maestro, Bienvenida H1 | APROBADO |
 | 2026-09-08 | D-017 | Consolidar Bloque 3 como una sola actividad central: Blombos + Guía + Ficha integrada + transferencia breve Apollo 11 | Evitar tareas paralelas, preservar evidencia reusable y carga cognitiva prevista | Guía H1, actividad central, cierre, OVAt-H1 | APROBADO |
 | 2026-09-08 | D-018 | Reconocer H1 completo como MONTADO según reporte humano y abrir Validación Integral H1 | Cambiar de producción a validación del sistema completo antes de extraer patrón | Estado Maestro, Protocolo de Validación Integral H1, Gate Integral H1 | APROBADO |
+| 2026-09-08 | D-019 | Reconocer recorrido situado de H1 en Moodle como completado con éxito y pasar el Gate Integral a decisión humana | El docente recorrió H1 completo como estudiante sin reportar incidencias críticas o mayores; se completa auditoría inversa y se cierra fase QA | Estado Maestro, Auditoría Inversa H1, Gate Integral H1 | APROBADO |
 
 ## Regla de mantenimiento
 Añadir una fila sólo cuando exista una decisión humana o un cambio rector. Las discusiones exploratorias no se registran como decisiones.
