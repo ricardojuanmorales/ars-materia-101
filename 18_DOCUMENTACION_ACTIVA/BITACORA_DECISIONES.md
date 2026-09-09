@@ -22,6 +22,7 @@
 | 2026-09-08 | D-018 | Reconocer H1 completo como MONTADO según reporte humano y abrir Validación Integral H1 | Cambiar de producción a validación del sistema completo antes de extraer patrón | Estado Maestro, Protocolo de Validación Integral H1, Gate Integral H1 | APROBADO |
 | 2026-09-08 | D-019 | Reconocer recorrido situado de H1 en Moodle como completado con éxito y pasar el Gate Integral a decisión humana | El docente recorrió H1 completo como estudiante sin reportar incidencias críticas o mayores; se completa auditoría inversa y se cierra fase QA | Estado Maestro, Auditoría Inversa H1, Gate Integral H1 | APROBADO |
 | 2026-09-08 | D-020 | GO al Gate Integral H1; H1 queda APROBADO COMO MODELO OPERATIVO | El sistema FEHE→OVAt→Moodle fue montado, recorrido, auditado y validado sin hallazgos críticos o mayores; autoriza extraer patrón transferible y probarlo en H2 | Gate Integral H1, Estado Maestro, patrón OVAt-H, H2 | APROBADO |
+| 2026-09-08 | D-021 | Extraer Patrón OVAt-H transferible v1.0 como CANDIDATO y usar H2 como prueba de transferencia | Separar invariantes, campos condicionales y particularidades de H1 sin copiar contenido; H2 validará si el patrón realmente transfiere | Patrón OVAt-H v1.0, Estado Maestro, FEHE-H2 futura | APROBADO |
 
 ## Regla de mantenimiento
 Añadir una fila sólo cuando exista una decisión humana o un cambio rector. Las discusiones exploratorias no se registran como decisiones.
