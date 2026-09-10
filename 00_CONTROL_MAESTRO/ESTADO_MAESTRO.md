@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 2.1  
+**Versión:** 2.2  
 **Fecha:** 2026-09-10  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -8,7 +8,7 @@
 
 ## 1. Posición del proyecto
 
-**H1 APROBADO COMO MODELO OPERATIVO. Patrón OVAt-H transferible v1.0 permanece CANDIDATO. FEHE-H2 profunda v1.0 recibió GO CON CONDICIONES mediante D-022. Fase activa: Gate de Especificación OVAt-H2 v0.1 CANDIDATA.**
+**H1 APROBADO COMO MODELO OPERATIVO. Patrón OVAt-H transferible v1.0 permanece CANDIDATO. FEHE-H2 profunda v1.0 recibió GO CON CONDICIONES mediante D-022. Especificación OVAt-H2 v0.1 recibió GO CON CONDICIONES mediante D-023. Fase activa: producción secuencial H2 comenzando por F1 · Bienvenida H2.**
 
 Framework Genérico V4.1.0 permanece activo de forma integral y proporcional. H3-H10 no se propagan todavía.
 
@@ -18,12 +18,12 @@ Framework Genérico V4.1.0 permanece activo de forma integral y proporcional. H3
 2. FEHE-H1 profunda v1.0 aprobada mediante D-015.
 3. Especificación OVAt-H1 v0.1 aprobada mediante D-016.
 4. H1 producido, montado, recorrido y auditado integralmente.
-5. D-017 consolidó Bloque 3 como una sola actividad central.
-6. D-020 cerró Gate Integral H1 con GO y declaró H1 APROBADO COMO MODELO OPERATIVO.
-7. D-021 extrajo Patrón OVAt-H transferible v1.0 como CANDIDATO PARA PRUEBA H2.
-8. FEHE-H2 profunda v1.0 fue investigada y auditada.
-9. D-022 cerró Gate FEHE-H2 con **GO CON CONDICIONES**.
-10. Especificación OVAt-H2 v0.1 fue producida como **CANDIDATA PARA GATE HUMANO**.
+5. D-020 cerró Gate Integral H1 con GO y declaró H1 APROBADO COMO MODELO OPERATIVO.
+6. D-021 extrajo Patrón OVAt-H transferible v1.0 como CANDIDATO PARA PRUEBA H2.
+7. FEHE-H2 profunda v1.0 fue investigada y auditada.
+8. D-022 cerró Gate FEHE-H2 con GO CON CONDICIONES.
+9. Especificación OVAt-H2 v0.1 fue producida y sometida a Gate humano.
+10. D-023 cerró Gate OVAt-H2 con GO CON CONDICIONES y autorizó producción secuencial H2.
 11. H3-H10 permanecen no propagadas.
 
 ## 3. Decisiones rectoras vigentes
@@ -98,11 +98,15 @@ Ruta:
 
 `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H2/CIFI4074_OVAt_H2_Especificacion_v0.1_CANDIDATA.md`
 
+Gate:
+
+`18_DOCUMENTACION_ACTIVA/GATE_OVAT_H2.md`
+
 Estado:
 
-**CANDIDATA PARA GATE HUMANO.**
+**APROBADA CON CONDICIONES · D-023.**
 
-Decisiones de diseño propuestas:
+Arquitectura autorizada:
 
 - seis componentes visibles por simetría de familia OVAt;
 - F1 Bienvenida;
@@ -111,12 +115,22 @@ Decisiones de diseño propuestas:
 - F4 Actividad central con RTM-H2;
 - F5 distribuida entre transferencia integrada y FD1;
 - F6 Cierre longitudinal;
-- caso rector recomendado: Vinča/Belovode;
+- caso rector: Vinča/Belovode salvo obstáculo documental real;
 - contrastes: Dolní Věstonice y vidrio del Bronce Tardío, usados selectivamente;
 - producto reusable: Registro de Transformación Material H2 (RTM-H2);
 - andamiaje medio-alto;
-- carga asíncrona preliminar 70–90 min más participación FD1 contabilizada dentro de la experiencia semanal;
-- no producción hasta Gate OVAt-H2.
+- carga asíncrona preliminar 70–90 min con FD1 contabilizado dentro de la experiencia semanal.
+
+Condiciones vinculantes D-023:
+
+1. producir componentes secuencialmente y verificar cada uno antes de abrir el siguiente;
+2. mantener Vinča/Belovode como caso rector salvo obstáculo documental real;
+3. mantener Dolní Věstonice y vidrio como contrastes, no como módulos equivalentes;
+4. no aumentar profundidad científica fuera de FEHE-H2;
+5. cerrar procedencia/licencias de imágenes antes de insertar evidencia documental final;
+6. validar durante producción que RTM-H2 sea manejable y realmente reusable en FD1;
+7. contabilizar carga de FD1 dentro del QA semanal;
+8. preservar los seis componentes OVAt visibles aunque algunas funciones compartan superficie técnica interna.
 
 ## 8. Regla anti-copia refinada
 
@@ -156,27 +170,31 @@ H2 debe demostrar integralmente que:
 
 ## 10. Secuencia activa
 
-`Gate OVAt-H2 → decisión humana → producción secuencial H2 → montaje Moodle → QA situado → auditoría inversa → Gate H2 → decisión sobre validación del Patrón → eventual propagación H3-H10`
+`producción secuencial H2 → montaje Moodle → QA situado → auditoría inversa → Gate H2 → decisión sobre validación del Patrón → eventual propagación H3-H10`
+
+La producción comienza por **F1 · Bienvenida H2**. Cada componente debe verificarse antes de abrir el siguiente, según D-023.
 
 ## 11. Deuda documental abierta
 
 1. Renombrar de forma segura FEHE-H1 para retirar `_CANDIDATA` sin duplicar verdad viva.
 2. Sincronizar metadatos internos del Documento Rector y Protocolo vigentes.
 3. Sincronizar nombre/estado interno de Especificación OVAt-H1 con D-016.
-4. Curar/verificar procedencia y licencias de imágenes documentales H2 antes de producción.
-5. Evaluar incorporación al repositorio de artefactos finales H1 actualmente en Moodle/local.
+4. Sincronizar nombre/estado físico de Especificación OVAt-H2 con D-023 sin duplicar verdad viva.
+5. Curar/verificar procedencia y licencias de imágenes documentales H2 antes de inserción final.
+6. Evaluar incorporación al repositorio de artefactos finales H1 actualmente en Moodle/local.
 
-Estas deudas no bloquean el Gate OVAt-H2 salvo contradicción funcional nueva.
+Estas deudas no bloquean la producción secuencial H2 salvo contradicción funcional nueva.
 
 ## 12. No hacer todavía
 
-- No producir materiales H2 antes del Gate OVAt-H2.
-- No montar Moodle H2.
+- No abrir F2 antes de verificar F1.
+- No montar Moodle H2 como sistema completo antes de completar producción secuencial.
 - No propagar H3-H10.
 - No declarar el patrón VALIDADO.
 - No convertir FD1 en investigación adicional.
 - No sacrificar componentes OVAt bajo pretexto de consolidación técnica.
+- No insertar evidencia visual documental sin procedencia/licencia cerrada.
 
 ## 13. Único próximo movimiento
 
-**Someter Especificación OVAt-H2 v0.1 CANDIDATA a Gate humano.**
+**Producir F1 · Bienvenida H2 conforme a Especificación OVAt-H2 aprobada con condiciones, verificarla y sólo entonces abrir F2.**
