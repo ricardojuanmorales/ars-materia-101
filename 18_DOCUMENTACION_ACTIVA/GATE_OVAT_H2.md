@@ -1,8 +1,9 @@
 # GATE OVAt-H2 — Ars Materia 101
 
 **Fecha:** 10 de septiembre de 2026  
-**Estado:** ABIERTO · PENDIENTE DE DECISIÓN HUMANA  
-**Objeto:** Especificación OVAt-H2 v0.1 CANDIDATA  
+**Estado:** CERRADO · GO CON CONDICIONES  
+**Objeto:** Especificación OVAt-H2 v0.1  
+**Decisión humana:** D-023
 
 ## 1. Propósito
 
@@ -36,9 +37,9 @@ Cerámica, metalurgia y vidrio quedan subordinados a transformación térmica / 
 
 ### D. Caso rector y contrastes
 
-**CUMPLE CON DECISIÓN PROPUESTA.**
+**CUMPLE CON DECISIÓN APROBADA.**
 
-- caso rector recomendado: Vinča/Belovode;
+- caso rector: Vinča/Belovode, salvo obstáculo documental real;
 - contraste temprano: Dolní Věstonice;
 - contraste de transferencia: vidrio del Bronce Tardío.
 
@@ -48,11 +49,11 @@ La profundidad se concentra en el caso rector; los contrastes prueban que el cri
 
 **CUMPLE.**
 
-Se propone Registro de Transformación Material H2 (RTM-H2):
+Registro de Transformación Material H2 (RTM-H2):
 
 `materia inicial → proceso → variables → cambio → propiedad → evidencia → control/conocimiento → certeza/límite`
 
-El RTM-H2 es funcionalmente distinto de la Ficha H1 y viaja por F4→F5→FD1→F6.
+El RTM-H2 es funcionalmente distinto de la Ficha H1 y debe viajar por F4→F5→FD1→F6.
 
 ### F. FD1
 
@@ -70,17 +71,13 @@ H2 puede aportar criterios y vocabulario, pero IT.1.C permanece separado y no se
 
 **CUMPLE.**
 
-Entra proceso-propiedad, sinterización, atmósfera, mineral/mena/metal, fundentes, material vítreo, porosidad y microestructura introductoria.
-
-Se reservan termodinámica formal, enlace sistemático, diagramas de fase cuantitativos, difusión avanzada, corrosión desarrollada e instrumentación sistemática.
+Entra proceso-propiedad, sinterización, atmósfera, mineral/mena/metal, fundentes, material vítreo, porosidad y microestructura introductoria. Se reservan termodinámica formal, enlace sistemático, diagramas de fase cuantitativos, difusión avanzada, corrosión desarrollada e instrumentación sistemática.
 
 ### I. Carga cognitiva
 
 **CUMPLE CON VIGILANCIA QA.**
 
 Carga asíncrona preliminar: 70–90 min. FD1 se contabiliza dentro de la experiencia semanal y no añade investigación externa.
-
-Riesgo principal: densidad conceptual de tres familias materiales. Mitigación: un caso rector + contrastes breves bajo una sola cadena conceptual.
 
 ### J. Andamiaje
 
@@ -96,9 +93,9 @@ Se exigen equivalentes textuales, no dependencia de color, vocabulario progresiv
 
 ### L. Procedencia visual
 
-**PENDIENTE CONTROLADO.**
+**PENDIENTE CONTROLADO Y VINCULANTE.**
 
-La curaduría de licencias/procedencia debe cerrarse antes de producir recursos visuales finales. No bloquea el Gate de especificación si permanece condición vinculante de producción.
+La curaduría de licencias/procedencia debe cerrarse antes de insertar evidencia documental final.
 
 ### M. IA responsable
 
@@ -110,9 +107,9 @@ IA limitada a mediación conceptual, nunca evidencia documental histórica/mater
 
 **CUMPLE.**
 
-La transferencia breve se integra con el RTM-H2; FD1 reutiliza evidencia; el cierre recupera productos previos. No aparecen tareas ornamentales.
+La transferencia breve se integra con el RTM-H2; FD1 reutiliza evidencia; el cierre recupera productos previos.
 
-## 3. Arquitectura Moodle propuesta
+## 3. Arquitectura Moodle aprobada para producción
 
 Seis componentes visibles por simetría de familia:
 
@@ -132,20 +129,20 @@ Esto preserva los mismos componentes reconocibles del OVAt sin convertir seis fu
 - campos caso, profundidad, andamiaje, FD, PROEMA y packaging: **CORRECTAMENTE CONDICIONALES**;
 - particularidades H1: **NO PROPAGADAS**.
 
-El Patrón continúa **CANDIDATO**. Este Gate no puede validarlo por sí solo.
+El Patrón continúa **CANDIDATO**. Este Gate no lo valida por sí solo.
 
 ## 5. Hallazgos
 
 - CRÍTICOS: 0.
 - MAYORES: 0 abiertos.
-- MENORES: procedencia/licencias visuales pendiente de curaduría antes de producción.
+- MENORES: procedencia/licencias visuales pendiente de curaduría antes de producción final.
 - DEUDA DOCUMENTAL: metadatos históricos del Rector/FEHE-H1/OVAt-H1 ya reconocidos en Estado Maestro.
 
-## 6. Recomendación técnica
+## 6. Decisión humana
 
-**GO CON CONDICIONES**.
+**GO CON CONDICIONES.**
 
-Condiciones recomendadas para producción:
+Condiciones vinculantes para producción:
 
 1. producir componentes secuencialmente y verificar cada uno antes de abrir el siguiente;
 2. mantener Vinča/Belovode como caso rector salvo que la curaduría documental revele un obstáculo real;
@@ -156,10 +153,13 @@ Condiciones recomendadas para producción:
 7. contabilizar carga de FD1 dentro del QA semanal;
 8. preservar los seis componentes OVAt visibles aunque algunas funciones compartan superficie técnica interna.
 
-## 7. Decisión humana requerida
+## 7. Alcance de la autorización
 
-- GO
-- GO CON CONDICIONES
-- NO-GO
+Este Gate autoriza **producción secuencial de H2** comenzando por F1 · Bienvenida H2.
 
-Sólo GO o GO CON CONDICIONES autoriza iniciar producción secuencial H2.
+No autoriza todavía:
+
+- montaje integral Moodle;
+- aprobación de H2 como sistema;
+- validación del Patrón OVAt-H v1.0;
+- propagación H3-H10.
