@@ -1,9 +1,9 @@
 # CIFI 4074 · Ars Materia
 # FD1 · Caso Ancla A
 ## Fundar un caso material H1+H2
-### v0.1 CANDIDATO
+### v0.2 CANDIDATO
 
-**Fecha:** 11 de septiembre de 2026  
+**Fecha:** 12 de septiembre de 2026  
 **Estado:** CANDIDATO PARA REVISIÓN HUMANA Y QA SITUADO  
 **Nodo:** FD1 · H1 + H2  
 **Función en la Espiral:** FUNDAR  
@@ -18,13 +18,13 @@ Ya trabajaste dos movimientos fundamentales de Ars Materia:
 
 `H1 · seleccionar / preparar → H2 · transformar`
 
-Ahora vas a demostrar que puedes llevar esas herramientas a un caso material que no haya sido resuelto previamente por el curso.
+Ahora vas a llevar esas herramientas a un caso material que no haya sido resuelto previamente por el curso.
 
 En este foro no buscamos una obra espectacular ni un caso “perfecto”. Buscamos un caso **fértil**: suficientemente concreto para investigar cómo una materia fue seleccionada, preparada o transformada, qué evidencia podría ayudarnos a reconstruir ese proceso y qué límites conservaría nuestra interpretación.
 
 Tu propuesta será la primera pieza de tu **Portafolio de Casos Ars Materia**. Este caso podrá regresar más adelante si sigue siendo productivo. No estás obligado a convertirlo en tu tema PROEMA.
 
-No necesitas comenzar una investigación bibliográfica extensa. Puedes partir de un caso que ya conozcas, de materiales del curso o de una de las rutas semilla proporcionadas por el profesor.
+**No necesitas realizar una investigación bibliográfica nueva para completar FD1.** Puedes partir de un caso que ya conozcas, de materiales trabajados en el curso o de una de las rutas semilla que aparecen más abajo. En esta etapa se evalúa tu capacidad para **formular un caso investigable**, no tu capacidad para reunir todavía toda la evidencia.
 
 ---
 
@@ -42,9 +42,9 @@ Redacta una propuesta breve y argumentada que incluya:
 2. **Problema material.** Formula qué aspecto concreto te interesa comprender. Evita temas demasiado amplios.
 3. **Movimiento H1.** Explica qué materia pudo haber sido seleccionada o preparada y por qué esa selección sería relevante.
 4. **Movimiento H2.** Identifica qué transformación o proceso material sería importante reconstruir.
-5. **Evidencia.** Propón al menos **dos tipos de evidencia** que podrían ayudarte a estudiar el caso. No necesitas obtenerlas todavía, pero sí explicar qué permitiría investigar cada una.
-6. **Inferencia.** Formula una afirmación tentativa sobre conocimiento, práctica o control material que podría investigarse.
-7. **Límite.** Explica al menos una afirmación que **no** podría sostenerse automáticamente con esa evidencia.
+5. **Evidencia.** Propón al menos **dos tipos de evidencia** que serían útiles y explica qué permitiría investigar cada una. No necesitas obtenerlas todavía.
+6. **Inferencia.** Formula una afirmación tentativa sobre conocimiento, práctica o control material que ese caso permitiría investigar.
+7. **Límite.** Explica al menos una afirmación que **no** podría sostenerse automáticamente con la evidencia propuesta.
 
 ### Extensión orientativa
 
@@ -58,7 +58,7 @@ La extensión es una guía de economía y claridad. El objetivo no es llenar esp
 
 Lee la propuesta de al menos un compañero y actúa como **revisor de su razonamiento**.
 
-Tu respuesta debe fortalecer, precisar o poner a prueba el caso mediante una de estas rutas:
+Tu respuesta debe fortalecer, precisar o poner a prueba el caso mediante al menos una de estas rutas:
 
 - identifica una evidencia adicional que sería importante;
 - señala dónde una observación podría estar convirtiéndose demasiado rápido en inferencia;
@@ -72,28 +72,28 @@ Tu respuesta debe fortalecer, precisar o poner a prueba el caso mediante una de 
 
 **75–125 palabras.**
 
-Evita respuestas sociales sin análisis. “Me gusta tu caso” o “estoy de acuerdo” no son suficientes si no explicas qué mejora, tensión o evidencia introduces.
+Evita respuestas sociales sin análisis. “Me gusta tu caso” o “estoy de acuerdo” no son suficientes si no explicas qué evidencia, revisión o tensión estás añadiendo.
 
 ---
 
 # Rutas semilla opcionales
 
-Si no tienes todavía un caso propio, puedes comenzar desde una de estas familias y delimitarla:
+Si todavía no tienes un caso propio, puedes comenzar desde una de estas familias y delimitarla:
 
 - cerámica histórica o arqueológica con evidencia de selección de arcillas y cocción;
-- objeto o conjunto metálico donde importe distinguir mineral, aleación, fabricación y tratamiento;
+- objeto o conjunto metálico donde importe distinguir mineral, aleación, fabricación o tratamiento;
 - vidrio, esmalte o faience donde composición y procesamiento produzcan propiedades visibles;
 - pigmento o colorante cuya preparación modifique comportamiento, color o permanencia;
 - material de construcción artístico donde selección, combinación y transformación sean relevantes;
 - objeto patrimonial cuya materialidad permita preguntar cómo fue producido antes de preguntar cómo conservarlo.
 
-Estas rutas son puntos de partida, no temas completos. Debes convertir una ruta en un **caso identificable y delimitado**.
+Estas rutas son **puntos de partida**, no temas completos. Debes convertir una ruta en un caso identificable y suficientemente delimitado.
 
 ---
 
 # Preguntas de apoyo
 
-Si necesitas revisar tu propuesta, utiliza estas preguntas:
+Si necesitas revisar tu propuesta, pregúntate:
 
 - ¿Mi caso es suficientemente concreto para investigarlo?
 - ¿Puedo distinguir materia inicial, preparación y transformación?
@@ -101,7 +101,7 @@ Si necesitas revisar tu propuesta, utiliza estas preguntas:
 - ¿Mi inferencia es proporcional a esa evidencia?
 - ¿Estoy atribuyendo conocimiento científico moderno sin justificación?
 - ¿Qué parte de mi propuesta sigue siendo incierta?
-- ¿Podría volver a este caso con una pregunta más compleja en otro momento del curso?
+- ¿Podría volver a este caso con una pregunta más compleja más adelante?
 
 ---
 
@@ -157,7 +157,7 @@ Actividad desarrollada por el profesor con apoyo de ChatGPT (OpenAI) para organi
 
 ---
 
-# Nota de diseño
+# Nota interna de diseño
 
 Este FD operacionaliza D-024 y constituye la primera prueba situada del **Mapa de Maduración del Caso de Estudio + Espiral de Casos Ars Materia**.
 
@@ -175,4 +175,4 @@ Dimensiones que permanecen deliberadamente andamiadas:
 - caracterización instrumental;
 - decisión patrimonial.
 
-FD1 no exige investigación bibliográfica extensa ni diseño metodológico completo.
+FD1 no exige investigación bibliográfica extensa ni diseño metodológico completo. La propuesta de evidencia es prospectiva y puede basarse en H1, H2 y materiales ya trabajados.
