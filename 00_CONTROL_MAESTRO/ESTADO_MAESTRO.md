@@ -1,16 +1,16 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 2.2  
-**Fecha:** 2026-09-10  
+**Versión:** 2.3  
+**Fecha:** 2026-09-14  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
 **Centro operativo:** ChatGPT Project **Ars Materia 101**
 
 ## 1. Posición del proyecto
 
-**H1 APROBADO COMO MODELO OPERATIVO. Patrón OVAt-H transferible v1.0 permanece CANDIDATO. FEHE-H2 profunda v1.0 recibió GO CON CONDICIONES mediante D-022. Especificación OVAt-H2 v0.1 recibió GO CON CONDICIONES mediante D-023. Fase activa: producción secuencial H2 comenzando por F1 · Bienvenida H2.**
+**H1 permanece APROBADO COMO MODELO OPERATIVO. H2 fue producido, montado y verificado en Moodle según reporte humano mediante D-025. El Patrón OVAt-H transferible v1.0 permanece CANDIDATO hasta completar auditoría inversa final y Gate Integral H2. H3-H10 no se propagan todavía.**
 
-Framework Genérico V4.1.0 permanece activo de forma integral y proporcional. H3-H10 no se propagan todavía.
+Framework Genérico V4.1.0 permanece activo de forma integral y proporcional.
 
 ## 2. Hitos vigentes
 
@@ -20,11 +20,12 @@ Framework Genérico V4.1.0 permanece activo de forma integral y proporcional. H3
 4. H1 producido, montado, recorrido y auditado integralmente.
 5. D-020 cerró Gate Integral H1 con GO y declaró H1 APROBADO COMO MODELO OPERATIVO.
 6. D-021 extrajo Patrón OVAt-H transferible v1.0 como CANDIDATO PARA PRUEBA H2.
-7. FEHE-H2 profunda v1.0 fue investigada y auditada.
-8. D-022 cerró Gate FEHE-H2 con GO CON CONDICIONES.
-9. Especificación OVAt-H2 v0.1 fue producida y sometida a Gate humano.
-10. D-023 cerró Gate OVAt-H2 con GO CON CONDICIONES y autorizó producción secuencial H2.
-11. H3-H10 permanecen no propagadas.
+7. FEHE-H2 profunda v1.0 aprobada con condiciones mediante D-022.
+8. Especificación OVAt-H2 v0.1 aprobada con condiciones mediante D-023.
+9. H2 producido secuencialmente con seis componentes OVAt reconocibles.
+10. D-024 aprobó Espiral de Casos Ars Materia, Mapa de Maduración, Guía del estudiante y FD1 como fundación del Caso Ancla A.
+11. D-025 reconoce H2 completo como MONTADO Y VERIFICADO EN MOODLE y cierra producción/montaje.
+12. H3-H10 permanecen no propagadas.
 
 ## 3. Decisiones rectoras vigentes
 
@@ -39,9 +40,10 @@ Framework Genérico V4.1.0 permanece activo de forma integral y proporcional. H3
 - Una evidencia reusable debe viajar entre actividad, transferencia, cierre y nodos longitudinales cuando corresponda.
 - REC: necesidad pedagógica → estrategia → evidencia → herramienta mínima.
 - QA situado y auditoría inversa son obligatorios antes de aprobar una H como sistema.
-- H2 debe validar el patrón antes de autorizar propagación H3-H10.
+- H2 debe cerrar Gate Integral antes de validar el patrón y autorizar propagación.
 - **Simetría OVAt = mismos componentes funcionales reconocibles; evolución longitudinal = mayor complejidad de contenido, evidencia, autonomía e integración.**
-- Consolidar funciones en una herramienta Moodle no equivale a eliminar componentes pedagógicos.
+- **Espiral de Casos = complejidad creciente + andamiaje decreciente + reuso longitudinal de casos y evidencias.**
+- FD1-FD5 pertenecen a Clase; el Portafolio de Casos no sustituye PROEMA.
 
 ## 4. Estado de H1
 
@@ -61,13 +63,13 @@ Ruta canónica:
 
 Estado:
 
-**CANDIDATO PARA PRUEBA DE TRANSFERENCIA EN H2**.
+**CANDIDATO · PRUEBA H2 PRODUCIDA Y MONTADA; VALIDACIÓN FINAL PENDIENTE.**
 
 Arquitectura funcional:
 
 `F1 Apertura → F2 Marco FEHE → F3 Profundización → F4 Actividad central → F5 Transferencia/reuso → F6 Cierre longitudinal`
 
-Las funciones son invariantes de arquitectura; el packaging técnico puede variar. La aclaración D-022 confirma que todas las H deben conservar una simetría reconocible de componentes, mientras contenido y complejidad evolucionan.
+H2 confirma en producción que la simetría puede preservarse sin clonar contenido H1. La decisión final sobre el patrón se toma sólo tras auditoría inversa final y Gate Integral H2.
 
 ## 6. Estado de FEHE-H2
 
@@ -81,120 +83,89 @@ Gate:
 
 Estado:
 
-**APROBADA CON CONDICIONES · D-022**
+**APROBADA CON CONDICIONES · D-022 · IMPLEMENTADA EN H2.**
 
-Condiciones vinculantes:
+La producción respetó como columna vertebral transformación térmica, proceso-propiedad, control epistemológico, economía de casos y producto reusable RTM-H2.
 
-1. mantener transformación térmica / proceso-propiedad como columna vertebral;
-2. limitar ciencia a la profundidad FEHE aprobada;
-3. resolver caso rector/contrastes por economía cognitiva;
-4. FD1 reutiliza evidencia H1+H2 y no abre investigación nueva;
-5. curar procedencia/licencias visuales antes de producción;
-6. diferenciar funcionalmente el producto reusable H2 de la Ficha H1.
+## 7. Estado de OVAt-H2
 
-## 7. Estado de Especificación OVAt-H2
-
-Ruta:
+Ruta de especificación:
 
 `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H2/CIFI4074_OVAt_H2_Especificacion_v0.1_CANDIDATA.md`
 
-Gate:
+Estado operativo:
 
-`18_DOCUMENTACION_ACTIVA/GATE_OVAT_H2.md`
+**PRODUCIDO · MONTADO · VERIFICADO EN MOODLE · D-025.**
 
-Estado:
+Componentes visibles:
 
-**APROBADA CON CONDICIONES · D-023.**
+1. F1 Bienvenida H2.
+2. F2 Presentación FEHE H2.
+3. F3 Lectura oficial H2.
+4. F4 Actividad central Vinča / Belovode + RTM-H2 + Guía de Estudio Independiente.
+5. F5 FD1 / Espiral de Casos: Caso Ancla A y Portafolio de Casos.
+6. F6 Cierre longitudinal H2 y puente a H3.
 
-Arquitectura autorizada:
+Hallazgo metodológico importante:
 
-- seis componentes visibles por simetría de familia OVAt;
-- F1 Bienvenida;
-- F2 Presentación FEHE;
-- F3 Lectura;
-- F4 Actividad central con RTM-H2;
-- F5 distribuida entre transferencia integrada y FD1;
-- F6 Cierre longitudinal;
-- caso rector: Vinča/Belovode salvo obstáculo documental real;
-- contrastes: Dolní Věstonice y vidrio del Bronce Tardío, usados selectivamente;
-- producto reusable: Registro de Transformación Material H2 (RTM-H2);
-- andamiaje medio-alto;
-- carga asíncrona preliminar 70–90 min con FD1 contabilizado dentro de la experiencia semanal.
+- la decisión D-024 refinó F5 durante producción;
+- FD1 dejó de ser únicamente una comparación cerrada H1+H2 y pasó a FUNDAR un Caso Ancla A seleccionado por el estudiante;
+- el foro conserva integración H1+H2 sin exigir investigación bibliográfica extensa;
+- el aporte de FD1 se convierte en la primera pieza del Portafolio de Casos.
 
-Condiciones vinculantes D-023:
+## 8. Espiral de Casos Ars Materia
 
-1. producir componentes secuencialmente y verificar cada uno antes de abrir el siguiente;
-2. mantener Vinča/Belovode como caso rector salvo obstáculo documental real;
-3. mantener Dolní Věstonice y vidrio como contrastes, no como módulos equivalentes;
-4. no aumentar profundidad científica fuera de FEHE-H2;
-5. cerrar procedencia/licencias de imágenes antes de insertar evidencia documental final;
-6. validar durante producción que RTM-H2 sea manejable y realmente reusable en FD1;
-7. contabilizar carga de FD1 dentro del QA semanal;
-8. preservar los seis componentes OVAt visibles aunque algunas funciones compartan superficie técnica interna.
+Documentos vigentes:
 
-## 8. Regla anti-copia refinada
+- `03_METODOLOGIA_Y_FLUJO_DE_TRABAJO/PROTOCOLOS/MAPA_MADURACION_CASOS_ESTUDIO_Y_ESPIRAL_CASOS_ARS_MATERIA_v0.1_CANDIDATO.md`
+- Guía del estudiante de la Espiral de Casos aprobada mediante D-024.
+- FD1 · Caso Ancla A como primera implementación situada.
 
-No copiar H1:
+Principio:
 
-- casos;
-- Ficha exacta;
-- microdecisión A/B/C;
-- cantidad de páginas/diapositivas;
-- carga específica;
-- secuencia verbal específica;
-- nivel de andamiaje por costumbre.
+`fundar → profundizar → transferir → discriminar/diseñar → decidir/sintetizar`
 
-Sí preservar:
+con andamiaje decreciente y Portafolio acumulativo de productos ya producidos.
 
-- componentes funcionales reconocibles;
-- trazabilidad FEHE→OVAt;
-- evidencia reusable;
-- economía de tareas;
-- distinción epistemológica;
-- continuidad longitudinal;
-- QA y Gate.
+La validación longitudinal completa de la Espiral requiere observar FD2-FD5; D-024 no autoriza producir H3-H10 fuera de la secuencia curricular aprobada.
 
 ## 9. Prueba de transferencia H2
 
-H2 debe demostrar integralmente que:
+Estado de los criterios:
 
-1. deriva de FEHE-H2 propia;
-2. conserva F1–F6 y simetría estructural sin clonar contenido H1;
-3. utiliza RTM-H2 como producto reusable pertinente;
-4. integra FD1 como nodo H1+H2;
-5. reutiliza evidencia sin duplicar tareas;
-6. ajusta carga, andamiaje y profundidad científica;
-7. monta y verifica Moodle;
-8. supera auditoría inversa sin hallazgos críticos;
-9. permite confirmar o reclasificar invariantes/campos condicionales.
+1. Deriva de FEHE-H2 propia: **CUMPLIDO EN PRODUCCIÓN**.
+2. Conserva F1-F6 sin clonar H1: **CUMPLIDO EN PRODUCCIÓN**.
+3. Usa RTM-H2 como producto reusable: **CUMPLIDO EN PRODUCCIÓN**.
+4. Integra FD1 como nodo H1+H2: **CUMPLIDO, REFINADO POR D-024**.
+5. Reutiliza evidencia sin multiplicar tareas: **CUMPLIDO EN DISEÑO/MONTAJE; confirmar en auditoría inversa**.
+6. Ajusta carga, andamiaje y profundidad científica: **CUMPLIDO EN PRODUCCIÓN; confirmar situado**.
+7. Moodle montado y verificado: **CUMPLIDO · D-025**.
+8. Auditoría inversa final sin hallazgos críticos: **PENDIENTE DE CIERRE DOCUMENTAL**.
+9. Decisión sobre invariantes/campos condicionales del patrón: **PENDIENTE DE GATE INTEGRAL H2**.
 
 ## 10. Secuencia activa
 
-`producción secuencial H2 → montaje Moodle → QA situado → auditoría inversa → Gate H2 → decisión sobre validación del Patrón → eventual propagación H3-H10`
-
-La producción comienza por **F1 · Bienvenida H2**. Cada componente debe verificarse antes de abrir el siguiente, según D-023.
+`H2 producido → Moodle montado/verificado ✓ → auditoría inversa final → Gate Integral H2 → decisión sobre Patrón OVAt-H → eventual autorización H3`
 
 ## 11. Deuda documental abierta
 
 1. Renombrar de forma segura FEHE-H1 para retirar `_CANDIDATA` sin duplicar verdad viva.
 2. Sincronizar metadatos internos del Documento Rector y Protocolo vigentes.
 3. Sincronizar nombre/estado interno de Especificación OVAt-H1 con D-016.
-4. Sincronizar nombre/estado físico de Especificación OVAt-H2 con D-023 sin duplicar verdad viva.
-5. Curar/verificar procedencia y licencias de imágenes documentales H2 antes de inserción final.
-6. Evaluar incorporación al repositorio de artefactos finales H1 actualmente en Moodle/local.
-
-Estas deudas no bloquean la producción secuencial H2 salvo contradicción funcional nueva.
+4. Sincronizar nombre/estado físico de Especificación OVAt-H2 con D-023/D-025 sin duplicar verdad viva.
+5. Verificar que toda imagen documental H2 usada en Moodle conserva procedencia/licencia registrada.
+6. Evaluar incorporación al repositorio de artefactos finales H1/H2 actualmente en Moodle/local.
+7. Registrar formalmente resultado de auditoría inversa H2 y decisión del Gate Integral H2.
 
 ## 12. No hacer todavía
 
-- No abrir F2 antes de verificar F1.
-- No montar Moodle H2 como sistema completo antes de completar producción secuencial.
-- No propagar H3-H10.
-- No declarar el patrón VALIDADO.
-- No convertir FD1 en investigación adicional.
-- No sacrificar componentes OVAt bajo pretexto de consolidación técnica.
-- No insertar evidencia visual documental sin procedencia/licencia cerrada.
+- No declarar el Patrón OVAt-H VALIDADO antes del Gate Integral H2.
+- No propagar H3-H10 antes de la decisión sobre el patrón.
+- No tratar FD1 como investigación bibliográfica adicional.
+- No fusionar Espiral de Casos y PROEMA.
+- No perder la selección autónoma del Caso Ancla por parte del estudiante.
+- No asumir que el éxito de FD1 valida automáticamente FD2-FD5.
 
 ## 13. Único próximo movimiento
 
-**Producir F1 · Bienvenida H2 conforme a Especificación OVAt-H2 aprobada con condiciones, verificarla y sólo entonces abrir F2.**
+**Completar la auditoría inversa final de H2 y someter el sistema FEHE-H2 → OVAt-H2 → Moodle → FD1/Espiral → Cierre al Gate Integral H2 para decidir la validación del Patrón OVAt-H transferible.**
