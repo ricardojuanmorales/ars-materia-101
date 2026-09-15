@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 2.3  
+**Versión:** 2.4  
 **Fecha:** 2026-09-14  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -8,7 +8,7 @@
 
 ## 1. Posición del proyecto
 
-**H1 permanece APROBADO COMO MODELO OPERATIVO. H2 fue producido, montado y verificado en Moodle según reporte humano mediante D-025. El Patrón OVAt-H transferible v1.0 permanece CANDIDATO hasta completar auditoría inversa final y Gate Integral H2. H3-H10 no se propagan todavía.**
+**H1 permanece APROBADO COMO MODELO OPERATIVO. H2 fue producido, montado y verificado en Moodle según reporte humano mediante D-025. El Patrón OVAt-H transferible v1.0 permanece CANDIDATO hasta completar auditoría inversa final y Gate Integral H2. H3-H10 no se propagan todavía. D-026 concentra provisionalmente los materiales sustantivos PROEMA bajo `13_INVESTIGACION_Y_EVIDENCIA/PROEMA/` mientras se revisa su arquitectura documental semántica.**
 
 Framework Genérico V4.1.0 permanece activo de forma integral y proporcional.
 
@@ -25,7 +25,8 @@ Framework Genérico V4.1.0 permanece activo de forma integral y proporcional.
 9. H2 producido secuencialmente con seis componentes OVAt reconocibles.
 10. D-024 aprobó Espiral de Casos Ars Materia, Mapa de Maduración, Guía del estudiante y FD1 como fundación del Caso Ancla A.
 11. D-025 reconoce H2 completo como MONTADO Y VERIFICADO EN MOODLE y cierra producción/montaje.
-12. H3-H10 permanecen no propagadas.
+12. D-026 establece concentración provisional de materiales PROEMA en `13_INVESTIGACION_Y_EVIDENCIA/PROEMA/` sin aprobar todavía una taxonomía interna.
+13. H3-H10 permanecen no propagadas.
 
 ## 3. Decisiones rectoras vigentes
 
@@ -44,6 +45,7 @@ Framework Genérico V4.1.0 permanece activo de forma integral y proporcional.
 - **Simetría OVAt = mismos componentes funcionales reconocibles; evolución longitudinal = mayor complejidad de contenido, evidencia, autonomía e integración.**
 - **Espiral de Casos = complejidad creciente + andamiaje decreciente + reuso longitudinal de casos y evidencias.**
 - FD1-FD5 pertenecen a Clase; el Portafolio de Casos no sustituye PROEMA.
+- **PROEMA: preservar bajo su ruta funcional actual mientras se revisan arquitectura documental, convenciones semánticas y relación con U13-U14; no crear taxonomía interna por conveniencia.**
 
 ## 4. Estado de H1
 
@@ -129,7 +131,22 @@ con andamiaje decreciente y Portafolio acumulativo de productos ya producidos.
 
 La validación longitudinal completa de la Espiral requiere observar FD2-FD5; D-024 no autoriza producir H3-H10 fuera de la secuencia curricular aprobada.
 
-## 9. Prueba de transferencia H2
+## 9. PROEMA y reflexión documental abierta
+
+Ruta funcional provisional:
+
+`13_INVESTIGACION_Y_EVIDENCIA/PROEMA/`
+
+Estado:
+
+- PROEMA 1 permanece documentado en su ruta existente.
+- La Guía del Estudiante · Ruta PROEMA v0.1 se conserva como **CANDIDATO**.
+- La secuencia propuesta E1-E5 es una hipótesis pedagógica para revisión; no constituye por sí sola una taxonomía documental aprobada.
+- U13 · Investigación PROEMA y U14 · Producción PROEMA deben comenzar a preservarse e integrarse, pero no se asumen todavía como carpetas o contenedores documentales.
+- D-026 prohíbe por ahora introducir subcarpetas numeradas o una mini-taxonomía paralela antes de revisar protocolos, rutas canónicas y convenciones de nombres semánticos.
+- PROEMA permanece distinto de la Espiral de Casos aunque ambos puedan dialogar longitudinalmente.
+
+## 10. Prueba de transferencia H2
 
 Estado de los criterios:
 
@@ -143,11 +160,13 @@ Estado de los criterios:
 8. Auditoría inversa final sin hallazgos críticos: **PENDIENTE DE CIERRE DOCUMENTAL**.
 9. Decisión sobre invariantes/campos condicionales del patrón: **PENDIENTE DE GATE INTEGRAL H2**.
 
-## 10. Secuencia activa
+## 11. Secuencia activa
 
 `H2 producido → Moodle montado/verificado ✓ → auditoría inversa final → Gate Integral H2 → decisión sobre Patrón OVAt-H → eventual autorización H3`
 
-## 11. Deuda documental abierta
+En paralelo, la reflexión documental PROEMA puede continuar sin sustituir ni cerrar anticipadamente el Gate H2.
+
+## 12. Deuda documental abierta
 
 1. Renombrar de forma segura FEHE-H1 para retirar `_CANDIDATA` sin duplicar verdad viva.
 2. Sincronizar metadatos internos del Documento Rector y Protocolo vigentes.
@@ -156,8 +175,10 @@ Estado de los criterios:
 5. Verificar que toda imagen documental H2 usada en Moodle conserva procedencia/licencia registrada.
 6. Evaluar incorporación al repositorio de artefactos finales H1/H2 actualmente en Moodle/local.
 7. Registrar formalmente resultado de auditoría inversa H2 y decisión del Gate Integral H2.
+8. Resolver la arquitectura documental semántica de PROEMA antes de crear nuevas rutas internas.
+9. Verificar manualmente la sincronización de cualquier copia local externa del repositorio con GitHub `main`.
 
-## 12. No hacer todavía
+## 13. No hacer todavía
 
 - No declarar el Patrón OVAt-H VALIDADO antes del Gate Integral H2.
 - No propagar H3-H10 antes de la decisión sobre el patrón.
@@ -165,7 +186,14 @@ Estado de los criterios:
 - No fusionar Espiral de Casos y PROEMA.
 - No perder la selección autónoma del Caso Ancla por parte del estudiante.
 - No asumir que el éxito de FD1 valida automáticamente FD2-FD5.
+- No crear una taxonomía interna PROEMA numerada o basada automáticamente en E1-E5/U13-U14 antes de la reflexión estratégica acordada.
 
-## 13. Único próximo movimiento
+## 14. Próximos movimientos
+
+### Curricular
 
 **Completar la auditoría inversa final de H2 y someter el sistema FEHE-H2 → OVAt-H2 → Moodle → FD1/Espiral → Cierre al Gate Integral H2 para decidir la validación del Patrón OVAt-H transferible.**
+
+### Documental PROEMA
+
+**Releer autoridad, protocolos, convenciones semánticas y contenido actual de `13_INVESTIGACION_Y_EVIDENCIA/PROEMA/`; modelar alternativas mínimas y someter cualquier reorganización a decisión humana antes de ejecutarla.**
