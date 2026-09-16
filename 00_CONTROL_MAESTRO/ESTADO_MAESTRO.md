@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 2.7  
+**Versión:** 2.8  
 **Fecha:** 2026-09-16  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -8,7 +8,7 @@
 
 ## 1. Posición del proyecto
 
-**H1 permanece APROBADO COMO MODELO OPERATIVO. H2 permanece APROBADO COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. FEHE-H3 profunda v1.0 queda APROBADA CON CONDICIONES MENORES mediante D-028. Especificación OVAt-H3 v0.1 CANDIDATA producida y Gate OVAt-H3 ABIERTO. H4-H10 no se propagan todavía; FD2 no se activa hasta H4.**
+**H1 permanece APROBADO COMO MODELO OPERATIVO. H2 permanece APROBADO COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. FEHE-H3 profunda v1.0 permanece APROBADA CON CONDICIONES MENORES mediante D-028. Especificación OVAt-H3 v0.1 queda APROBADA mediante D-029 y se autoriza producción secuencial H3 comenzando por F1 · Bienvenida. H4-H10 no se propagan todavía; FD2 no se activa hasta H4.**
 
 Framework Genérico V4.1.0 permanece activo de forma integral y proporcional.
 
@@ -17,12 +17,12 @@ D-026 mantiene provisionalmente los materiales sustantivos PROEMA bajo `13_INVES
 ## 2. Hitos vigentes
 
 1. H1 aprobado como modelo operativo mediante D-020.
-2. Patrón OVAt-H v1.0 extraído y luego VALIDADO mediante D-027 tras prueba H2.
+2. Patrón OVAt-H v1.0 VALIDADO mediante D-027 tras prueba H2.
 3. H2 aprobado como sistema mediante D-027.
 4. Espiral de Casos aprobada mediante D-024; FD1 implementado como FUNDAR Caso Ancla A.
 5. FEHE-H3 profunda v1.0 aprobada con condiciones menores mediante D-028.
-6. Especificación OVAt-H3 v0.1 producida como CANDIDATA.
-7. Gate OVAt-H3 abierto para decisión humana.
+6. Especificación OVAt-H3 v0.1 aprobada mediante D-029.
+7. Producción secuencial H3 autorizada comenzando por F1 · Bienvenida.
 8. H4-H10 permanecen no propagadas.
 
 ## 3. Decisiones rectoras vigentes
@@ -54,10 +54,6 @@ D-026 mantiene provisionalmente los materiales sustantivos PROEMA bajo `13_INVES
 Arquitectura implementada:
 
 `F1 Bienvenida → F2 Marco FEHE → F3 Lectura → F4 Vinča/Belovode + RTM-H2 → F5 FD1/Caso Ancla A → F6 Cierre longitudinal`
-
-Hallazgo confirmado:
-
-> FD1 puede FUNDAR un Caso Ancla A seleccionado por el estudiante sin romper F5, siempre que la función siga siendo transferencia/reuso y no investigación paralela.
 
 ## 5. Patrón OVAt-H transferible v1.0
 
@@ -99,24 +95,15 @@ Cadena conceptual:
 
 `componentes + forma de combinación + interfaz + ambiente → comportamiento del sistema → evidencia → inferencia → límite`
 
-Condiciones vinculantes D-028:
-
-1. compatibilidad como columna vertebral;
-2. caso rector situado con procedencia/licencias verificables;
-3. MSM-H3 compacto y reusable;
-4. profundidad científica contenida;
-5. no abrir H4 ni FD2;
-6. una sola actividad central y economía de tareas.
-
 ### Especificación OVAt-H3
 
-Ruta:
+Ruta canónica:
 
-`19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H3/CIFI4074_OVAt_H3_Especificacion_v0.1_CANDIDATA.md`
+`19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H3/CIFI4074_OVAt_H3_Especificacion_v0.1_APROBADA.md`
 
 Estado:
 
-> **CANDIDATA PARA GATE OVAt-H3**
+> **APROBADA PARA PRODUCCIÓN SECUENCIAL · D-029**
 
 Parámetros principales:
 
@@ -129,15 +116,23 @@ Parámetros principales:
 - sin FD2;
 - procedencia documental vinculante antes de montaje.
 
-Gate:
+Gate OVAt-H3:
 
-`18_DOCUMENTACION_ACTIVA/GATE_OVAT_H3.md`
+> **CERRADO · GO · D-029**
 
-Estado del Gate:
+Condiciones D-028 continúan vinculantes durante producción.
 
-> **ABIERTO · PENDIENTE DE DECISIÓN HUMANA**
+## 7. Producción H3
 
-## 7. Espiral de Casos Ars Materia
+Secuencia autorizada:
+
+`F1 Bienvenida → verificar → F2 Marco FEHE → verificar → F3 Profundización → verificar → F4 Actividad central + MSM-H3 → verificar → F5 Transferencia/reuso → F6 Cierre longitudinal`
+
+Regla inmediata:
+
+> **Producir F1 · Bienvenida H3 y verificarla antes de abrir F2.**
+
+## 8. Espiral de Casos Ars Materia
 
 - arquitectura aprobada mediante D-024;
 - FD1 implementado y verificado;
@@ -145,7 +140,7 @@ Estado del Gate:
 - H3 puede preparar dimensiones relacionales del Caso A, pero no exige todavía Revisión 1;
 - FD2 sólo se activa en H4 como nodo H3+H4.
 
-## 8. PROEMA
+## 9. PROEMA
 
 Ruta funcional provisional:
 
@@ -153,13 +148,13 @@ Ruta funcional provisional:
 
 PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente la ruta común sin taxonomía interna definitiva.
 
-## 9. Secuencia activa
+## 10. Secuencia activa
 
-`FEHE-H3 APROBADA · D-028 → Especificación OVAt-H3 CANDIDATA → Gate OVAt-H3 → decisión humana → producción secuencial H3 → Moodle/QA → Gate Integral H3`
+`FEHE-H3 APROBADA · D-028 → Especificación OVAt-H3 APROBADA · D-029 → F1 Bienvenida H3 → verificación → F2 Marco FEHE H3`
 
 No se propaga H4-H10 automáticamente.
 
-## 10. Deuda documental abierta
+## 11. Deuda documental abierta
 
 1. Sincronizar nombres/estados heredados de documentos históricos cuando proceda sin duplicar verdad viva.
 2. Verificar procedencia/licencias finales de toda evidencia documental H2/H3 usada en Moodle.
@@ -168,9 +163,9 @@ No se propaga H4-H10 automáticamente.
 5. Resolver arquitectura documental semántica de PROEMA antes de crear nuevas rutas internas.
 6. Verificar copias locales externas contra GitHub `main`.
 
-## 11. No hacer todavía
+## 12. No hacer todavía
 
-- No producir componentes H3 antes de cerrar Gate OVAt-H3.
+- No abrir F2 antes de verificar F1.
 - No propagar H4-H10 automáticamente.
 - No activar FD2.
 - No convertir compatibilidad en historia enciclopédica de arquitectura.
@@ -179,8 +174,6 @@ No se propaga H4-H10 automáticamente.
 - No adelantar ciencia formal de interfaces.
 - No fusionar Espiral de Casos y PROEMA.
 
-## 12. Único próximo movimiento curricular
+## 13. Único próximo movimiento curricular
 
-> **Someter Especificación OVAt-H3 v0.1 al Gate OVAt-H3.**
-
-Sólo un GO o GO CON CONDICIONES autoriza producir F1 · Bienvenida H3.
+> **Producir F1 · Bienvenida H3 como primer componente de producción secuencial.**
