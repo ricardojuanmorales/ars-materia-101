@@ -1,17 +1,19 @@
 # GATE INTEGRAL H2 — Ars Materia 101
 
 **Fecha de apertura:** 2026-09-14  
-**Estado:** ABIERTO · PENDIENTE DE AUDITORÍA INVERSA FINAL Y DECISIÓN HUMANA  
+**Fecha de cierre:** 2026-09-16  
+**Estado:** CERRADO · GO · VALIDADO  
 **Objeto:** H2 completo como sistema FEHE → OVAt → Moodle → FD1/Espiral → Cierre  
-**Decisión que habilita apertura:** D-025
+**Decisión que habilita apertura:** D-025  
+**Decisión humana final:** D-027
 
 ---
 
 # 1. Propósito
 
-Determinar si H2, ya producido, montado y verificado en Moodle, confirma que el Patrón OVAt-H transferible v1.0 puede funcionar fuera de H1 sin copiar su contenido ni perder coherencia pedagógica, epistemológica o operativa.
+Determinar si H2, producido, montado y verificado en Moodle, confirma que el Patrón OVAt-H transferible v1.0 puede funcionar fuera de H1 sin copiar su contenido ni perder coherencia pedagógica, epistemológica u operativa.
 
-Este Gate no reevalúa FEHE-H2 ni la Especificación OVAt-H2 de forma aislada. Evalúa el sistema completo en funcionamiento.
+Este Gate evalúa el sistema completo en funcionamiento.
 
 ---
 
@@ -19,135 +21,139 @@ Este Gate no reevalúa FEHE-H2 ni la Especificación OVAt-H2 de forma aislada. E
 
 Al abrir este Gate:
 
-- H1 permanece APROBADO COMO MODELO OPERATIVO;
-- FEHE-H2 está aprobada con condiciones mediante D-022;
-- Especificación OVAt-H2 está aprobada con condiciones mediante D-023;
-- Espiral de Casos, Mapa de Maduración y Guía del estudiante están aprobados mediante D-024;
-- FD1 funda el Caso Ancla A seleccionado por el estudiante;
-- H2 está PRODUCIDO;
-- H2 está MONTADO EN MOODLE;
-- H2 está VERIFICADO EN MOODLE según reporte humano mediante D-025;
-- auditoría inversa final H2 está pendiente de cierre documental;
-- Patrón OVAt-H v1.0 permanece CANDIDATO.
+- H1 permanecía APROBADO COMO MODELO OPERATIVO;
+- FEHE-H2 estaba aprobada con condiciones mediante D-022;
+- Especificación OVAt-H2 estaba aprobada con condiciones mediante D-023;
+- Espiral de Casos, Mapa de Maduración y Guía del estudiante estaban aprobados mediante D-024;
+- FD1 fundaba el Caso Ancla A seleccionado por el estudiante;
+- H2 estaba PRODUCIDO, MONTADO y VERIFICADO EN MOODLE mediante D-025;
+- Patrón OVAt-H v1.0 permanecía CANDIDATO.
 
 ---
 
-# 3. Componentes sometidos al Gate
+# 3. Auditoría inversa final
 
-1. F1 · Bienvenida H2.
-2. F2 · Presentación FEHE H2.
-3. F3 · Lectura oficial H2.
-4. F4 · Actividad central Vinča / Belovode + RTM-H2 + Guía de Estudio Independiente.
-5. F5 · FD1 / Caso Ancla A / inicio del Portafolio de Casos.
-6. F6 · Cierre longitudinal H2 y puente a H3.
-7. Integración H1+H2.
-8. Relación con PROEMA sin fusión de trayectorias.
-9. Moodle como experiencia completa.
-10. Evidencia para validar o ajustar el Patrón OVAt-H.
+La auditoría inversa comparó H2 montado contra FEHE-H2, Especificación OVAt-H2, Patrón OVAt-H v1.0 y decisiones D-022 a D-025.
 
----
+Cadena auditada:
 
-# 4. Preguntas de aceptación
+`evidencia observable → actividad → función → FEHE → pregunta rectora → trayectoria`
 
-## 4.1 Transferencia del patrón
+## Resultado global
 
-- ¿Se reconocen F1-F6 sin que H2 parezca una copia de H1?
-- ¿La función de cada componente sigue siendo clara?
-- ¿La arquitectura soporta un contenido científico-material más complejo?
-
-## 4.2 Coherencia FEHE → OVAt
-
-- ¿La pregunta rectora y el movimiento `seleccionar/preparar → transformar → combinar` permanecen visibles?
-- ¿La ciencia contemporánea explica sin producir anacronismo?
-- ¿La distinción evidencia → inferencia → control → conocimiento está protegida?
-
-## 4.3 Evidencia reusable y economía
-
-- ¿RTM-H2 funciona como evidencia reusable?
-- ¿FD1 añade integración y transferencia sin convertirse en investigación bibliográfica paralela?
-- ¿El Caso Ancla A emerge del trabajo del estudiante y no de una selección impuesta por el curso?
-- ¿El Portafolio comienza como reuso real y no como tarea nueva?
-
-## 4.4 Espiral de Casos
-
-- ¿FD1 funda adecuadamente el nivel inicial del Mapa de Maduración?
-- ¿El andamiaje es suficiente sin sustituir la selección autónoma del caso?
-- ¿Queda una base clara para profundización futura sin predeterminar FD2-FD5?
-
-## 4.5 Carga y experiencia Moodle
-
-- ¿La secuencia montada es navegable y comprensible?
-- ¿La carga total sigue siendo proporcional?
-- ¿No existen duplicaciones funcionales visibles?
-- ¿Los recursos opcionales permanecen realmente opcionales?
-
-## 4.6 Procedencia, ética y accesibilidad
-
-- ¿Las imágenes documentales finales tienen procedencia/licencia adecuada?
-- ¿Las imágenes conceptuales con IA están identificadas cuando corresponde?
-- ¿La experiencia no depende exclusivamente de imagen o color?
-- ¿La actividad evita presentar capacidad analítica como autorización automática para intervención destructiva?
+- CRÍTICOS: **0**.
+- MAYORES: **0**.
+- MENORES bloqueantes: **0**.
+- Deuda documental no bloqueante: mantener trazabilidad explícita de carga situada y procedencia/licencias de toda evidencia visual documental incorporada.
 
 ---
 
-# 5. Auditoría inversa requerida
+# 4. Resultado por criterios
 
-Antes de la decisión final, recorrer H2 como estudiante y registrar:
-
-1. punto de entrada y expectativa;
-2. continuidad entre F1-F6;
-3. claridad de instrucciones;
-4. carga real aproximada;
-5. funcionamiento del RTM-H2;
-6. transición hacia FD1;
-7. selección autónoma del Caso Ancla A;
-8. claridad del cierre y puente hacia H3;
-9. cualquier fricción crítica, mayor o menor;
-10. desviaciones entre especificación y experiencia real.
-
----
-
-# 6. Matriz de decisión sobre el Patrón OVAt-H
-
-| Aspecto | Evidencia H2 | Resultado posible |
-|---|---|---|
-| F1-F6 reconocibles | producción + Moodle | CONFIRMAR / AJUSTAR |
-| Simetría sin clonación | comparación H1-H2 | CONFIRMAR / AJUSTAR |
-| Producto reusable | RTM-H2 | CONFIRMAR / RECLASIFICAR |
-| Transferencia / F5 | FD1 + Caso Ancla A | CONFIRMAR / AJUSTAR |
-| Andamiaje | experiencia situada | CONFIRMAR / AJUSTAR |
-| Economía de tareas | recorrido completo | CONFIRMAR / AJUSTAR |
-| Cierre longitudinal | F6 H2 | CONFIRMAR / AJUSTAR |
-| Campo condicional de casos | Vinča/Belovode + Espiral | MANTENER CONDICIONAL / RECLASIFICAR |
+| Criterio | Resultado |
+|---|---|
+| Derivación de FEHE propia | CUMPLE |
+| F1-F6 reconocibles | CUMPLE |
+| Simetría sin clonación | CUMPLE FUERTE |
+| Evolución legítima de complejidad | CUMPLE |
+| RTM-H2 distinto de Ficha H1 | CUMPLE |
+| Distinción evidencia → inferencia → límite | CUMPLE |
+| Ciencia contemporánea sin presentismo | CUMPLE |
+| Economía de tareas | CUMPLE |
+| FD1 sin investigación paralela | CUMPLE |
+| Selección autónoma del Caso Ancla A | CUMPLE FUERTE |
+| Espiral como reuso, no tarea adicional | CUMPLE EN FD1 |
+| Cierre longitudinal y puente H3 | CUMPLE |
+| Moodle montado y verificado | CUMPLE · D-025 |
 
 ---
 
-# 7. Resultados posibles del Gate
+# 5. Transferencia del Patrón OVAt-H
 
-## GO · VALIDADO
+H2 confirma que el patrón transfiere **funciones**, no superficies.
 
-El Patrón OVAt-H v1.0 queda validado como arquitectura transferible y puede emplearse proporcionalmente en H3, manteniendo Gate y QA situados.
+La arquitectura reconocible permanece:
 
-## GO CON AJUSTES · VALIDADO CON AJUSTES
+`F1 Apertura → F2 Marco FEHE → F3 Profundización → F4 Actividad central → F5 Transferencia/reuso → F6 Cierre longitudinal`
 
-La prueba H2 confirma la arquitectura, pero exige producir Patrón OVAt-H v1.1 antes de abrir H3.
+Pero H2 modifica legítimamente:
 
-## NO-GO · NO VALIDADO
+- caso rector;
+- mecanismo cognitivo;
+- producto reusable;
+- profundidad científico-material;
+- grado de andamiaje;
+- relación con FD1;
+- forma concreta de la transferencia.
 
-La prueba H2 revela problemas estructurales que deben resolverse antes de propagar.
-
----
-
-# 8. Restricción vigente
-
-Hasta decisión humana final:
-
-> **No declarar el Patrón OVAt-H VALIDADO y no propagar H3-H10.**
-
-La Espiral de Casos permanece aprobada por D-024, pero su validación longitudinal completa requiere evidencia futura de FD2-FD5.
+No se propagaron mecánicamente Blombos, Apollo 11, Ficha H1, microdecisión A/B/C, extensión fija, carga fija ni secuencia verbal de H1.
 
 ---
 
-# 9. Próximo movimiento
+# 6. Hallazgo metodológico principal
 
-**Completar la auditoría inversa final de H2, registrar hallazgos y someter este Gate a decisión humana.**
+D-024 refinó F5 sin romper el patrón.
+
+FD1 evolucionó desde una comparación cerrada H1+H2 hacia la fundación de un **Caso Ancla A seleccionado por el estudiante**. Esto confirma que el invariante no es reutilizar literalmente un mismo formulario, sino reutilizar capacidades, evidencia y criterios dentro de una función de transferencia/reuso.
+
+La Espiral de Casos queda confirmada en su primer nodo, pero su validación longitudinal completa seguirá requiriendo evidencia de FD2-FD5.
+
+---
+
+# 7. Decisión humana
+
+> **GO · VALIDADO**
+
+Mediante D-027:
+
+1. H2 queda **APROBADO COMO SISTEMA**.
+2. El **Patrón OVAt-H transferible v1.0 queda VALIDADO**.
+3. No se requiere v1.1 antes de continuar.
+4. Se autoriza apertura controlada de H3 conforme al Patrón validado, FEHE propia, QA situado y Gates correspondientes.
+5. La validación del patrón no autoriza clonación mecánica ni propagación automática de H4-H10.
+
+---
+
+# 8. Alcance de la validación
+
+La validación confirma como invariantes:
+
+- pregunta rectora auténtica;
+- movimiento longitudinal explícito;
+- FEHE como arquitectura;
+- distinción epistemológica visible;
+- columna vertebral narrativa;
+- evidencia reusable;
+- economía de tareas;
+- cierre con recuperación/proyección;
+- QA situado antes de aprobación.
+
+Se mantienen como campos condicionales:
+
+- casos y contrastes;
+- microdecisión inicial;
+- forma del producto reusable;
+- FD/PROEMA;
+- profundidad científica;
+- grado de andamiaje;
+- herramienta Moodle;
+- recursos visuales.
+
+---
+
+# 9. Deuda no bloqueante
+
+- mantener registro explícito de carga situada durante implementación real;
+- mantener procedencia/licencias verificables para imágenes documentales;
+- sincronizar nombres físicos heredados que aún conservan estados históricos como `_CANDIDATA`;
+- continuar validación longitudinal de la Espiral de Casos en FD2-FD5.
+
+---
+
+# 10. Siguiente movimiento autorizado
+
+**Abrir H3 de forma controlada comenzando por FEHE-H3 profunda.**
+
+Regla de continuidad:
+
+> **Patrón validado no significa contenido predeterminado. H3 debe derivar de su propia FEHE y demostrar nuevamente fidelidad funcional, economía y trazabilidad.**
