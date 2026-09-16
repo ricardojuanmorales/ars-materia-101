@@ -1,8 +1,8 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 1.2  
+**Versión:** 1.3  
 **Estado:** ACTIVO  
-**Fecha:** 2026-09-14  
+**Fecha:** 2026-09-16  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
 **Fuente de verdad:** GitHub `main`
 
@@ -35,41 +35,41 @@ Debe permitir responder rápidamente:
 12. no aumentar granularidad sin una función nueva demostrable.
 13. simetría de arquitectura + evolución de complejidad.
 14. Espiral de Casos = casos reutilizables, transferencia y andamiaje decreciente sin crear tareas paralelas.
+15. Patrón validado = arquitectura reusable, no plantilla de contenido.
 
 ## 3. Vista F0–F10
 
 | Tramo | Función en Ars Materia | Estado práctico |
 |---|---|---|
 | **F0** | autoridad, repositorio, estado, continuidad y gobernanza | BASE OPERATIVA ESTABLECIDA |
-| **F1** | fundamentos histórico-epistemológicos y arquitectura conceptual | RECTOR DISPONIBLE Y OPERACIONALIZADO EN H1-H2 |
+| **F1** | fundamentos histórico-epistemológicos y arquitectura conceptual | RECTOR OPERACIONALIZADO EN H1-H2 |
 | **F2** | alineación pedagógica, evidencia, evaluación, DUA y apoyos | ACTIVA Y PROBADA EN H1-H2 |
-| **F3** | trayectoria FEHE H1-H10, PROEMA y arquitectura longitudinal | H1-H2 IMPLEMENTADOS; ESPIRAL DE CASOS ACTIVADA EN FD1 |
-| **F4** | microdiseño/OVAt | H1 CERRADO; H2 PRODUCIDO |
-| **F5** | prototipado integrado | H1 VALIDADO; H2 MONTADO Y VERIFICADO |
-| **F6** | DUA + IA + tecnología + lúdica operacional | ACTIVADA PROPORCIONALMENTE EN H1-H2 |
-| **F7** | auditoría integral de calidad | H1 COMPLETADA; H2 CIERRE FINAL PENDIENTE |
-| **F8** | producción y montaje Moodle/LMS | H1 Y H2 MONTADOS; H2 VERIFICADO · D-025 |
-| **F9** | validación con evidencia real | H1 COMPLETADA; H2 PENDIENTE GATE INTEGRAL |
-| **F10** | metaevaluación, transferencia, archivo y evolución | PATRÓN OVAt-H EN PRUEBA FINAL H2 |
+| **F3** | trayectoria FEHE H1-H10, PROEMA y arquitectura longitudinal | H1-H2 IMPLEMENTADOS; H3 AUTORIZADO PARA APERTURA |
+| **F4** | microdiseño/OVAt | H1-H2 CERRADOS; H3 PENDIENTE FEHE |
+| **F5** | prototipado integrado | H1-H2 VALIDADOS COMO SISTEMAS |
+| **F6** | DUA + IA + tecnología + lúdica operacional | ACTIVADA PROPORCIONALMENTE |
+| **F7** | auditoría integral de calidad | H1-H2 COMPLETADAS |
+| **F8** | producción y montaje Moodle/LMS | H1-H2 MONTADOS Y VERIFICADOS |
+| **F9** | validación con evidencia real | H1-H2 COMPLETADAS |
+| **F10** | metaevaluación, transferencia, archivo y evolución | PATRÓN OVAt-H v1.0 VALIDADO · D-027 |
 
 ## 4. Carril de producción actual
 
 ```text
 H1 APROBADO COMO MODELO OPERATIVO
 → Patrón OVAt-H v1.0 CANDIDATO
-→ FEHE-H2 aprobada con condiciones
-→ Especificación OVAt-H2 aprobada con condiciones
-→ producción secuencial H2
+→ FEHE-H2 + Especificación OVAt-H2
+→ producción + Moodle H2
 → D-024 Espiral de Casos + FD1 Caso Ancla A
-→ montaje Moodle H2
-→ verificación humana H2 ✓
+→ D-025 H2 MONTADO Y VERIFICADO
 → auditoría inversa final H2
-→ Gate Integral H2
-→ decisión sobre validación/ajuste del Patrón OVAt-H
-→ eventual autorización para H3
+→ D-027 Gate Integral H2 · GO
+→ Patrón OVAt-H v1.0 VALIDADO
+→ apertura controlada H3
+→ FEHE-H3 profunda
 ```
 
-H3-H10 permanecen no propagadas hasta cerrar la prueba de transferencia H2.
+H4-H10 permanecen no propagadas hasta que su secuencia curricular corresponda.
 
 ## 5. Carril metodológico y de trazabilidad
 
@@ -85,7 +85,7 @@ decisión / hipótesis
 → impacto en protocolo transferible
 ```
 
-Materia Mundi sigue funcionando como antecedente y referencia de implementación avanzada. Ars Materia ya ha demostrado que la metodología puede transferirse sin copiar contenido, primero en H1 y ahora mediante la prueba H2.
+Materia Mundi sigue funcionando como antecedente y referencia de implementación avanzada. Ars Materia ha demostrado transferencia real en H1→H2 sin copiar contenido.
 
 ## 6. Aprendizajes metodológicos acumulados
 
@@ -97,15 +97,21 @@ Materia Mundi sigue funcionando como antecedente y referencia de implementación
 - economía de tareas.
 - QA situado + auditoría inversa + Gate.
 
-### Confirmados o refinados durante H2
+### Confirmados y validados en H2
 
 - simetría estructural sin clonación superficial;
 - complejidad científico-material creciente con andamiaje ajustado;
 - RTM-H2 como producto distinto de la Ficha H1;
-- Vinča/Belovode como caso rector de reconstrucción causal;
-- FD1 como nodo H1+H2;
-- D-024: el foro puede fundar un Caso Ancla seleccionado por el estudiante y alimentar un Portafolio de Casos;
-- Espiral de Casos como nueva arquitectura longitudinal de Clase, distinta de PROEMA.
+- caso rector y contrastes como campos condicionales;
+- F5 puede evolucionar hacia un Caso Ancla seleccionado por el estudiante;
+- Espiral de Casos como arquitectura longitudinal de Clase distinta de PROEMA;
+- producto reusable y transferencia no requieren nuevas tareas por defecto.
+
+### Resultado metodológico
+
+> **Patrón OVAt-H transferible v1.0 VALIDADO · D-027**
+
+La validación autoriza reuso proporcional del patrón, no reproducción mecánica de H1 o H2.
 
 ## 7. Umbral de documentación
 
@@ -123,26 +129,38 @@ No documentar por ceremonia detalles reversibles sin efecto sistémico.
 
 ## 8. Próximo Gate
 
-**Gate Integral H2.**
+El próximo Gate curricular será **Gate FEHE-H3**, una vez producida la FEHE-H3 profunda.
 
-Debe revisar, como sistema:
+Antes de abrir Especificación OVAt-H3 debe verificarse:
 
-- fidelidad FEHE-H2 → OVAt-H2;
-- simetría F1-F6 sin clonación H1;
-- RTM-H2 y economía de tareas;
-- FD1 / Caso Ancla A / Espiral de Casos;
-- carga situada;
-- Moodle montado y verificado;
-- auditoría inversa;
-- límites y procedencia;
-- evidencia para validar, ajustar o rechazar el Patrón OVAt-H v1.0.
+- problema rector propio de H3;
+- continuidad `seleccionar/preparar → transformar → combinar`;
+- cuatro lentes integradas;
+- profundidad científico-material delimitada;
+- caso/evidencia pertinente;
+- producto reusable candidato;
+- relación con Espiral y PROEMA sin duplicación;
+- trazabilidad con Patrón OVAt-H v1.0 VALIDADO.
 
-## 9. Regla de salida del Gate H2
+## 9. Regla de apertura H3
 
-Resultados posibles:
+H3 es la **primera aplicación del patrón ya validado**.
 
-- **VALIDADO:** Patrón OVAt-H v1.0 puede propagarse proporcionalmente.
-- **VALIDADO CON AJUSTES:** producir v1.1 antes de H3.
-- **NO VALIDADO:** revisar el patrón antes de propagar.
+Debe:
 
-La Espiral de Casos permanece aprobada como arquitectura longitudinal mediante D-024, pero su validación completa requiere evidencia acumulada de FD2-FD5.
+1. derivar de FEHE-H3 propia;
+2. preservar F1-F6 funcionalmente;
+3. no copiar casos, formatos, extensiones ni productos de H1/H2;
+4. continuar evolución de complejidad y autonomía;
+5. mantener QA y Gates situados;
+6. no abrir FD2, que corresponde al nodo H3+H4 en la H par siguiente.
+
+## 10. Regla de no propagación automática
+
+D-027 valida el Patrón OVAt-H, pero no autoriza producir H4-H10 en bloque.
+
+La secuencia continúa H por H:
+
+`FEHE propia → Gate FEHE → Especificación OVAt → Gate → producción → Moodle/QA → Gate integral`
+
+La Espiral de Casos continúa longitudinalmente, pero FD2 sólo se activa cuando corresponda al nodo H3+H4.
