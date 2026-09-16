@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 2.5  
+**Versión:** 2.6  
 **Fecha:** 2026-09-16  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -8,7 +8,7 @@
 
 ## 1. Posición del proyecto
 
-**H1 permanece APROBADO COMO MODELO OPERATIVO. H2 queda APROBADO COMO SISTEMA mediante D-027. El Patrón OVAt-H transferible v1.0 queda VALIDADO tras prueba integral H2. Se autoriza apertura controlada de H3 comenzando por FEHE-H3 profunda. H4-H10 no se propagan todavía.**
+**H1 permanece APROBADO COMO MODELO OPERATIVO. H2 queda APROBADO COMO SISTEMA mediante D-027. El Patrón OVAt-H transferible v1.0 está VALIDADO. H3 se encuentra ABIERTO EN FASE FEHE: FEHE-H3 profunda v0.1 fue producida como CANDIDATA y Gate FEHE-H3 está ABIERTO para decisión humana. H4-H10 no se propagan todavía.**
 
 Framework Genérico V4.1.0 permanece activo de forma integral y proporcional.
 
@@ -28,7 +28,9 @@ D-026 mantiene provisionalmente los materiales sustantivos PROEMA bajo `13_INVES
 10. D-025 reconoció H2 completo como MONTADO Y VERIFICADO EN MOODLE.
 11. D-027 cerró Gate Integral H2 con GO, declaró H2 APROBADO COMO SISTEMA y validó el Patrón OVAt-H v1.0.
 12. D-026 mantiene concentración provisional PROEMA sin taxonomía interna definitiva.
-13. H3 queda autorizado para apertura controlada; H4-H10 permanecen no propagadas.
+13. FEHE-H3 profunda v0.1 CANDIDATA producida como primera aplicación del Patrón validado.
+14. Gate FEHE-H3 ABIERTO; la Especificación OVAt-H3 permanece bloqueada hasta decisión humana.
+15. H4-H10 permanecen no propagadas.
 
 ## 3. Decisiones rectoras vigentes
 
@@ -100,20 +102,49 @@ Invariantes confirmados por H1+H2:
 8. cierre con recuperación/proyección;
 9. QA situado + auditoría inversa + Gate.
 
-Campos condicionales confirmados:
-
-- casos y contrastes;
-- microdecisión inicial;
-- producto reusable concreto;
-- FD/PROEMA;
-- profundidad científico-material;
-- grado de andamiaje;
-- herramientas Moodle;
-- recursos visuales.
-
 El patrón validado no convierte las H futuras en plantillas de contenido. Cada H debe derivar de FEHE propia.
 
-## 7. Espiral de Casos Ars Materia
+## 7. Estado de H3
+
+Ruta FEHE:
+
+`08_CURSOS_PROGRAMAS_Y_TRAYECTORIAS/FEHE_H1-H10/H3/CIFI4074_FEHE_H3_Profunda_v0.1_CANDIDATA.md`
+
+Gate:
+
+`18_DOCUMENTACION_ACTIVA/GATE_FEHE_H3.md`
+
+Estado:
+
+> **FEHE-H3 CANDIDATA · GATE ABIERTO**
+
+Movimiento longitudinal:
+
+`H2 transformar → H3 combinar → H4 controlar superficies e interfaces`
+
+Tesis candidata:
+
+`componentes + forma de combinación + interfaz + ambiente → comportamiento del sistema → evidencia → inferencia → límite`
+
+Concepto organizador:
+
+> **COMPATIBILIDAD**
+
+Unidad de análisis:
+
+> **SISTEMA MATERIAL**
+
+Producto reusable candidato:
+
+> **Mapa de Sistema Material H3 · MSM-H3**
+
+Candidato preferente para caso rector:
+
+> **mortero/revestimiento romano como sistema**, con pintura mural o mosaico como contraste de transferencia.
+
+FD2 no se activa en H3. H3 prepara la profundización del Caso Ancla A; FD2 corresponde a H4 como nodo H3+H4.
+
+## 8. Espiral de Casos Ars Materia
 
 Estado:
 
@@ -125,11 +156,9 @@ Ruta funcional:
 
 `fundar → profundizar → transferir → discriminar/diseñar → decidir/sintetizar`
 
-con andamiaje decreciente y Portafolio acumulativo de productos ya producidos.
+H3 puede cultivar proceso, compatibilidad, relaciones entre materiales y causalidad de sistema, pero no debe exigir todavía la Revisión 1 del Caso A.
 
-El éxito de FD1 no autoriza diseñar FD2-FD5 fuera de su secuencia curricular.
-
-## 8. PROEMA
+## 9. PROEMA
 
 Ruta funcional provisional:
 
@@ -140,25 +169,11 @@ Estado:
 - PROEMA permanece distinto de la Espiral de Casos;
 - D-026 conserva provisionalmente materiales bajo una ruta común;
 - no existe todavía taxonomía interna definitiva basada automáticamente en E1-E5 o U13/U14;
-- cualquier reorganización futura debe derivar de autoridad, función y rutas canónicas.
-
-## 9. Resultado de la prueba de transferencia H2
-
-| Criterio | Estado |
-|---|---|
-| Deriva de FEHE propia | CUMPLIDO |
-| Conserva F1-F6 sin clonar H1 | CUMPLIDO |
-| Producto reusable propio | CUMPLIDO · RTM-H2 |
-| FD1 integra H1+H2 | CUMPLIDO Y REFINADO POR D-024 |
-| Economía de tareas | CUMPLIDA |
-| Complejidad y andamiaje evolucionan | CUMPLIDO |
-| Moodle montado/verificado | CUMPLIDO · D-025 |
-| Auditoría inversa sin críticos/mayores | CUMPLIDO |
-| Patrón transferible | **VALIDADO · D-027** |
+- H3 puede fertilizar PROEMA con conceptos de sistema/compatibilidad sin crear entrega adicional.
 
 ## 10. Secuencia activa
 
-`Patrón OVAt-H v1.0 VALIDADO → apertura controlada H3 → FEHE-H3 profunda → Gate FEHE-H3 → Especificación OVAt-H3 → producción secuencial → Moodle/QA → Gate Integral H3`
+`Patrón OVAt-H v1.0 VALIDADO → FEHE-H3 profunda CANDIDATA ✓ → Gate FEHE-H3 ABIERTO → decisión humana → Especificación OVAt-H3 → producción secuencial → Moodle/QA → Gate Integral H3`
 
 No se propaga H4-H10 automáticamente.
 
@@ -170,20 +185,21 @@ No se propaga H4-H10 automáticamente.
 4. Evaluar incorporación al repositorio de artefactos finales H1/H2 actualmente en Moodle/local.
 5. Continuar validación longitudinal de la Espiral de Casos en FD2-FD5.
 6. Resolver arquitectura documental semántica de PROEMA antes de crear nuevas rutas internas.
-7. Verificar manualmente cualquier copia local externa contra GitHub `main`.
+7. Verificar referencias académicas completas y procedencia visual antes de producción OVAt-H3.
 
 ## 12. No hacer todavía
 
+- No producir Especificación OVAt-H3 antes de decisión humana del Gate FEHE-H3.
 - No propagar H4-H10 automáticamente.
 - No convertir el Patrón validado en plantilla rígida.
-- No diseñar H3 copiando casos, formatos, extensiones o productos de H1/H2.
+- No convertir H3 en historia general de arquitectura antigua.
+- No tratar “concreto romano” como receta universal.
+- No adelantar H4 mediante teoría avanzada de superficies/interfaces.
 - No abrir FD2 fuera de la secuencia H3+H4.
 - No fusionar Espiral de Casos y PROEMA.
-- No crear taxonomía PROEMA interna no aprobada.
-- No asumir que validación del patrón sustituye QA situado futuro.
 
 ## 13. Único próximo movimiento curricular
 
-> **Abrir FEHE-H3 profunda como primera aplicación del Patrón OVAt-H v1.0 VALIDADO.**
+> **Someter FEHE-H3 profunda v0.1 al Gate FEHE-H3 para decisión humana.**
 
-H3 debe derivar de su propio problema material e histórico, preservar la arquitectura funcional y demostrar nuevamente trazabilidad, economía y evolución de complejidad.
+Sólo un GO o GO CON CONDICIONES autoriza producir la Especificación OVAt-H3.
