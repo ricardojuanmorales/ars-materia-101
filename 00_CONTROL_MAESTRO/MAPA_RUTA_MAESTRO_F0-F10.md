@@ -1,6 +1,6 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 1.3  
+**Versión:** 1.4  
 **Estado:** ACTIVO  
 **Fecha:** 2026-09-16  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
@@ -10,15 +10,6 @@
 
 Mantener una vista compacta y recuperable del proyecto completo para que producción educativa, documentación metodológica, trazabilidad y evolución del protocolo avancen como un solo sistema.
 
-Debe permitir responder rápidamente:
-- dónde estamos;
-- qué está aprobado;
-- qué puede producirse ahora;
-- qué debe esperar;
-- cuál es el próximo Gate;
-- qué evidencia de proceso debe conservarse;
-- cómo una decisión local afecta el protocolo transferible.
-
 ## 2. Principios rectores
 
 1. Framework Genérico V4.1.0 activo de forma integral y proporcional.
@@ -26,141 +17,114 @@ Debe permitir responder rápidamente:
 3. GitHub `main` = fuente versionada de verdad.
 4. un producto vivo por función + Git como genealogía.
 5. estructura completa, activación según necesidad.
-6. función antes que formato para ubicar documentos.
-7. trazabilidad metodológica y producción educativa tienen igual importancia operativa.
-8. Humano decide propósito, cambios sustantivos y Gates.
+6. función antes que formato.
+7. trazabilidad metodológica y producción educativa tienen igual importancia.
+8. Humano decide cambios sustantivos y Gates.
 9. IA analiza, integra, propone y reduce complejidad.
-10. Máquina ejecuta, verifica estado y conserva trazabilidad.
+10. máquina ejecuta y conserva trazabilidad.
 11. DUA, accesibilidad, ética y sostenibilidad se anticipan.
-12. no aumentar granularidad sin una función nueva demostrable.
-13. simetría de arquitectura + evolución de complejidad.
-14. Espiral de Casos = casos reutilizables, transferencia y andamiaje decreciente sin crear tareas paralelas.
-15. Patrón validado = arquitectura reusable, no plantilla de contenido.
+12. simetría de arquitectura + evolución de complejidad.
+13. Espiral de Casos = reutilización + transferencia + andamiaje decreciente.
+14. Patrón validado = arquitectura reusable, no plantilla de contenido.
 
 ## 3. Vista F0–F10
 
 | Tramo | Función en Ars Materia | Estado práctico |
 |---|---|---|
-| **F0** | autoridad, repositorio, estado, continuidad y gobernanza | BASE OPERATIVA ESTABLECIDA |
-| **F1** | fundamentos histórico-epistemológicos y arquitectura conceptual | RECTOR OPERACIONALIZADO EN H1-H2 |
-| **F2** | alineación pedagógica, evidencia, evaluación, DUA y apoyos | ACTIVA Y PROBADA EN H1-H2 |
-| **F3** | trayectoria FEHE H1-H10, PROEMA y arquitectura longitudinal | H1-H2 IMPLEMENTADOS; H3 AUTORIZADO PARA APERTURA |
-| **F4** | microdiseño/OVAt | H1-H2 CERRADOS; H3 PENDIENTE FEHE |
-| **F5** | prototipado integrado | H1-H2 VALIDADOS COMO SISTEMAS |
-| **F6** | DUA + IA + tecnología + lúdica operacional | ACTIVADA PROPORCIONALMENTE |
-| **F7** | auditoría integral de calidad | H1-H2 COMPLETADAS |
-| **F8** | producción y montaje Moodle/LMS | H1-H2 MONTADOS Y VERIFICADOS |
+| **F0** | autoridad, repositorio, estado y gobernanza | BASE OPERATIVA ESTABLECIDA |
+| **F1** | fundamentos histórico-epistemológicos | RECTOR OPERACIONALIZADO H1-H3 |
+| **F2** | alineación pedagógica, evidencia, DUA y apoyos | ACTIVA Y PROBADA H1-H2; H3 EN ESPECIFICACIÓN |
+| **F3** | trayectoria FEHE H1-H10, PROEMA y arquitectura longitudinal | H1-H2 IMPLEMENTADOS; FEHE-H3 APROBADA · D-028 |
+| **F4** | microdiseño/OVAt | H1-H2 CERRADOS; OVAt-H3 CANDIDATO |
+| **F5** | prototipado integrado | H1-H2 VALIDADOS; H3 PENDIENTE GATE OVAt |
+| **F6** | DUA + IA + tecnología operacional | ACTIVA PROPORCIONALMENTE |
+| **F7** | auditoría integral de calidad | H1-H2 COMPLETADAS; H3 FUTURA |
+| **F8** | producción y montaje Moodle | H1-H2 MONTADOS; H3 NO PRODUCIDO |
 | **F9** | validación con evidencia real | H1-H2 COMPLETADAS |
-| **F10** | metaevaluación, transferencia, archivo y evolución | PATRÓN OVAt-H v1.0 VALIDADO · D-027 |
+| **F10** | metaevaluación y evolución | PATRÓN OVAt-H v1.0 VALIDADO · D-027 |
 
 ## 4. Carril de producción actual
 
 ```text
 H1 APROBADO COMO MODELO OPERATIVO
-→ Patrón OVAt-H v1.0 CANDIDATO
-→ FEHE-H2 + Especificación OVAt-H2
-→ producción + Moodle H2
-→ D-024 Espiral de Casos + FD1 Caso Ancla A
-→ D-025 H2 MONTADO Y VERIFICADO
-→ auditoría inversa final H2
-→ D-027 Gate Integral H2 · GO
-→ Patrón OVAt-H v1.0 VALIDADO
-→ apertura controlada H3
+→ H2 APROBADO COMO SISTEMA
+→ Patrón OVAt-H v1.0 VALIDADO · D-027
 → FEHE-H3 profunda
+→ D-028 Gate FEHE-H3 · GO CON CONDICIONES MENORES
+→ Especificación OVAt-H3 v0.1 CANDIDATA
+→ Gate OVAt-H3 ABIERTO
+→ decisión humana
+→ producción secuencial H3
 ```
 
-H4-H10 permanecen no propagadas hasta que su secuencia curricular corresponda.
+H4-H10 permanecen no propagadas hasta que su secuencia curricular corresponda. FD2 no se activa hasta H4.
 
-## 5. Carril metodológico y de trazabilidad
+## 5. Aprendizajes metodológicos acumulados
 
-Cada avance sustantivo debe dejar, de forma proporcional:
+### Confirmados H1-H2
 
-```text
-decisión / hipótesis
-→ evidencia o fuente
-→ artefacto producido
-→ montaje / verificación
-→ Gate o estado
-→ aprendizaje metodológico
-→ impacto en protocolo transferible
-```
+- FEHE como arquitectura, no formulario;
+- F1-F6 reconocibles;
+- producto reusable;
+- economía de tareas;
+- QA situado + auditoría inversa + Gate;
+- simetría estructural sin clonación;
+- casos, producto, profundidad y andamiaje como campos condicionales;
+- F5 puede fundar Caso Ancla sin abrir investigación paralela.
 
-Materia Mundi sigue funcionando como antecedente y referencia de implementación avanzada. Ars Materia ha demostrado transferencia real en H1→H2 sin copiar contenido.
+### Aplicación H3
 
-## 6. Aprendizajes metodológicos acumulados
+H3 es la primera aplicación posterior a validación del patrón.
 
-### Confirmados en H1
+La FEHE-H3 confirma un salto de complejidad:
 
-- FEHE como arquitectura de investigación y diseño, no formulario.
-- seis funciones OVAt reconocibles.
-- producto reusable.
-- economía de tareas.
-- QA situado + auditoría inversa + Gate.
+`material transformado → sistema material combinado`
 
-### Confirmados y validados en H2
+con eje:
 
-- simetría estructural sin clonación superficial;
-- complejidad científico-material creciente con andamiaje ajustado;
-- RTM-H2 como producto distinto de la Ficha H1;
-- caso rector y contrastes como campos condicionales;
-- F5 puede evolucionar hacia un Caso Ancla seleccionado por el estudiante;
-- Espiral de Casos como arquitectura longitudinal de Clase distinta de PROEMA;
-- producto reusable y transferencia no requieren nuevas tareas por defecto.
+> **COMBINAR / COMPATIBILIDAD / SISTEMA MATERIAL**
 
-### Resultado metodológico
+Producto reusable candidato:
 
-> **Patrón OVAt-H transferible v1.0 VALIDADO · D-027**
+> **Mapa de Sistema Material H3 (MSM-H3)**
 
-La validación autoriza reuso proporcional del patrón, no reproducción mecánica de H1 o H2.
+## 6. Condiciones D-028
 
-## 7. Umbral de documentación
+1. compatibilidad como columna vertebral;
+2. caso rector situado con procedencia/licencias verificables;
+3. MSM-H3 compacto;
+4. profundidad científica contenida;
+5. no abrir H4 ni FD2;
+6. una sola actividad central y economía de tareas.
 
-Documentar cuando cambie al menos uno de estos elementos:
-- autoridad;
-- estado o Gate;
-- arquitectura;
-- metodología reusable;
-- ruta canónica;
-- criterio de aceptación;
-- riesgo material;
-- aprendizaje transferible al protocolo.
+## 7. Próximo Gate
 
-No documentar por ceremonia detalles reversibles sin efecto sistémico.
+**Gate OVAt-H3.**
 
-## 8. Próximo Gate
+Debe revisar:
 
-El próximo Gate curricular será **Gate FEHE-H3**, una vez producida la FEHE-H3 profunda.
+- trazabilidad FEHE-H3 → F1-F6;
+- caso rector situado y viable;
+- MSM-H3 manejable y reusable;
+- transferencia breve sin segunda actividad;
+- carga 65–85 min plausible;
+- profundidad científica controlada;
+- DUA y procedencia anticipadas;
+- preparación de H4 sin desarrollarlo;
+- ausencia de FD2 prematuro.
 
-Antes de abrir Especificación OVAt-H3 debe verificarse:
+## 8. Regla de salida
 
-- problema rector propio de H3;
-- continuidad `seleccionar/preparar → transformar → combinar`;
-- cuatro lentes integradas;
-- profundidad científico-material delimitada;
-- caso/evidencia pertinente;
-- producto reusable candidato;
-- relación con Espiral y PROEMA sin duplicación;
-- trazabilidad con Patrón OVAt-H v1.0 VALIDADO.
+Resultados posibles:
 
-## 9. Regla de apertura H3
+- **GO:** autoriza producción secuencial H3.
+- **GO CON CONDICIONES:** autoriza producción con condiciones vinculantes.
+- **NO-GO:** revisar Especificación OVAt-H3.
 
-H3 es la **primera aplicación del patrón ya validado**.
+## 9. Regla de no propagación automática
 
-Debe:
-
-1. derivar de FEHE-H3 propia;
-2. preservar F1-F6 funcionalmente;
-3. no copiar casos, formatos, extensiones ni productos de H1/H2;
-4. continuar evolución de complejidad y autonomía;
-5. mantener QA y Gates situados;
-6. no abrir FD2, que corresponde al nodo H3+H4 en la H par siguiente.
-
-## 10. Regla de no propagación automática
-
-D-027 valida el Patrón OVAt-H, pero no autoriza producir H4-H10 en bloque.
-
-La secuencia continúa H por H:
+D-027 valida el patrón, pero cada H mantiene su propia secuencia:
 
 `FEHE propia → Gate FEHE → Especificación OVAt → Gate → producción → Moodle/QA → Gate integral`
 
-La Espiral de Casos continúa longitudinalmente, pero FD2 sólo se activa cuando corresponda al nodo H3+H4.
+No producir H4 ni FD2 por anticipación.
