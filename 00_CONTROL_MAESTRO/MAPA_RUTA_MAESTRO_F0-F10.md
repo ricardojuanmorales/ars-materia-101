@@ -1,6 +1,6 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 1.4  
+**Versión:** 1.5  
 **Estado:** ACTIVO  
 **Fecha:** 2026-09-16  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
@@ -33,13 +33,13 @@ Mantener una vista compacta y recuperable del proyecto completo para que producc
 |---|---|---|
 | **F0** | autoridad, repositorio, estado y gobernanza | BASE OPERATIVA ESTABLECIDA |
 | **F1** | fundamentos histórico-epistemológicos | RECTOR OPERACIONALIZADO H1-H3 |
-| **F2** | alineación pedagógica, evidencia, DUA y apoyos | ACTIVA Y PROBADA H1-H2; H3 EN ESPECIFICACIÓN |
+| **F2** | alineación pedagógica, evidencia, DUA y apoyos | ACTIVA H1-H3 |
 | **F3** | trayectoria FEHE H1-H10, PROEMA y arquitectura longitudinal | H1-H2 IMPLEMENTADOS; FEHE-H3 APROBADA · D-028 |
-| **F4** | microdiseño/OVAt | H1-H2 CERRADOS; OVAt-H3 CANDIDATO |
-| **F5** | prototipado integrado | H1-H2 VALIDADOS; H3 PENDIENTE GATE OVAt |
+| **F4** | microdiseño/OVAt | H1-H2 CERRADOS; OVAt-H3 APROBADO · D-029 |
+| **F5** | prototipado integrado | H1-H2 VALIDADOS; H3 EN PRODUCCIÓN SECUENCIAL |
 | **F6** | DUA + IA + tecnología operacional | ACTIVA PROPORCIONALMENTE |
 | **F7** | auditoría integral de calidad | H1-H2 COMPLETADAS; H3 FUTURA |
-| **F8** | producción y montaje Moodle | H1-H2 MONTADOS; H3 NO PRODUCIDO |
+| **F8** | producción y montaje Moodle | H1-H2 MONTADOS; H3 INICIA F1 |
 | **F9** | validación con evidencia real | H1-H2 COMPLETADAS |
 | **F10** | metaevaluación y evolución | PATRÓN OVAt-H v1.0 VALIDADO · D-027 |
 
@@ -51,10 +51,12 @@ H1 APROBADO COMO MODELO OPERATIVO
 → Patrón OVAt-H v1.0 VALIDADO · D-027
 → FEHE-H3 profunda
 → D-028 Gate FEHE-H3 · GO CON CONDICIONES MENORES
-→ Especificación OVAt-H3 v0.1 CANDIDATA
-→ Gate OVAt-H3 ABIERTO
-→ decisión humana
+→ Especificación OVAt-H3 v0.1
+→ D-029 Gate OVAt-H3 · GO
 → producción secuencial H3
+→ F1 Bienvenida H3
+→ verificación F1
+→ F2 Marco FEHE H3
 ```
 
 H4-H10 permanecen no propagadas hasta que su secuencia curricular corresponda. FD2 no se activa hasta H4.
@@ -84,11 +86,11 @@ con eje:
 
 > **COMBINAR / COMPATIBILIDAD / SISTEMA MATERIAL**
 
-Producto reusable candidato:
+Producto reusable:
 
 > **Mapa de Sistema Material H3 (MSM-H3)**
 
-## 6. Condiciones D-028
+## 6. Condiciones vigentes D-028
 
 1. compatibilidad como columna vertebral;
 2. caso rector situado con procedencia/licencias verificables;
@@ -97,29 +99,38 @@ Producto reusable candidato:
 5. no abrir H4 ni FD2;
 6. una sola actividad central y economía de tareas.
 
-## 7. Próximo Gate
+D-029 aprueba la especificación sin levantar estas condiciones.
 
-**Gate OVAt-H3.**
+## 7. Producción secuencial H3
+
+Regla operativa:
+
+`producir → verificar → abrir siguiente componente`
+
+Orden:
+
+1. F1 · Bienvenida;
+2. F2 · Marco FEHE;
+3. F3 · Profundización;
+4. F4 · Actividad central + MSM-H3;
+5. F5 · Transferencia/reuso;
+6. F6 · Cierre longitudinal.
+
+El próximo componente no se abre hasta verificar el anterior cuando exista riesgo de deriva.
+
+## 8. Próximo control
+
+**Verificación humana de F1 · Bienvenida H3.**
 
 Debe revisar:
 
-- trazabilidad FEHE-H3 → F1-F6;
-- caso rector situado y viable;
-- MSM-H3 manejable y reusable;
-- transferencia breve sin segunda actividad;
-- carga 65–85 min plausible;
-- profundidad científica controlada;
-- DUA y procedencia anticipadas;
-- preparación de H4 sin desarrollarlo;
-- ausencia de FD2 prematuro.
-
-## 8. Regla de salida
-
-Resultados posibles:
-
-- **GO:** autoriza producción secuencial H3.
-- **GO CON CONDICIONES:** autoriza producción con condiciones vinculantes.
-- **NO-GO:** revisar Especificación OVAt-H3.
+- entrada clara a COMBINAR/COMPATIBILIDAD;
+- continuidad H2→H3;
+- micro-predicción útil y recuperable;
+- ausencia de mini-lección;
+- carga 5–7 min plausible;
+- DUA y legibilidad;
+- puente hacia F2 sin desarrollar contenido prematuramente.
 
 ## 9. Regla de no propagación automática
 
