@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 3.0  
+**Versión:** 3.1  
 **Fecha:** 2026-09-17  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -8,7 +8,7 @@
 
 ## 1. Posición del proyecto
 
-**H1 permanece APROBADO COMO MODELO OPERATIVO. H2 permanece APROBADO COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H3 queda APROBADO COMO SISTEMA mediante D-031 tras producción, montaje, prueba Moodle y Auditoría Inversa H3. Se autoriza apertura controlada de FEHE-H4 profunda. FD2 permanece cerrado hasta que H4 alcance el nodo curricular H3+H4.**
+**H1 permanece APROBADO COMO MODELO OPERATIVO. H2 permanece APROBADO COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H3 permanece APROBADO COMO SISTEMA mediante D-031. FEHE-H4 profunda v0.1 CANDIDATA ha sido producida y Gate FEHE-H4 queda ABIERTO para decisión humana. No se autoriza todavía Especificación OVAt-H4 ni producción H4. FD2 permanece cerrado hasta resolución del Gate y posterior definición en OVAt-H4.**
 
 Framework Genérico V4.1.0 permanece activo de forma integral y proporcional.
 
@@ -20,14 +20,11 @@ D-026 mantiene provisionalmente los materiales sustantivos PROEMA bajo `13_INVES
 2. Patrón OVAt-H v1.0 VALIDADO mediante D-027 tras prueba H2.
 3. H2 aprobado como sistema mediante D-027.
 4. Espiral de Casos aprobada mediante D-024; FD1 implementado como FUNDAR Caso Ancla A.
-5. FEHE-H3 profunda v1.0 aprobada con condiciones menores mediante D-028.
-6. Especificación OVAt-H3 v0.1 aprobada mediante D-029.
-7. U5-H3 completo producido, montado y probado en Moodle mediante D-030.
-8. Auditoría Inversa H3 v1.0 completada sin hallazgos críticos o mayores.
-9. Gate Integral H3 cerrado con GO mediante D-031.
-10. H3 APROBADO COMO SISTEMA.
-11. Apertura controlada de FEHE-H4 profunda autorizada.
-12. FD2 permanece cerrado hasta el nodo H3+H4.
+5. H3 aprobado como sistema mediante D-031.
+6. Apertura controlada FEHE-H4 autorizada mediante D-031.
+7. FEHE-H4 profunda v0.1 CANDIDATA producida.
+8. Gate FEHE-H4 ABIERTO para decisión humana.
+9. FD2 permanece cerrado hasta que H4 sea aprobado y la Especificación OVAt-H4 determine ubicación/carga.
 
 ## 3. Decisiones rectoras vigentes
 
@@ -50,7 +47,7 @@ D-026 mantiene provisionalmente los materiales sustantivos PROEMA bajo `13_INVES
 
 ### H1
 
-**APROBADO COMO MODELO OPERATIVO · D-020.** No se reabre salvo contradicción funcional nueva.
+**APROBADO COMO MODELO OPERATIVO · D-020.**
 
 ### H2
 
@@ -72,14 +69,6 @@ Producto reusable:
 
 > **Mapa de Sistema Material H3 (MSM-H3)**
 
-Gate Integral H3:
-
-> **CERRADO · GO · D-031**
-
-Hallazgo metodológico conservado:
-
-> **La simetría funcional necesita una gramática editorial reconocible, pero esa gramática no debe convertirse en una plantilla rígida de contenido.**
-
 No se requiere Patrón OVAt-H v1.1 antes de continuar.
 
 ## 5. Patrón OVAt-H transferible v1.0
@@ -94,29 +83,61 @@ Arquitectura funcional:
 
 La validación no convierte las H futuras en plantillas de contenido. Cada H deriva de FEHE propia y conserva QA situado.
 
-## 6. Apertura H4
+## 6. Estado de H4
+
+### FEHE-H4 profunda
+
+Ruta canónica candidata:
+
+`08_CURSOS_PROGRAMAS_Y_TRAYECTORIAS/FEHE_H1-H10/H4/CIFI4074_FEHE_H4_Profunda_v0.1_CANDIDATA.md`
 
 Estado:
 
-> **FEHE-H4 PROFUNDA AUTORIZADA PARA APERTURA CONTROLADA · D-031**
+> **CANDIDATA · PENDIENTE GATE FEHE-H4**
 
-Regla operativa:
+Título:
 
-`FEHE-H4 propia → Gate FEHE-H4 → Especificación OVAt-H4 → Gate → producción → Moodle/QA → Gate integral`
+> **Color, luz y devoción: materiales medievales**
 
-Continuidad longitudinal heredada de H3:
+Movimiento rector:
 
-`H2 transformar → H3 combinar → H4 controlar superficies e interfaces`
+> **CONTROLAR SUPERFICIES E INTERFACES**
 
-El desarrollo de H4 debe comenzar por su FEHE profunda. No se autoriza producción en bloque.
+Concepto organizador candidato:
+
+> **MODULACIÓN DE SUPERFICIE**
+
+Unidad de análisis candidata:
+
+> **SUPERFICIE / INTERFAZ FUNCIONAL**
+
+Cadena conceptual candidata:
+
+`soporte + preparación superficial + material aplicado + interfaz + luz/ambiente → apariencia y función → evidencia → inferencia → límite`
+
+Caso rector candidato preferente: manuscrito iluminado situado.  
+Contraste candidato: vitral medieval.  
+Producto reusable candidato: **Mapa de Superficie e Interfaz H4 (MSI-H4)**.
+
+### Gate FEHE-H4
+
+Ruta:
+
+`18_DOCUMENTACION_ACTIVA/GATE_FEHE_H4.md`
+
+Estado:
+
+> **ABIERTO · PENDIENTE DE DECISIÓN HUMANA**
+
+No se autoriza todavía Especificación OVAt-H4.
 
 ## 7. Espiral de Casos Ars Materia
 
 - arquitectura aprobada mediante D-024;
 - FD1 implementado y verificado;
-- validación longitudinal completa pendiente de FD2-FD5;
-- H3 prepara dimensiones relacionales del Caso A;
-- **FD2 permanece cerrado** y sólo se activa cuando H4 alcance el nodo curricular H3+H4.
+- FD2 corresponde al nodo H3+H4 y su función es **PROFUNDIZAR**;
+- FEHE-H4 candidata define que H4 puede activar FD2, pero su ubicación, carga y evidencia deben resolverse sólo después de aprobar FEHE-H4 y dentro de Especificación OVAt-H4;
+- FD2 permanece **CERRADO** en este estado.
 
 ## 8. PROEMA
 
@@ -128,7 +149,11 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 
 ## 9. Secuencia activa
 
-`H3 APROBADO COMO SISTEMA · D-031 → apertura controlada FEHE-H4 profunda → Gate FEHE-H4`
+`H3 APROBADO COMO SISTEMA · D-031 → FEHE-H4 v0.1 CANDIDATA → Gate FEHE-H4 ABIERTO → decisión humana`
+
+Con GO o GO CON CONDICIONES:
+
+`→ Especificación OVAt-H4 candidata → Gate OVAt-H4 → producción secuencial`
 
 ## 10. Deuda documental abierta
 
@@ -138,15 +163,18 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 4. Resolver arquitectura documental semántica de PROEMA antes de crear nuevas rutas internas.
 5. Medir carga con estudiantes durante implementación real.
 6. Verificar copias locales externas contra GitHub `main`.
+7. Cerrar bibliografía situada y procedencia visual del futuro caso rector H4 antes de producción.
 
 ## 11. No hacer todavía
 
-- No producir H4 en bloque antes de FEHE-H4 y su Gate.
-- No activar FD2 antes del nodo curricular H3+H4.
-- No modificar Patrón OVAt-H v1.0 sólo por el hallazgo editorial H3.
-- No convertir gramática editorial en plantilla mecánica.
+- No declarar FEHE-H4 aprobada antes de decisión humana del Gate.
+- No producir Especificación OVAt-H4 antes de GO o GO CON CONDICIONES.
+- No producir componentes H4 ni montar Moodle.
+- No activar FD2 todavía.
+- No abrir H5.
+- No modificar Patrón OVAt-H v1.0 sólo por gramática editorial.
 - No fusionar Espiral de Casos y PROEMA.
 
 ## 12. Único próximo movimiento curricular
 
-> **Producir FEHE-H4 profunda como siguiente objeto curricular y someterla a Gate FEHE-H4 antes de abrir Especificación OVAt-H4.**
+> **Decisión humana sobre Gate FEHE-H4.**
