@@ -1,6 +1,6 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 1.9  
+**Versión:** 2.0  
 **Estado:** ACTIVO  
 **Fecha:** 2026-09-17  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
@@ -36,7 +36,7 @@ Mantener una vista compacta y recuperable del proyecto completo para que producc
 | **F1** | fundamentos histórico-epistemológicos | H1-H3 CERRADOS; FEHE-H4 APROBADA · D-032 |
 | **F2** | alineación pedagógica, evidencia, DUA y apoyos | ACTIVA H1-H4 A NIVEL FEHE |
 | **F3** | trayectoria FEHE H1-H10, PROEMA y arquitectura longitudinal | FEHE-H4 APROBADA · D-032 |
-| **F4** | microdiseño/OVAt | H1-H3 CERRADOS; OVAt-H4 AUTORIZADO PARA ESPECIFICACIÓN |
+| **F4** | microdiseño/OVAt | H1-H3 CERRADOS; OVAt-H4 v0.1 CANDIDATA EN GATE |
 | **F5** | prototipado integrado | H1-H3 VALIDADOS COMO SISTEMAS/MODELO |
 | **F6** | DUA + IA + tecnología operacional | ACTIVA PROPORCIONALMENTE |
 | **F7** | auditoría integral de calidad | H1-H3 COMPLETADAS |
@@ -52,8 +52,9 @@ H1 APROBADO COMO MODELO OPERATIVO
 → Patrón OVAt-H v1.0 VALIDADO · D-027
 → H3 APROBADO COMO SISTEMA · D-031
 → FEHE-H4 profunda APROBADA · D-032
-→ Especificación OVAt-H4 v0.1 CANDIDATA
-→ Gate OVAt-H4
+→ Especificación OVAt-H4 v0.1 CANDIDATA ✓
+→ Gate OVAt-H4 ABIERTO
+→ decisión humana
 ```
 
 Con GO o GO CON CONDICIONES al Gate OVAt-H4:
@@ -135,6 +136,18 @@ Cada H mantiene su secuencia:
 
 Patrón validado y gramática editorial no equivalen a contenido predeterminado.
 
-## 10. Próximo control
+## 10. Especificación OVAt-H4 candidata
 
-> **Producir Especificación OVAt-H4 v0.1 CANDIDATA y someterla a Gate OVAt-H4.**
+Decisiones de diseño sometidas a Gate:
+
+- caso rector: **Laudario de Sant’Agnese**;
+- contraste: **Great East Window · York Minster**;
+- producto reusable: **MSI-H4**;
+- carga total H4 + FD2: **80–105 min**;
+- FD2: después de F5 y antes de F6;
+- FD2: **PROFUNDIZAR**, Revisión 1 del Caso A;
+- andamiaje H4: MEDIO → MEDIO-BAJO.
+
+## 11. Próximo control
+
+> **Decisión humana sobre Gate OVAt-H4.**
