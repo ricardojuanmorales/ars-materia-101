@@ -1,6 +1,6 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 1.7  
+**Versión:** 1.8  
 **Estado:** ACTIVO  
 **Fecha:** 2026-09-17  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
@@ -33,10 +33,10 @@ Mantener una vista compacta y recuperable del proyecto completo para que producc
 | Tramo | Función en Ars Materia | Estado práctico |
 |---|---|---|
 | **F0** | autoridad, repositorio, estado y gobernanza | BASE OPERATIVA ESTABLECIDA |
-| **F1** | fundamentos histórico-epistemológicos | RECTOR OPERACIONALIZADO H1-H3; H4 ABIERTO EN FEHE |
-| **F2** | alineación pedagógica, evidencia, DUA y apoyos | ACTIVA H1-H3; H4 PENDIENTE FEHE |
-| **F3** | trayectoria FEHE H1-H10, PROEMA y arquitectura longitudinal | H1-H3 DESARROLLADOS; FEHE-H4 AUTORIZADA |
-| **F4** | microdiseño/OVAt | H1-H3 CERRADOS; H4 AÚN NO ABIERTO EN OVAt |
+| **F1** | fundamentos histórico-epistemológicos | H1-H3 CERRADOS; FEHE-H4 CANDIDATA EN GATE |
+| **F2** | alineación pedagógica, evidencia, DUA y apoyos | ACTIVA H1-H3; H4 DEFINIDA A NIVEL FEHE CANDIDATA |
+| **F3** | trayectoria FEHE H1-H10, PROEMA y arquitectura longitudinal | FEHE-H4 v0.1 PRODUCIDA; GATE ABIERTO |
+| **F4** | microdiseño/OVAt | H1-H3 CERRADOS; OVAt-H4 NO ABIERTO |
 | **F5** | prototipado integrado | H1-H3 VALIDADOS COMO SISTEMAS/MODELO |
 | **F6** | DUA + IA + tecnología operacional | ACTIVA PROPORCIONALMENTE |
 | **F7** | auditoría integral de calidad | H1-H3 COMPLETADAS |
@@ -50,17 +50,20 @@ Mantener una vista compacta y recuperable del proyecto completo para que producc
 H1 APROBADO COMO MODELO OPERATIVO
 → H2 APROBADO COMO SISTEMA
 → Patrón OVAt-H v1.0 VALIDADO · D-027
-→ H3 FEHE · D-028
-→ H3 OVAt · D-029
-→ H3 MONTADO/PROBADO · D-030
-→ Auditoría Inversa H3 ✓
-→ Gate Integral H3 · GO · D-031
-→ H3 APROBADO COMO SISTEMA
-→ apertura controlada FEHE-H4 profunda
-→ Gate FEHE-H4
+→ H3 APROBADO COMO SISTEMA · D-031
+→ FEHE-H4 profunda v0.1 CANDIDATA
+→ Gate FEHE-H4 ABIERTO
+→ decisión humana
 ```
 
-FD2 permanece cerrado hasta que H4 alcance el nodo curricular H3+H4.
+Con GO o GO CON CONDICIONES:
+
+```text
+→ Especificación OVAt-H4 candidata
+→ Gate OVAt-H4
+→ producción secuencial H4
+→ activación situada de FD2 cuando corresponda
+```
 
 ## 5. Aprendizajes metodológicos acumulados
 
@@ -79,44 +82,62 @@ FD2 permanece cerrado hasta que H4 alcance el nodo curricular H3+H4.
 
 H3 demuestra que el patrón soporta un salto desde una cadena centrada en material/proceso hacia una red de **sistema/compatibilidad/interfaz**.
 
-Arquitectura implementada:
-
-`Bienvenida → Presentación FEHE → Lectura → Baia + MSM-H3 → pintura mural como transferencia → Cierre`
-
 Hallazgo metodológico:
 
 > **La simetría funcional necesita una gramática editorial reconocible, pero esa gramática no debe convertirse en plantilla rígida de contenido.**
 
 D-031 conserva este hallazgo como aprendizaje metodológico sin exigir Patrón v1.1.
 
-## 6. Estado H3 cerrado
+### Propuesta H4 sometida a Gate
 
-- FEHE-H3: APROBADA · D-028.
-- Especificación OVAt-H3: APROBADA · D-029.
-- Producción F1-F6: COMPLETADA.
-- Moodle: MONTADO Y PROBADO · D-030.
-- MSM-H3: implementado como producto reusable.
-- Auditoría Inversa H3: COMPLETADA.
-- Gate Integral H3: **CERRADO · GO · D-031**.
-- H3: **APROBADO COMO SISTEMA**.
+Movimiento:
 
-## 7. Próximo control
+> **CONTROLAR SUPERFICIES E INTERFACES**
 
-**FEHE-H4 profunda.**
+Concepto organizador candidato:
 
-Debe construirse como FEHE propia y someterse a Gate antes de abrir Especificación OVAt-H4.
+> **MODULACIÓN DE SUPERFICIE**
 
-Continuidad longitudinal:
+Cadena:
 
-`H2 transformar → H3 combinar → H4 controlar superficies e interfaces`
+`soporte + preparación superficial + material aplicado + interfaz + luz/ambiente → apariencia y función → evidencia → inferencia → límite`
+
+Caso rector candidato: manuscrito iluminado situado.  
+Contraste candidato: vitral medieval.  
+Producto reusable candidato: **MSI-H4**.
+
+## 6. Continuidad longitudinal
+
+`H2 transformar → H3 combinar → H4 controlar superficies e interfaces → H5 estratificar`
+
+H4 debe heredar interfaz y ambiente de H3, pero cambiar el centro desde compatibilidad del sistema hacia producción deliberada de efecto superficial/óptico.
+
+## 7. Gate FEHE-H4
+
+Estado:
+
+> **ABIERTO · PENDIENTE DE DECISIÓN HUMANA**
+
+Debe evaluar:
+
+- identidad propia de H4;
+- superficie/interfaz como columna vertebral;
+- control de profundidad óptica y científico-material;
+- delimitación histórica de “medieval”;
+- caso rector situado y procedencia;
+- MSI-H4 compacto y distinto del MSM-H3;
+- preparación de H5 sin adelantar estratigrafía;
+- activación de FD2 sin sobrecarga;
+- DUA y economía de tareas.
 
 ## 8. Regla para H4 / FD2
 
-1. abrir H4 comenzando por FEHE-H4 profunda;
-2. no producir H4 en bloque;
-3. FD2 sólo se activa cuando H4 alcance el nodo curricular H3+H4;
-4. H4 debe heredar el sistema material de H3 y transformar el problema hacia control deliberado de superficies e interfaces;
-5. la gramática editorial reconocible orienta coherencia, no contenido predeterminado.
+1. FEHE-H4 requiere decisión humana antes de abrir OVAt-H4;
+2. FD2 corresponde al nodo H3+H4 y su función es **PROFUNDIZAR**;
+3. FD2 no se monta ni se diseña definitivamente hasta Especificación OVAt-H4;
+4. la carga FD2 debe contabilizarse dentro de H4;
+5. FD2 debe pedir nuevas relaciones respecto a FD1, no una repetición;
+6. PROEMA permanece separado de la Espiral de Casos.
 
 ## 9. Regla de no propagación automática
 
@@ -125,3 +146,7 @@ Cada H mantiene su secuencia:
 `FEHE propia → Gate FEHE → Especificación OVAt → Gate → producción → Moodle/QA → Gate integral`
 
 Patrón validado y gramática editorial no equivalen a contenido predeterminado.
+
+## 10. Próximo control
+
+> **Decisión humana sobre Gate FEHE-H4.**
