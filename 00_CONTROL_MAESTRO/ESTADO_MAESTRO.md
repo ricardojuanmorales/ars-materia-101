@@ -1,14 +1,14 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 2.8  
-**Fecha:** 2026-09-16  
+**Versión:** 2.9  
+**Fecha:** 2026-09-17  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
 **Centro operativo:** ChatGPT Project **Ars Materia 101**
 
 ## 1. Posición del proyecto
 
-**H1 permanece APROBADO COMO MODELO OPERATIVO. H2 permanece APROBADO COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. FEHE-H3 profunda v1.0 permanece APROBADA CON CONDICIONES MENORES mediante D-028. Especificación OVAt-H3 v0.1 queda APROBADA mediante D-029 y se autoriza producción secuencial H3 comenzando por F1 · Bienvenida. H4-H10 no se propagan todavía; FD2 no se activa hasta H4.**
+**H1 permanece APROBADO COMO MODELO OPERATIVO. H2 permanece APROBADO COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H3 queda PRODUCIDO, MONTADO Y PROBADO EN MOODLE mediante D-030; Auditoría Inversa H3 v1.0 completada y Gate Integral H3 ABIERTO. H4 no se abre todavía; FD2 permanece cerrado hasta H4.**
 
 Framework Genérico V4.1.0 permanece activo de forma integral y proporcional.
 
@@ -22,8 +22,10 @@ D-026 mantiene provisionalmente los materiales sustantivos PROEMA bajo `13_INVES
 4. Espiral de Casos aprobada mediante D-024; FD1 implementado como FUNDAR Caso Ancla A.
 5. FEHE-H3 profunda v1.0 aprobada con condiciones menores mediante D-028.
 6. Especificación OVAt-H3 v0.1 aprobada mediante D-029.
-7. Producción secuencial H3 autorizada comenzando por F1 · Bienvenida.
-8. H4-H10 permanecen no propagadas.
+7. U5-H3 completo producido, montado y probado en Moodle mediante D-030.
+8. Auditoría Inversa H3 v1.0 completada sin hallazgos críticos o mayores.
+9. Gate Integral H3 abierto para decisión humana.
+10. H4-H10 permanecen no propagadas.
 
 ## 3. Decisiones rectoras vigentes
 
@@ -40,6 +42,7 @@ D-026 mantiene provisionalmente los materiales sustantivos PROEMA bajo `13_INVES
 - **Espiral de Casos = complejidad creciente + andamiaje decreciente + reuso longitudinal.**
 - FD1-FD5 pertenecen a Clase; Portafolio de Casos no sustituye PROEMA.
 - El estudiante conserva selección autónoma de su Caso Ancla.
+- **Hallazgo H3:** la simetría funcional necesita una gramática editorial reconocible, sin convertirse en plantilla rígida de contenido.
 
 ## 4. Estado de H1 y H2
 
@@ -79,17 +82,9 @@ Estado:
 
 > **APROBADA CON CONDICIONES MENORES · D-028**
 
-Movimiento rector:
-
-> **COMBINAR**
-
-Concepto organizador:
-
-> **COMPATIBILIDAD**
-
-Unidad de análisis:
-
-> **SISTEMA MATERIAL**
+Movimiento rector: **COMBINAR**  
+Concepto organizador: **COMPATIBILIDAD**  
+Unidad de análisis: **SISTEMA MATERIAL**
 
 Cadena conceptual:
 
@@ -103,44 +98,58 @@ Ruta canónica:
 
 Estado:
 
-> **APROBADA PARA PRODUCCIÓN SECUENCIAL · D-029**
+> **APROBADA · D-029**
 
-Parámetros principales:
+### Implementación H3
 
-- F1-F6 reconocibles;
-- caso rector: sistema situado de mortero/revestimiento romano;
-- contraste breve: pintura mural o mosaico/pavimento;
-- producto reusable: **Mapa de Sistema Material H3 (MSM-H3)**;
-- andamiaje MEDIO;
-- carga preliminar 65–85 min;
-- sin FD2;
-- procedencia documental vinculante antes de montaje.
+Estado:
 
-Gate OVAt-H3:
+> **PRODUCIDO · MONTADO · PROBADO EN MOODLE · D-030**
 
-> **CERRADO · GO · D-029**
+Arquitectura implementada:
 
-Condiciones D-028 continúan vinculantes durante producción.
+`Bienvenida → Presentación FEHE → Lectura → Baia + MSM-H3 → pintura mural como transferencia → Cierre`
 
-## 7. Producción H3
+Producto reusable:
 
-Secuencia autorizada:
+> **Mapa de Sistema Material H3 (MSM-H3)**
 
-`F1 Bienvenida → verificar → F2 Marco FEHE → verificar → F3 Profundización → verificar → F4 Actividad central + MSM-H3 → verificar → F5 Transferencia/reuso → F6 Cierre longitudinal`
+### Auditoría Inversa H3
 
-Regla inmediata:
+Ruta:
 
-> **Producir F1 · Bienvenida H3 y verificarla antes de abrir F2.**
+`18_DOCUMENTACION_ACTIVA/AUDITORIA_INVERSA_H3_v1.0.md`
 
-## 8. Espiral de Casos Ars Materia
+Estado:
+
+> **COMPLETADA · LISTA PARA GATE**
+
+Resultado global:
+
+- críticos: 0;
+- mayores: 0;
+- menores bloqueantes: 0;
+- deuda no bloqueante: procedencia/licencias documentales finales, medición de carga con estudiantes y archivo canónico de artefactos finales.
+
+### Gate Integral H3
+
+Ruta:
+
+`18_DOCUMENTACION_ACTIVA/GATE_INTEGRAL_H3.md`
+
+Estado:
+
+> **ABIERTO · PENDIENTE DE DECISIÓN HUMANA**
+
+## 7. Espiral de Casos Ars Materia
 
 - arquitectura aprobada mediante D-024;
 - FD1 implementado y verificado;
 - validación longitudinal completa pendiente de FD2-FD5;
-- H3 puede preparar dimensiones relacionales del Caso A, pero no exige todavía Revisión 1;
+- H3 prepara dimensiones relacionales del Caso A, pero no exige Revisión 1;
 - FD2 sólo se activa en H4 como nodo H3+H4.
 
-## 9. PROEMA
+## 8. PROEMA
 
 Ruta funcional provisional:
 
@@ -148,32 +157,30 @@ Ruta funcional provisional:
 
 PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente la ruta común sin taxonomía interna definitiva.
 
-## 10. Secuencia activa
+## 9. Secuencia activa
 
-`FEHE-H3 APROBADA · D-028 → Especificación OVAt-H3 APROBADA · D-029 → F1 Bienvenida H3 → verificación → F2 Marco FEHE H3`
+`H3 PRODUCIDO/MONTADO/PROBADO · D-030 → Auditoría Inversa H3 ✓ → Gate Integral H3 ABIERTO → decisión humana → sólo con GO, H3 APROBADO COMO SISTEMA → apertura FEHE-H4`
 
-No se propaga H4-H10 automáticamente.
+## 10. Deuda documental abierta
 
-## 11. Deuda documental abierta
-
-1. Sincronizar nombres/estados heredados de documentos históricos cuando proceda sin duplicar verdad viva.
-2. Verificar procedencia/licencias finales de toda evidencia documental H2/H3 usada en Moodle.
-3. Evaluar incorporación al repositorio de artefactos finales H1/H2 locales/Moodle.
-4. Continuar validación longitudinal de Espiral de Casos en FD2-FD5.
-5. Resolver arquitectura documental semántica de PROEMA antes de crear nuevas rutas internas.
+1. Verificar procedencia/licencias finales de toda evidencia documental externa usada en Moodle.
+2. Evaluar incorporación al repositorio de artefactos finales H1-H3 producidos localmente/Moodle.
+3. Continuar validación longitudinal de Espiral de Casos en FD2-FD5.
+4. Resolver arquitectura documental semántica de PROEMA antes de crear nuevas rutas internas.
+5. Medir carga con estudiantes durante implementación real.
 6. Verificar copias locales externas contra GitHub `main`.
 
-## 12. No hacer todavía
+## 11. No hacer todavía
 
-- No abrir F2 antes de verificar F1.
-- No propagar H4-H10 automáticamente.
+- No declarar H3 APROBADO COMO SISTEMA antes del Gate Integral.
+- No abrir FEHE-H4 antes de decisión humana del Gate Integral H3.
 - No activar FD2.
-- No convertir compatibilidad en historia enciclopédica de arquitectura.
-- No presentar “concreto romano” como receta universal.
-- No inflar MSM-H3 hasta convertirlo en tarea adicional.
-- No adelantar ciencia formal de interfaces.
+- No modificar Patrón OVAt-H v1.0 sólo por el hallazgo editorial H3.
+- No convertir gramática editorial en plantilla mecánica.
 - No fusionar Espiral de Casos y PROEMA.
 
-## 13. Único próximo movimiento curricular
+## 12. Único próximo movimiento curricular
 
-> **Producir F1 · Bienvenida H3 como primer componente de producción secuencial.**
+> **Decisión humana sobre Gate Integral H3.**
+
+Sólo GO o GO CON CONDICIONES autoriza declarar H3 APROBADO COMO SISTEMA y abrir FEHE-H4.
