@@ -1,6 +1,6 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 1.8  
+**Versión:** 1.9  
 **Estado:** ACTIVO  
 **Fecha:** 2026-09-17  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
@@ -33,10 +33,10 @@ Mantener una vista compacta y recuperable del proyecto completo para que producc
 | Tramo | Función en Ars Materia | Estado práctico |
 |---|---|---|
 | **F0** | autoridad, repositorio, estado y gobernanza | BASE OPERATIVA ESTABLECIDA |
-| **F1** | fundamentos histórico-epistemológicos | H1-H3 CERRADOS; FEHE-H4 CANDIDATA EN GATE |
-| **F2** | alineación pedagógica, evidencia, DUA y apoyos | ACTIVA H1-H3; H4 DEFINIDA A NIVEL FEHE CANDIDATA |
-| **F3** | trayectoria FEHE H1-H10, PROEMA y arquitectura longitudinal | FEHE-H4 v0.1 PRODUCIDA; GATE ABIERTO |
-| **F4** | microdiseño/OVAt | H1-H3 CERRADOS; OVAt-H4 NO ABIERTO |
+| **F1** | fundamentos histórico-epistemológicos | H1-H3 CERRADOS; FEHE-H4 APROBADA · D-032 |
+| **F2** | alineación pedagógica, evidencia, DUA y apoyos | ACTIVA H1-H4 A NIVEL FEHE |
+| **F3** | trayectoria FEHE H1-H10, PROEMA y arquitectura longitudinal | FEHE-H4 APROBADA · D-032 |
+| **F4** | microdiseño/OVAt | H1-H3 CERRADOS; OVAt-H4 AUTORIZADO PARA ESPECIFICACIÓN |
 | **F5** | prototipado integrado | H1-H3 VALIDADOS COMO SISTEMAS/MODELO |
 | **F6** | DUA + IA + tecnología operacional | ACTIVA PROPORCIONALMENTE |
 | **F7** | auditoría integral de calidad | H1-H3 COMPLETADAS |
@@ -51,16 +51,14 @@ H1 APROBADO COMO MODELO OPERATIVO
 → H2 APROBADO COMO SISTEMA
 → Patrón OVAt-H v1.0 VALIDADO · D-027
 → H3 APROBADO COMO SISTEMA · D-031
-→ FEHE-H4 profunda v0.1 CANDIDATA
-→ Gate FEHE-H4 ABIERTO
-→ decisión humana
+→ FEHE-H4 profunda APROBADA · D-032
+→ Especificación OVAt-H4 v0.1 CANDIDATA
+→ Gate OVAt-H4
 ```
 
-Con GO o GO CON CONDICIONES:
+Con GO o GO CON CONDICIONES al Gate OVAt-H4:
 
 ```text
-→ Especificación OVAt-H4 candidata
-→ Gate OVAt-H4
 → producción secuencial H4
 → activación situada de FD2 cuando corresponda
 ```
@@ -88,13 +86,13 @@ Hallazgo metodológico:
 
 D-031 conserva este hallazgo como aprendizaje metodológico sin exigir Patrón v1.1.
 
-### Propuesta H4 sometida a Gate
+### H4 aprobado a nivel FEHE · D-032
 
 Movimiento:
 
 > **CONTROLAR SUPERFICIES E INTERFACES**
 
-Concepto organizador candidato:
+Concepto organizador:
 
 > **MODULACIÓN DE SUPERFICIE**
 
@@ -102,9 +100,9 @@ Cadena:
 
 `soporte + preparación superficial + material aplicado + interfaz + luz/ambiente → apariencia y función → evidencia → inferencia → límite`
 
-Caso rector candidato: manuscrito iluminado situado.  
-Contraste candidato: vitral medieval.  
-Producto reusable candidato: **MSI-H4**.
+Caso rector preferente a cerrar en OVAt: manuscrito iluminado situado.  
+Contraste: vitral medieval.  
+Producto reusable: **MSI-H4**.
 
 ## 6. Continuidad longitudinal
 
@@ -116,25 +114,15 @@ H4 debe heredar interfaz y ambiente de H3, pero cambiar el centro desde compatib
 
 Estado:
 
-> **ABIERTO · PENDIENTE DE DECISIÓN HUMANA**
+> **CERRADO · GO · D-032**
 
-Debe evaluar:
-
-- identidad propia de H4;
-- superficie/interfaz como columna vertebral;
-- control de profundidad óptica y científico-material;
-- delimitación histórica de “medieval”;
-- caso rector situado y procedencia;
-- MSI-H4 compacto y distinto del MSM-H3;
-- preparación de H5 sin adelantar estratigrafía;
-- activación de FD2 sin sobrecarga;
-- DUA y economía de tareas.
+Autoriza producir Especificación OVAt-H4 v0.1 CANDIDATA. Mantiene como vinculantes: superficie/interfaz como columna vertebral, óptica cualitativa, caso situado con procedencia, MSI-H4 compacto, FD2 con carga integrada y preparación de H5 sin adelantar estratigrafía.
 
 ## 8. Regla para H4 / FD2
 
-1. FEHE-H4 requiere decisión humana antes de abrir OVAt-H4;
+1. FEHE-H4 está APROBADA · D-032;
 2. FD2 corresponde al nodo H3+H4 y su función es **PROFUNDIZAR**;
-3. FD2 no se monta ni se diseña definitivamente hasta Especificación OVAt-H4;
+3. FD2 no se monta hasta que Especificación OVAt-H4 determine ubicación, carga y evidencia;
 4. la carga FD2 debe contabilizarse dentro de H4;
 5. FD2 debe pedir nuevas relaciones respecto a FD1, no una repetición;
 6. PROEMA permanece separado de la Espiral de Casos.
@@ -149,4 +137,4 @@ Patrón validado y gramática editorial no equivalen a contenido predeterminado.
 
 ## 10. Próximo control
 
-> **Decisión humana sobre Gate FEHE-H4.**
+> **Producir Especificación OVAt-H4 v0.1 CANDIDATA y someterla a Gate OVAt-H4.**
