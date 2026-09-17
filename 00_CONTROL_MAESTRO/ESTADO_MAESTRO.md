@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 2.9  
+**Versión:** 3.0  
 **Fecha:** 2026-09-17  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -8,7 +8,7 @@
 
 ## 1. Posición del proyecto
 
-**H1 permanece APROBADO COMO MODELO OPERATIVO. H2 permanece APROBADO COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H3 queda PRODUCIDO, MONTADO Y PROBADO EN MOODLE mediante D-030; Auditoría Inversa H3 v1.0 completada y Gate Integral H3 ABIERTO. H4 no se abre todavía; FD2 permanece cerrado hasta H4.**
+**H1 permanece APROBADO COMO MODELO OPERATIVO. H2 permanece APROBADO COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H3 queda APROBADO COMO SISTEMA mediante D-031 tras producción, montaje, prueba Moodle y Auditoría Inversa H3. Se autoriza apertura controlada de FEHE-H4 profunda. FD2 permanece cerrado hasta que H4 alcance el nodo curricular H3+H4.**
 
 Framework Genérico V4.1.0 permanece activo de forma integral y proporcional.
 
@@ -24,8 +24,10 @@ D-026 mantiene provisionalmente los materiales sustantivos PROEMA bajo `13_INVES
 6. Especificación OVAt-H3 v0.1 aprobada mediante D-029.
 7. U5-H3 completo producido, montado y probado en Moodle mediante D-030.
 8. Auditoría Inversa H3 v1.0 completada sin hallazgos críticos o mayores.
-9. Gate Integral H3 abierto para decisión humana.
-10. H4-H10 permanecen no propagadas.
+9. Gate Integral H3 cerrado con GO mediante D-031.
+10. H3 APROBADO COMO SISTEMA.
+11. Apertura controlada de FEHE-H4 profunda autorizada.
+12. FD2 permanece cerrado hasta el nodo H3+H4.
 
 ## 3. Decisiones rectoras vigentes
 
@@ -44,11 +46,11 @@ D-026 mantiene provisionalmente los materiales sustantivos PROEMA bajo `13_INVES
 - El estudiante conserva selección autónoma de su Caso Ancla.
 - **Hallazgo H3:** la simetría funcional necesita una gramática editorial reconocible, sin convertirse en plantilla rígida de contenido.
 
-## 4. Estado de H1 y H2
+## 4. Estado de H1-H3
 
 ### H1
 
-**APROBADO COMO MODELO OPERATIVO.** No se reabre salvo contradicción funcional nueva.
+**APROBADO COMO MODELO OPERATIVO · D-020.** No se reabre salvo contradicción funcional nueva.
 
 ### H2
 
@@ -57,6 +59,28 @@ D-026 mantiene provisionalmente los materiales sustantivos PROEMA bajo `13_INVES
 Arquitectura implementada:
 
 `F1 Bienvenida → F2 Marco FEHE → F3 Lectura → F4 Vinča/Belovode + RTM-H2 → F5 FD1/Caso Ancla A → F6 Cierre longitudinal`
+
+### H3
+
+**APROBADO COMO SISTEMA · D-031.**
+
+Arquitectura implementada:
+
+`Bienvenida → Presentación FEHE → Lectura → Baia + MSM-H3 → pintura mural como transferencia → Cierre`
+
+Producto reusable:
+
+> **Mapa de Sistema Material H3 (MSM-H3)**
+
+Gate Integral H3:
+
+> **CERRADO · GO · D-031**
+
+Hallazgo metodológico conservado:
+
+> **La simetría funcional necesita una gramática editorial reconocible, pero esa gramática no debe convertirse en una plantilla rígida de contenido.**
+
+No se requiere Patrón OVAt-H v1.1 antes de continuar.
 
 ## 5. Patrón OVAt-H transferible v1.0
 
@@ -70,84 +94,29 @@ Arquitectura funcional:
 
 La validación no convierte las H futuras en plantillas de contenido. Cada H deriva de FEHE propia y conserva QA situado.
 
-## 6. Estado de H3
-
-### FEHE-H3
-
-Ruta canónica:
-
-`08_CURSOS_PROGRAMAS_Y_TRAYECTORIAS/FEHE_H1-H10/H3/CIFI4074_FEHE_H3_Profunda_v1.0_APROBADA_CON_CONDICIONES_MENORES.md`
+## 6. Apertura H4
 
 Estado:
 
-> **APROBADA CON CONDICIONES MENORES · D-028**
+> **FEHE-H4 PROFUNDA AUTORIZADA PARA APERTURA CONTROLADA · D-031**
 
-Movimiento rector: **COMBINAR**  
-Concepto organizador: **COMPATIBILIDAD**  
-Unidad de análisis: **SISTEMA MATERIAL**
+Regla operativa:
 
-Cadena conceptual:
+`FEHE-H4 propia → Gate FEHE-H4 → Especificación OVAt-H4 → Gate → producción → Moodle/QA → Gate integral`
 
-`componentes + forma de combinación + interfaz + ambiente → comportamiento del sistema → evidencia → inferencia → límite`
+Continuidad longitudinal heredada de H3:
 
-### Especificación OVAt-H3
+`H2 transformar → H3 combinar → H4 controlar superficies e interfaces`
 
-Ruta canónica:
-
-`19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H3/CIFI4074_OVAt_H3_Especificacion_v0.1_APROBADA.md`
-
-Estado:
-
-> **APROBADA · D-029**
-
-### Implementación H3
-
-Estado:
-
-> **PRODUCIDO · MONTADO · PROBADO EN MOODLE · D-030**
-
-Arquitectura implementada:
-
-`Bienvenida → Presentación FEHE → Lectura → Baia + MSM-H3 → pintura mural como transferencia → Cierre`
-
-Producto reusable:
-
-> **Mapa de Sistema Material H3 (MSM-H3)**
-
-### Auditoría Inversa H3
-
-Ruta:
-
-`18_DOCUMENTACION_ACTIVA/AUDITORIA_INVERSA_H3_v1.0.md`
-
-Estado:
-
-> **COMPLETADA · LISTA PARA GATE**
-
-Resultado global:
-
-- críticos: 0;
-- mayores: 0;
-- menores bloqueantes: 0;
-- deuda no bloqueante: procedencia/licencias documentales finales, medición de carga con estudiantes y archivo canónico de artefactos finales.
-
-### Gate Integral H3
-
-Ruta:
-
-`18_DOCUMENTACION_ACTIVA/GATE_INTEGRAL_H3.md`
-
-Estado:
-
-> **ABIERTO · PENDIENTE DE DECISIÓN HUMANA**
+El desarrollo de H4 debe comenzar por su FEHE profunda. No se autoriza producción en bloque.
 
 ## 7. Espiral de Casos Ars Materia
 
 - arquitectura aprobada mediante D-024;
 - FD1 implementado y verificado;
 - validación longitudinal completa pendiente de FD2-FD5;
-- H3 prepara dimensiones relacionales del Caso A, pero no exige Revisión 1;
-- FD2 sólo se activa en H4 como nodo H3+H4.
+- H3 prepara dimensiones relacionales del Caso A;
+- **FD2 permanece cerrado** y sólo se activa cuando H4 alcance el nodo curricular H3+H4.
 
 ## 8. PROEMA
 
@@ -159,7 +128,7 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 
 ## 9. Secuencia activa
 
-`H3 PRODUCIDO/MONTADO/PROBADO · D-030 → Auditoría Inversa H3 ✓ → Gate Integral H3 ABIERTO → decisión humana → sólo con GO, H3 APROBADO COMO SISTEMA → apertura FEHE-H4`
+`H3 APROBADO COMO SISTEMA · D-031 → apertura controlada FEHE-H4 profunda → Gate FEHE-H4`
 
 ## 10. Deuda documental abierta
 
@@ -172,15 +141,12 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 
 ## 11. No hacer todavía
 
-- No declarar H3 APROBADO COMO SISTEMA antes del Gate Integral.
-- No abrir FEHE-H4 antes de decisión humana del Gate Integral H3.
-- No activar FD2.
+- No producir H4 en bloque antes de FEHE-H4 y su Gate.
+- No activar FD2 antes del nodo curricular H3+H4.
 - No modificar Patrón OVAt-H v1.0 sólo por el hallazgo editorial H3.
 - No convertir gramática editorial en plantilla mecánica.
 - No fusionar Espiral de Casos y PROEMA.
 
 ## 12. Único próximo movimiento curricular
 
-> **Decisión humana sobre Gate Integral H3.**
-
-Sólo GO o GO CON CONDICIONES autoriza declarar H3 APROBADO COMO SISTEMA y abrir FEHE-H4.
+> **Producir FEHE-H4 profunda como siguiente objeto curricular y someterla a Gate FEHE-H4 antes de abrir Especificación OVAt-H4.**
