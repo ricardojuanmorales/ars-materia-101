@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 3.2  
+**Versión:** 3.3  
 **Fecha:** 2026-09-17  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -8,7 +8,7 @@
 
 ## 1. Posición del proyecto
 
-**H1 permanece APROBADO COMO MODELO OPERATIVO. H2 permanece APROBADO COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H3 permanece APROBADO COMO SISTEMA mediante D-031. FEHE-H4 profunda queda APROBADA mediante D-032 y Gate FEHE-H4 queda CERRADO con GO. Se autoriza producir Especificación OVAt-H4 v0.1 CANDIDATA. No se autoriza todavía producción H4 ni montaje Moodle. FD2 permanece sin montar hasta que la Especificación OVAt-H4 determine ubicación, carga y evidencia.**
+**H1 permanece APROBADO COMO MODELO OPERATIVO. H2 permanece APROBADO COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H3 permanece APROBADO COMO SISTEMA mediante D-031. FEHE-H4 profunda queda APROBADA mediante D-032 y Gate FEHE-H4 queda CERRADO con GO. Especificación OVAt-H4 v0.1 CANDIDATA ha sido producida y Gate OVAt-H4 queda ABIERTO para decisión humana. No se autoriza todavía producción H4 ni montaje Moodle. La Especificación ubica FD2 después de F5 y antes de F6, con función PROFUNDIZAR y carga integrada; su producción depende del Gate.**
 
 Framework Genérico V4.1.0 permanece activo de forma integral y proporcional.
 
@@ -24,8 +24,9 @@ D-026 mantiene provisionalmente los materiales sustantivos PROEMA bajo `13_INVES
 6. Apertura controlada FEHE-H4 autorizada mediante D-031.
 7. FEHE-H4 profunda APROBADA mediante D-032.
 8. Gate FEHE-H4 CERRADO · GO · D-032.
-9. Especificación OVAt-H4 v0.1 CANDIDATA autorizada para producción.
-10. FD2 permanece sin montar hasta que la Especificación OVAt-H4 determine ubicación/carga/evidencia.
+9. Especificación OVAt-H4 v0.1 CANDIDATA producida.
+10. Gate OVAt-H4 ABIERTO para decisión humana.
+11. FD2 propuesto después de F5 y antes de F6, función PROFUNDIZAR, pendiente Gate.
 
 ## 3. Decisiones rectoras vigentes
 
@@ -130,7 +131,32 @@ Estado:
 
 > **CERRADO · GO · D-032**
 
-Se autoriza producir Especificación OVAt-H4 v0.1 CANDIDATA.
+Especificación OVAt-H4 v0.1 CANDIDATA producida; Gate OVAt-H4 abierto.
+
+### Especificación OVAt-H4
+
+Ruta:
+
+`19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H4/CIFI4074_OVAt_H4_Especificacion_v0.1_CANDIDATA.md`
+
+Estado:
+
+> **CANDIDATA · PENDIENTE GATE OVAt-H4**
+
+Caso rector propuesto: **Laudario de Sant’Agnese**.  
+Contraste: **Great East Window · York Minster**.  
+Producto reusable: **MSI-H4**.  
+FD2: propuesto **después de F5 y antes de F6**, función **PROFUNDIZAR**, producto **Revisión 1 del Caso A**.
+
+### Gate OVAt-H4
+
+Ruta:
+
+`18_DOCUMENTACION_ACTIVA/GATE_OVAT_H4.md`
+
+Estado:
+
+> **ABIERTO · PENDIENTE DE DECISIÓN HUMANA**
 
 ## 7. Espiral de Casos Ars Materia
 
@@ -150,7 +176,7 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 
 ## 9. Secuencia activa
 
-`H3 APROBADO COMO SISTEMA · D-031 → FEHE-H4 APROBADA · D-032 → Especificación OVAt-H4 v0.1 CANDIDATA → Gate OVAt-H4`
+`H3 APROBADO COMO SISTEMA · D-031 → FEHE-H4 APROBADA · D-032 → Especificación OVAt-H4 v0.1 CANDIDATA ✓ → Gate OVAt-H4 ABIERTO → decisión humana`
 
 ## 10. Deuda documental abierta
 
@@ -164,12 +190,12 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 
 ## 11. No hacer todavía
 
-- No producir componentes H4 ni montar Moodle antes de Gate OVAt-H4.
-- No montar FD2 antes de que la Especificación OVAt-H4 determine ubicación, carga y evidencia.
+- No producir componentes H4 ni montar Moodle antes de decisión humana del Gate OVAt-H4.
+- No montar FD2 antes de GO o GO CON CONDICIONES al Gate OVAt-H4.
 - No abrir H5.
 - No modificar Patrón OVAt-H v1.0 sólo por gramática editorial.
 - No fusionar Espiral de Casos y PROEMA.
 
 ## 12. Único próximo movimiento curricular
 
-> **Producir Especificación OVAt-H4 v0.1 CANDIDATA y someterla a Gate OVAt-H4.**
+> **Decisión humana sobre Gate OVAt-H4.**
