@@ -1,10 +1,12 @@
 # GATE FEHE-H4 — Ars Materia 101
 
 **Fecha de apertura:** 2026-09-17  
-**Estado:** ABIERTO · PENDIENTE DE DECISIÓN HUMANA  
+**Fecha de cierre:** 2026-09-17  
+**Estado:** CERRADO · GO · APROBADO  
 **Objeto:** FEHE-H4 profunda v0.1 CANDIDATA · H4 «Color, luz y devoción: materiales medievales»  
 **Patrón aplicable:** OVAt-H v1.0 VALIDADO · D-027  
-**Autorización de apertura:** D-031
+**Autorización de apertura:** D-031  
+**Decisión humana final:** D-032
 
 ---
 
@@ -115,7 +117,24 @@ La futura OVAt-H4 debe preservar una actividad central, un producto reusable, tr
 
 ---
 
-# 5. Resultado documental previo
+# 5. Resultado del Gate
+
+> **GO · APROBADO**
+
+Mediante D-032:
+
+1. FEHE-H4 queda **APROBADA** como base histórico-epistemológica de H4.
+2. Se autoriza producir **Especificación OVAt-H4 v0.1 CANDIDATA**.
+3. El concepto organizador **MODULACIÓN DE SUPERFICIE** y la unidad de análisis **SUPERFICIE/INTERFAZ FUNCIONAL** quedan aceptados para traducción a OVAt.
+4. El caso rector deberá cerrarse como caso situado con procedencia/licencias verificables antes de producción.
+5. El **MSI-H4** deberá mantenerse compacto y diferenciado del MSM-H3.
+6. El vitral se mantiene como contraste breve, no como segunda actividad completa.
+7. FD2 conserva función **PROFUNDIZAR**; su ubicación, carga y evidencia se resuelven en la Especificación OVAt-H4.
+8. H4 prepara H5 sin adelantar estratigrafía pictórica compleja.
+
+---
+
+# 6. Resultado documental previo
 
 La FEHE candidata:
 
@@ -133,7 +152,7 @@ Este resultado documental **no sustituye la decisión humana**.
 
 ---
 
-# 6. Resultados posibles
+# 7. Resultados posibles
 
 ## GO
 
@@ -151,7 +170,7 @@ Este resultado documental **no sustituye la decisión humana**.
 
 ---
 
-# 7. Límite de autorización
+# 8. Límite de autorización
 
 Este Gate no autoriza todavía:
 
@@ -163,6 +182,6 @@ Este Gate no autoriza todavía:
 
 ---
 
-# 8. Próximo movimiento
+# 9. Próximo movimiento
 
-> **Decisión humana sobre Gate FEHE-H4.**
+> **Producir Especificación OVAt-H4 v0.1 CANDIDATA y someterla a Gate humano.**
