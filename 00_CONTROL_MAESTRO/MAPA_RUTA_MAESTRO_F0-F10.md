@@ -146,7 +146,7 @@ Decisiones de diseño sometidas a Gate:
 - carga total H4 + FD2: **80–105 min**;
 - FD2: después de F5 y antes de F6;
 - FD2: **PROFUNDIZAR**, Revisión 1 del Caso A;
-- andamiaje H4: MEDIO → MEDIO-BAJO.
+- andamiaje H4: **ALTO**.
 
 ## 11. Próximo control
 
