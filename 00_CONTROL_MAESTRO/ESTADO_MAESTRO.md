@@ -146,7 +146,8 @@ Estado:
 Caso rector propuesto: **Laudario de Sant’Agnese**.  
 Contraste: **Great East Window · York Minster**.  
 Producto reusable: **MSI-H4**.  
-FD2: propuesto **después de F5 y antes de F6**, función **PROFUNDIZAR**, producto **Revisión 1 del Caso A**.
+FD2: propuesto **después de F5 y antes de F6**, función **PROFUNDIZAR**, producto **Revisión 1 del Caso A**.  
+Andamiaje H4/FD2: **ALTO**.
 
 ### Gate OVAt-H4
 
