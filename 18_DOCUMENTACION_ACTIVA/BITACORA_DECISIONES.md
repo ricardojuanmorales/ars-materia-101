@@ -36,5 +36,7 @@
 
 | 2026-09-17 | D-032 | GO al Gate FEHE-H4; FEHE-H4 profunda queda APROBADA y se autoriza Especificación OVAt-H4 v0.1 CANDIDATA | Aprueba H4 bajo el eje CONTROLAR SUPERFICIES E INTERFACES / MODULACIÓN DE SUPERFICIE; mantiene óptica cualitativa, caso situado, MSI-H4 compacto, vitral como contraste breve, FD2 como PROFUNDIZAR con carga integrada y preparación de H5 sin adelantar estratigrafía compleja | FEHE-H4, Gate FEHE-H4, Estado Maestro, Mapa de Ruta, futura Especificación OVAt-H4 | APROBADO |
 
+| 2026-09-17 | D-033 | GO al Gate OVAt-H4; aprobar Especificación OVAt-H4 v0.1 y autorizar producción secuencial comenzando por F1 | Aprueba arquitectura F1-F6 de H4, Laudario de Sant’Agnese como caso rector sujeto a cierre documental, Great East Window como contraste breve, MSI-H4 reusable, andamiaje ALTO y FD2 como PROFUNDIZAR después de F5 y antes de F6 con carga integrada; H5 permanece cerrado | Gate OVAt-H4, Especificación OVAt-H4, Estado Maestro, Mapa de Ruta, producción H4, FD2 | APROBADO |
+
 ## Regla de mantenimiento
 Añadir una fila sólo cuando exista una decisión humana o un cambio rector. Las discusiones exploratorias no se registran como decisiones.
