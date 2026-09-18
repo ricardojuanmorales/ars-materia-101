@@ -79,7 +79,7 @@ Debe:
 - avanzar 4 dimensiones: relación/sistema, interfaz/superficie, ambiente, causalidad/incertidumbre;
 - mantener identidad y problema básico del caso;
 - contabilizarse dentro de carga H4;
-- usar andamiaje medio-bajo.
+- usar andamiaje **ALTO**, con secuencia guiada de revisión sin convertir FD2 en formulario rígido.
 
 ## H. Economía de tareas
 
@@ -132,7 +132,7 @@ El Gate debe decidir si esta integración mantiene economía suficiente o requie
 4. duplicación MSM-H3/MSI-H4;
 5. contraste de vitral sobredimensionado;
 6. FD2 convertido en mini-investigación;
-7. exceso de carga;
+7. exceso de carga o confundir andamiaje alto con acumulación de tareas;
 8. H5 adelantado;
 9. procedencia visual incompleta;
 10. confundir apariencia actual con apariencia histórica original.
