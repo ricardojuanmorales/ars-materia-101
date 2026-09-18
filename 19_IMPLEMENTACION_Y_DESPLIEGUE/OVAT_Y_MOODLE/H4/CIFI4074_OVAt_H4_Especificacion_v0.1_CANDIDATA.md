@@ -137,15 +137,25 @@ Reservar:
 
 ## 2.6 Andamiaje
 
-**MEDIO → MEDIO-BAJO.**
+**ALTO.**
 
-Respecto a H3:
+H4 mantiene apoyo explícito porque introduce simultáneamente superficie/interfaz funcional, óptica cualitativa, evidencia instrumental y el primer retorno formal al Caso Ancla mediante FD2.
 
-- se conservan categorías visibles;
-- se retiran algunas preguntas paso a paso;
-- el estudiante debe justificar qué interfaz o variable superficial es decisiva;
-- FD2 incrementa autonomía al revisar el Caso A con dimensiones relacionales nuevas;
-- no se retira simultáneamente apoyo conceptual, documental y procedimental.
+El andamiaje debe incluir:
+
+- categorías visibles y estables para soporte, preparación, material aplicado, interfaz, luz/ambiente, efecto, evidencia, inferencia y límite;
+- ejemplo modelado breve antes de la actividad central;
+- preguntas guía en F4 que correspondan directamente con los campos del MSI-H4;
+- vocabulario óptico introducido en contexto, sin exigir formalismo matemático;
+- dossier curado con evidencia seleccionada y señalización clara de qué puede sostener cada fuente;
+- recordatorios explícitos para distinguir observación, explicación contemporánea e inferencia histórica;
+- criterios de calidad visibles antes de completar el MSI-H4;
+- secuencia guiada en FD2 para revisar una afirmación previa del Caso A sin reiniciar el caso;
+- lista de cotejo breve para verificar relación/interfaz, evidencia discriminante, inferencia revisada y límite actualizado.
+
+Regla:
+
+> **Andamiaje alto no significa más tareas ni más contenido. Significa hacer visibles los pasos intelectuales mientras aumenta la complejidad conceptual.**
 
 ## 2.7 Carga objetivo
 
@@ -408,9 +418,17 @@ La revisión debe incorporar:
 
 ## Andamiaje
 
-**MEDIO-BAJO.**
+**ALTO.**
 
-No proporcionar una plantilla de nueve campos. Proporcionar criterios y una secuencia breve.
+FD2 debe proporcionar una secuencia guiada de revisión, sin convertirse en formulario rígido:
+
+1. recupera una afirmación concreta de FD1;
+2. identifica ahora una relación, interfaz o superficie crítica;
+3. selecciona una evidencia más discriminante;
+4. revisa la inferencia a la luz de H3+H4;
+5. declara qué límite cambió o permanece.
+
+Puede ofrecerse un ejemplo breve y una lista de cotejo. No se requiere una plantilla extensa ni un segundo producto técnico.
 
 ## Economía
 
@@ -549,7 +567,7 @@ El Gate debe comprobar:
 - contraste de York Minster breve y útil;
 - FD2 ubicado y acotado;
 - carga total plausible;
-- andamiaje decreciente sin salto brusco;
+- andamiaje ALTO, explícito y coherente con la complejidad H4+FD2;
 - DUA y accesibilidad;
 - procedencia documental trazable;
 - preparación de H5 sin invasión.
