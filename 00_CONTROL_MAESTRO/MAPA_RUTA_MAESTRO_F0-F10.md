@@ -1,6 +1,6 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 2.0  
+**Versión:** 2.1  
 **Estado:** ACTIVO  
 **Fecha:** 2026-09-17  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
@@ -36,7 +36,7 @@ Mantener una vista compacta y recuperable del proyecto completo para que producc
 | **F1** | fundamentos histórico-epistemológicos | H1-H3 CERRADOS; FEHE-H4 APROBADA · D-032 |
 | **F2** | alineación pedagógica, evidencia, DUA y apoyos | ACTIVA H1-H4 A NIVEL FEHE |
 | **F3** | trayectoria FEHE H1-H10, PROEMA y arquitectura longitudinal | FEHE-H4 APROBADA · D-032 |
-| **F4** | microdiseño/OVAt | H1-H3 CERRADOS; OVAt-H4 v0.1 CANDIDATA EN GATE |
+| **F4** | microdiseño/OVAt | H1-H3 CERRADOS; OVAt-H4 APROBADO · D-033 |
 | **F5** | prototipado integrado | H1-H3 VALIDADOS COMO SISTEMAS/MODELO |
 | **F6** | DUA + IA + tecnología operacional | ACTIVA PROPORCIONALMENTE |
 | **F7** | auditoría integral de calidad | H1-H3 COMPLETADAS |
@@ -52,16 +52,18 @@ H1 APROBADO COMO MODELO OPERATIVO
 → Patrón OVAt-H v1.0 VALIDADO · D-027
 → H3 APROBADO COMO SISTEMA · D-031
 → FEHE-H4 profunda APROBADA · D-032
-→ Especificación OVAt-H4 v0.1 CANDIDATA ✓
-→ Gate OVAt-H4 ABIERTO
-→ decisión humana
+→ Especificación OVAt-H4 v0.1 APROBADA · D-033
+→ producción secuencial H4 comenzando por F1
 ```
 
-Con GO o GO CON CONDICIONES al Gate OVAt-H4:
-
 ```text
-→ producción secuencial H4
-→ activación situada de FD2 cuando corresponda
+→ F1 Bienvenida
+→ F2 Marco FEHE
+→ F3 Lectura
+→ F4 Laudario + MSI-H4
+→ F5 York Minster
+→ FD2 PROFUNDIZAR Caso A
+→ F6 Cierre
 ```
 
 ## 5. Aprendizajes metodológicos acumulados
@@ -136,9 +138,9 @@ Cada H mantiene su secuencia:
 
 Patrón validado y gramática editorial no equivalen a contenido predeterminado.
 
-## 10. Especificación OVAt-H4 candidata
+## 10. Especificación OVAt-H4 aprobada · D-033
 
-Decisiones de diseño sometidas a Gate:
+Decisiones de diseño aprobadas:
 
 - caso rector: **Laudario de Sant’Agnese**;
 - contraste: **Great East Window · York Minster**;
@@ -150,4 +152,4 @@ Decisiones de diseño sometidas a Gate:
 
 ## 11. Próximo control
 
-> **Decisión humana sobre Gate OVAt-H4.**
+> **Producir F1 · Bienvenida H4 y verificarla antes de abrir F2.**
