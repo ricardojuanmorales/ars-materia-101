@@ -1,11 +1,13 @@
 # GATE OVAt-H4 — Ars Materia 101
 
 **Fecha de apertura:** 2026-09-17  
-**Estado:** ABIERTO · PENDIENTE DE DECISIÓN HUMANA  
+**Fecha de cierre:** 2026-09-17  
+**Estado:** CERRADO · GO · APROBADO  
 **Objeto:** Especificación OVAt-H4 v0.1 CANDIDATA · H4 «Color, luz y devoción: materiales medievales»  
 **FEHE aplicable:** FEHE-H4 profunda v1.0 APROBADA · D-032  
 **Patrón aplicable:** OVAt-H v1.0 VALIDADO · D-027  
-**Espiral aplicable:** D-024
+**Espiral aplicable:** D-024  
+**Decisión humana final:** D-033
 
 ---
 
@@ -139,7 +141,24 @@ El Gate debe decidir si esta integración mantiene economía suficiente o requie
 
 ---
 
-# 6. Resultado documental previo
+# 6. Resultado del Gate
+
+> **GO · APROBADO**
+
+Mediante D-033:
+
+1. Especificación OVAt-H4 v0.1 queda **APROBADA PARA PRODUCCIÓN SECUENCIAL**.
+2. Se autoriza comenzar por **F1 · Bienvenida H4**.
+3. El andamiaje **ALTO** queda vinculante para H4 y FD2.
+4. El **Laudario de Sant’Agnese** queda aprobado como caso rector, sujeto al cierre documental de folio(s), metadatos y licencias antes del montaje final.
+5. **Great East Window · York Minster** queda aprobado como contraste breve.
+6. El **MSI-H4** queda aprobado como producto reusable principal de F4.
+7. **FD2 · PROFUNDIZAR** queda aprobado dentro de H4, después de F5 y antes de F6, con producto **Revisión 1 del Caso A** y carga integrada.
+8. H4 prepara H5 sin abrirlo.
+
+---
+
+# 7. Resultado documental previo
 
 La Especificación candidata:
 
@@ -157,7 +176,7 @@ Este resultado documental no sustituye decisión humana.
 
 ---
 
-# 7. Resultados posibles
+# 8. Resultados posibles
 
 ## GO
 
@@ -175,7 +194,7 @@ Este resultado documental no sustituye decisión humana.
 
 ---
 
-# 8. Límite de autorización
+# 9. Límite de autorización
 
 Este Gate no autoriza todavía:
 
@@ -186,6 +205,6 @@ Este Gate no autoriza todavía:
 
 ---
 
-# 9. Próximo movimiento
+# 10. Próximo movimiento
 
-> **Decisión humana sobre Gate OVAt-H4.**
+> **Producir F1 · Bienvenida H4 y someterla a verificación antes de abrir F2.**
