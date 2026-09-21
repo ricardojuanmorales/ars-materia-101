@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 3.6  
+**Versión:** 3.7  
 **Fecha:** 2026-09-21  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -8,7 +8,7 @@
 
 ## 1. Posición del proyecto
 
-**H1 permanece APROBADO COMO MODELO OPERATIVO. H2, H3 y H4 permanecen APROBADOS COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H4 queda APROBADO COMO SISTEMA mediante D-035, con GO CON CONDICIONES y tres deudas no bloqueantes controladas: procedencia/licencias finales, archivo canónico del paquete final H4 y medición de carga real con estudiantes. Carril B queda CERRADO DOCUMENTALMENTE. La reentrada curricular queda reconstruida: el próximo movimiento autorizado es abrir FEHE-H5 profunda; no se autoriza todavía producción OVAt/Moodle de U7-H5.**
+**H1 permanece APROBADO COMO MODELO OPERATIVO. H2, H3 y H4 permanecen APROBADOS COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H4 queda APROBADO COMO SISTEMA mediante D-035, con GO CON CONDICIONES y tres deudas no bloqueantes controladas: procedencia/licencias finales, archivo canónico del paquete final H4 y medición de carga real con estudiantes. Carril B queda CERRADO DOCUMENTALMENTE. La reentrada curricular queda reconstruida. FEHE-H5 profunda v0.1 CANDIDATA ha sido producida y Gate FEHE-H5 queda ABIERTO. H5 se formula bajo ESTRATIFICAR / SISTEMA ESTRATIFICADO, con PEF-H5 como producto reusable candidato y andamiaje MEDIO candidato. No se autoriza todavía Especificación OVAt-H5 ni producción/montaje U7-H5.**
 
 Framework Genérico V4.1.0 permanece activo de forma integral y proporcional.
 
@@ -33,7 +33,9 @@ D-026 mantiene provisionalmente los materiales sustantivos PROEMA bajo `13_INVES
 15. Gate Integral H4 CERRADO · GO CON CONDICIONES · D-035.
 16. H4 APROBADO COMO SISTEMA · D-035.
 17. Carril B CERRADO DOCUMENTALMENTE.
-18. Reentrada curricular reconstruida; siguiente movimiento autorizado: FEHE-H5 profunda.
+18. Reentrada curricular reconstruida.
+19. FEHE-H5 profunda v0.1 CANDIDATA producida.
+20. Gate FEHE-H5 ABIERTO · decisión humana pendiente.
 
 ## 3. Decisiones rectoras vigentes
 
@@ -185,7 +187,7 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 
 ## 9. Secuencia activa
 
-`H3 APROBADO COMO SISTEMA · D-031 → FEHE-H4 APROBADA · D-032 → OVAt-H4 APROBADO · D-033 → U6-H4 PRODUCIDO/MONTADO/VERIFICADO · D-034 → Auditoría Inversa H4 → Gate Integral H4 GO CON CONDICIONES · D-035 → Carril B CERRADO → reentrada → FEHE-H5 profunda`
+`H4 APROBADO COMO SISTEMA · D-035 → Carril B CERRADO → reentrada reconstruida → FEHE-H5 profunda v0.1 CANDIDATA → Gate FEHE-H5 ABIERTO → decisión humana`
 
 ## 10. Deuda documental abierta
 
@@ -208,4 +210,4 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 
 ## 12. Único próximo movimiento curricular
 
-> **Abrir FEHE-H5 profunda como único próximo movimiento curricular.**
+> **Evaluar Gate FEHE-H5 y decidir GO / GO CON CONDICIONES / NO-GO.**
