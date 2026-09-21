@@ -1,14 +1,14 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 3.4  
-**Fecha:** 2026-09-17  
+**Versión:** 3.5  
+**Fecha:** 2026-09-21  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
 **Centro operativo:** ChatGPT Project **Ars Materia 101**
 
 ## 1. Posición del proyecto
 
-**H1 permanece APROBADO COMO MODELO OPERATIVO. H2 permanece APROBADO COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H3 permanece APROBADO COMO SISTEMA mediante D-031. FEHE-H4 profunda queda APROBADA mediante D-032 y Gate FEHE-H4 queda CERRADO con GO. Especificación OVAt-H4 v0.1 queda APROBADA mediante D-033 y Gate OVAt-H4 queda CERRADO con GO. Se autoriza producción secuencial H4 comenzando por F1 · Bienvenida. El andamiaje ALTO queda vinculante. FD2 queda aprobado dentro de H4 después de F5 y antes de F6, con función PROFUNDIZAR y carga integrada.**
+**H1 permanece APROBADO COMO MODELO OPERATIVO. H2 permanece APROBADO COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H3 permanece APROBADO COMO SISTEMA mediante D-031. FEHE-H4 profunda permanece APROBADA mediante D-032 y Especificación OVAt-H4 v0.1 permanece APROBADA mediante D-033. U6-H4 queda reconocido como PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE según reporte humano mediante D-034. H4 conserva el eje CONTROLAR SUPERFICIES E INTERFACES, MSI-H4 como producto reusable, FD2 como PROFUNDIZAR en el nodo H3+H4 y andamiaje ALTO. H4 NO está todavía APROBADO COMO SISTEMA. H5 permanece cerrado. Próximo movimiento: Auditoría Inversa H4 + Gate Integral H4.**
 
 Framework Genérico V4.1.0 permanece activo de forma integral y proporcional.
 
@@ -28,6 +28,9 @@ D-026 mantiene provisionalmente los materiales sustantivos PROEMA bajo `13_INVES
 10. Gate OVAt-H4 CERRADO · GO · D-033.
 11. Producción secuencial H4 autorizada comenzando por F1.
 12. FD2 aprobado dentro de H4 después de F5 y antes de F6, función PROFUNDIZAR, carga integrada.
+13. U6-H4 reconocido como PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE según reporte humano · D-034.
+14. Cierre integral H4 abierto: Auditoría Inversa H4 + Gate Integral H4.
+15. H5 permanece cerrado hasta decisión humana del Gate Integral H4.
 
 ## 3. Decisiones rectoras vigentes
 
@@ -166,7 +169,8 @@ Estado:
 - FD1 implementado y verificado;
 - FD2 corresponde al nodo H3+H4 y su función es **PROFUNDIZAR**;
 - FEHE-H4 aprobada define que H4 activa el nodo FD2; su ubicación, carga y evidencia se resuelven dentro de Especificación OVAt-H4;
-- FD2 queda **APROBADO PARA PRODUCCIÓN DENTRO DE H4**, pero aún no montado.
+- FD2 queda **MONTADO Y VERIFICADO EN MOODLE** como parte de U6-H4 según reporte humano · D-034;
+- su función permanece **PROFUNDIZAR** y su producto reusable es **Revisión 1 del Caso A**.
 
 ## 8. PROEMA
 
@@ -178,7 +182,7 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 
 ## 9. Secuencia activa
 
-`H3 APROBADO COMO SISTEMA · D-031 → FEHE-H4 APROBADA · D-032 → OVAt-H4 APROBADO · D-033 → producción secuencial F1 → F6 + FD2`
+`H3 APROBADO COMO SISTEMA · D-031 → FEHE-H4 APROBADA · D-032 → OVAt-H4 APROBADO · D-033 → U6-H4 PRODUCIDO/MONTADO/VERIFICADO EN MOODLE · D-034 → Auditoría Inversa H4 → Gate Integral H4 → decisión humana`
 
 ## 10. Deuda documental abierta
 
@@ -192,12 +196,12 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 
 ## 11. No hacer todavía
 
-- No montar H4 integralmente en Moodle antes de producir y verificar secuencialmente F1-F6.
-- No montar FD2 fuera de su ubicación aprobada después de F5 y antes de F6.
+- No declarar H4 APROBADO COMO SISTEMA antes de la decisión humana del Gate Integral H4.
 - No abrir H5.
+- No cerrar Carril B antes de completar Auditoría Inversa + Gate Integral H4 y recibir decisión humana.
 - No modificar Patrón OVAt-H v1.0 sólo por gramática editorial.
 - No fusionar Espiral de Casos y PROEMA.
 
 ## 12. Único próximo movimiento curricular
 
-> **Producir F1 · Bienvenida H4 y someterla a verificación antes de abrir F2.**
+> **Completar Auditoría Inversa H4 y someter H4 al Gate Integral H4; mantener H5 cerrado hasta decisión humana.**
