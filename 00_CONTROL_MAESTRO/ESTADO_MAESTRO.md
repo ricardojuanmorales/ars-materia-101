@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 3.5  
+**Versión:** 3.6  
 **Fecha:** 2026-09-21  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -8,7 +8,7 @@
 
 ## 1. Posición del proyecto
 
-**H1 permanece APROBADO COMO MODELO OPERATIVO. H2 permanece APROBADO COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H3 permanece APROBADO COMO SISTEMA mediante D-031. FEHE-H4 profunda permanece APROBADA mediante D-032 y Especificación OVAt-H4 v0.1 permanece APROBADA mediante D-033. U6-H4 queda reconocido como PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE según reporte humano mediante D-034. H4 conserva el eje CONTROLAR SUPERFICIES E INTERFACES, MSI-H4 como producto reusable, FD2 como PROFUNDIZAR en el nodo H3+H4 y andamiaje ALTO. H4 NO está todavía APROBADO COMO SISTEMA. H5 permanece cerrado. Próximo movimiento: Auditoría Inversa H4 + Gate Integral H4.**
+**H1 permanece APROBADO COMO MODELO OPERATIVO. H2, H3 y H4 permanecen APROBADOS COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H4 queda APROBADO COMO SISTEMA mediante D-035, con GO CON CONDICIONES y tres deudas no bloqueantes controladas: procedencia/licencias finales, archivo canónico del paquete final H4 y medición de carga real con estudiantes. Carril B queda CERRADO DOCUMENTALMENTE. La reentrada curricular queda reconstruida: el próximo movimiento autorizado es abrir FEHE-H5 profunda; no se autoriza todavía producción OVAt/Moodle de U7-H5.**
 
 Framework Genérico V4.1.0 permanece activo de forma integral y proporcional.
 
@@ -29,8 +29,11 @@ D-026 mantiene provisionalmente los materiales sustantivos PROEMA bajo `13_INVES
 11. Producción secuencial H4 autorizada comenzando por F1.
 12. FD2 aprobado dentro de H4 después de F5 y antes de F6, función PROFUNDIZAR, carga integrada.
 13. U6-H4 reconocido como PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE según reporte humano · D-034.
-14. Cierre integral H4 abierto: Auditoría Inversa H4 + Gate Integral H4.
-15. H5 permanece cerrado hasta decisión humana del Gate Integral H4.
+14. Auditoría Inversa H4 completada sin hallazgos críticos o mayores.
+15. Gate Integral H4 CERRADO · GO CON CONDICIONES · D-035.
+16. H4 APROBADO COMO SISTEMA · D-035.
+17. Carril B CERRADO DOCUMENTALMENTE.
+18. Reentrada curricular reconstruida; siguiente movimiento autorizado: FEHE-H5 profunda.
 
 ## 3. Decisiones rectoras vigentes
 
@@ -182,7 +185,7 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 
 ## 9. Secuencia activa
 
-`H3 APROBADO COMO SISTEMA · D-031 → FEHE-H4 APROBADA · D-032 → OVAt-H4 APROBADO · D-033 → U6-H4 PRODUCIDO/MONTADO/VERIFICADO EN MOODLE · D-034 → Auditoría Inversa H4 → Gate Integral H4 → decisión humana`
+`H3 APROBADO COMO SISTEMA · D-031 → FEHE-H4 APROBADA · D-032 → OVAt-H4 APROBADO · D-033 → U6-H4 PRODUCIDO/MONTADO/VERIFICADO · D-034 → Auditoría Inversa H4 → Gate Integral H4 GO CON CONDICIONES · D-035 → Carril B CERRADO → reentrada → FEHE-H5 profunda`
 
 ## 10. Deuda documental abierta
 
@@ -192,16 +195,17 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 4. Resolver arquitectura documental semántica de PROEMA antes de crear nuevas rutas internas.
 5. Medir carga con estudiantes durante implementación real.
 6. Verificar copias locales externas contra GitHub `main`.
-7. Cerrar bibliografía situada y procedencia visual del futuro caso rector H4 antes de producción.
+7. Cerrar registro de procedencia/licencias finales de la evidencia documental efectivamente usada en H4.
+8. Archivar canónicamente el paquete final H4 producido/montado.
 
 ## 11. No hacer todavía
 
-- No declarar H4 APROBADO COMO SISTEMA antes de la decisión humana del Gate Integral H4.
-- No abrir H5.
-- No cerrar Carril B antes de completar Auditoría Inversa + Gate Integral H4 y recibir decisión humana.
+- No propagar automáticamente contenido H4 hacia H5.
+- No abrir producción OVAt/Moodle de U7-H5 antes de FEHE-H5 profunda y su Gate.
+- No tratar las condiciones D-035 como bloqueantes salvo que aparezca evidencia nueva de incumplimiento.
 - No modificar Patrón OVAt-H v1.0 sólo por gramática editorial.
 - No fusionar Espiral de Casos y PROEMA.
 
 ## 12. Único próximo movimiento curricular
 
-> **Completar Auditoría Inversa H4 y someter H4 al Gate Integral H4; mantener H5 cerrado hasta decisión humana.**
+> **Abrir FEHE-H5 profunda como único próximo movimiento curricular.**
