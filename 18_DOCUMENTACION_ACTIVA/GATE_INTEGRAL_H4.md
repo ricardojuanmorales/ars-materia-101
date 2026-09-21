@@ -1,11 +1,13 @@
 # GATE INTEGRAL H4 — Ars Materia 101
 
 **Fecha de apertura:** 2026-09-21  
-**Estado:** ABIERTO · DECISIÓN HUMANA PENDIENTE  
+**Fecha de cierre:** 2026-09-21  
+**Estado:** CERRADO · GO CON CONDICIONES · H4 APROBADO COMO SISTEMA    
 **Objeto:** U6-H4 completo como sistema FEHE → OVAt → F1-F6 → MSI-H4 → FD2 → Moodle → recuperación → continuidad H5  
 **Decisión que habilita apertura:** D-034  
 **Auditoría aplicable:** AUDITORÍA INVERSA H4 v1.0 · COMPLETADA  
-**Patrón aplicable:** OVAt-H v1.0 VALIDADO · D-027
+**Patrón aplicable:** OVAt-H v1.0 VALIDADO · D-027  
+**Decisión humana final:** D-035
 
 ---
 
@@ -181,24 +183,34 @@ Por ello, el Gate está listo para decisión humana sin necesidad de una nueva r
 
 # 11. Decisión humana
 
-> **PENDIENTE: GO / GO CON CONDICIONES / NO-GO**
+> **GO CON CONDICIONES · D-035**
 
-No se asignará nueva decisión D- hasta recibir instrucción humana explícita.
+Mediante D-035:
+
+1. H4 queda **APROBADO COMO SISTEMA**.
+2. Carril B queda **CERRADO DOCUMENTALMENTE**.
+3. Se aceptan como condiciones no bloqueantes:
+   - cerrar registro de procedencia/licencias finales de la evidencia documental usada en Moodle;
+   - archivar canónicamente el paquete final H4;
+   - mantener medición de carga real con estudiantes como verificación longitudinal.
+4. El Patrón OVAt-H v1.0 permanece VALIDADO sin cambio.
+5. El cierre no autoriza producción automática de H5.
+6. Se autoriza reconstruir la reentrada curricular y, una vez documentada, abrir **FEHE-H5 profunda**.
 
 ---
 
 # 12. Límite de autorización actual
 
-Mientras este Gate permanezca abierto:
+Tras D-035:
 
-- H4 no se declara APROBADO COMO SISTEMA;
-- Carril B no se declara CERRADO DOCUMENTALMENTE;
-- H5 no se abre;
-- Carril A no se abre;
-- Patrón OVAt-H v1.0 no se modifica.
+- H4 queda APROBADO COMO SISTEMA;
+- Carril B queda CERRADO DOCUMENTALMENTE;
+- las condiciones aceptadas permanecen como deuda no bloqueante controlada;
+- Patrón OVAt-H v1.0 no se modifica;
+- H5 sólo puede abrirse por su secuencia normal: **FEHE-H5 profunda → Gate FEHE → Especificación OVAt-H5 → Gate → producción → Moodle/QA → Gate integral**.
 
 ---
 
 # 13. Próximo movimiento
 
-> **Recibir decisión humana sobre el Gate Integral H4.**
+> **Cerrar documentación de Carril B y completar Ficha de Reentrada antes de abrir FEHE-H5 profunda.**
