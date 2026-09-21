@@ -190,7 +190,7 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 ## 10. Deuda documental abierta
 
 1. Verificar procedencia/licencias finales de toda evidencia documental externa usada en Moodle.
-2. Evaluar incorporación al repositorio de artefactos finales H1-H3 producidos localmente/Moodle.
+2. Evaluar incorporación al repositorio de artefactos finales H1-H4 producidos localmente/Moodle.
 3. Continuar validación longitudinal de Espiral de Casos en FD2-FD5.
 4. Resolver arquitectura documental semántica de PROEMA antes de crear nuevas rutas internas.
 5. Medir carga con estudiantes durante implementación real.
