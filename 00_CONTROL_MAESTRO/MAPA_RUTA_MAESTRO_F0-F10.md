@@ -1,6 +1,6 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 2.3  
+**Versión:** 2.4  
 **Estado:** ACTIVO  
 **Fecha:** 2026-09-21  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
@@ -33,9 +33,9 @@ Mantener una vista compacta y recuperable del proyecto completo para que producc
 | Tramo | Función en Ars Materia | Estado práctico |
 |---|---|---|
 | **F0** | autoridad, repositorio, estado y gobernanza | BASE OPERATIVA ESTABLECIDA |
-| **F1** | fundamentos histórico-epistemológicos | H1-H4 CERRADOS; FEHE-H5 = PRÓXIMO MOVIMIENTO |
+| **F1** | fundamentos histórico-epistemológicos | H1-H4 CERRADOS; FEHE-H5 CANDIDATA · GATE ABIERTO |
 | **F2** | alineación pedagógica, evidencia, DUA y apoyos | ACTIVA H1-H4 A NIVEL FEHE |
-| **F3** | trayectoria FEHE H1-H10, PROEMA y arquitectura longitudinal | H4 CERRADO · D-035; REENTRADA H5 AUTORIZADA A NIVEL FEHE |
+| **F3** | trayectoria FEHE H1-H10, PROEMA y arquitectura longitudinal | FEHE-H5 v0.1 CANDIDATA · GATE ABIERTO |
 | **F4** | microdiseño/OVAt | H1-H4 CERRADOS; OVAt-H5 TODAVÍA NO ABIERTO |
 | **F5** | prototipado integrado | H1-H4 VALIDADOS COMO MODELO/SISTEMAS |
 | **F6** | DUA + IA + tecnología operacional | ACTIVA PROPORCIONALMENTE |
@@ -58,7 +58,8 @@ H1 APROBADO COMO MODELO OPERATIVO
 → Gate Integral H4 · GO CON CONDICIONES · D-035
 → Carril B CERRADO DOCUMENTALMENTE
 → reentrada curricular reconstruida
-→ próximo movimiento: FEHE-H5 profunda
+→ FEHE-H5 profunda v0.1 CANDIDATA
+→ Gate FEHE-H5 · decisión humana pendiente
 ```
 
 ```text
@@ -157,4 +158,4 @@ Decisiones de diseño aprobadas:
 
 ## 11. Próximo control
 
-> **Abrir FEHE-H5 profunda. No abrir todavía Especificación OVAt-H5 ni producción Moodle U7-H5.**
+> **Evaluar Gate FEHE-H5. No abrir todavía Especificación OVAt-H5 ni producción Moodle U7-H5.**
