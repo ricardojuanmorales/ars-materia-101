@@ -38,5 +38,7 @@
 
 | 2026-09-17 | D-033 | GO al Gate OVAt-H4; aprobar Especificación OVAt-H4 v0.1 y autorizar producción secuencial comenzando por F1 | Aprueba arquitectura F1-F6 de H4, Laudario de Sant’Agnese como caso rector sujeto a cierre documental, Great East Window como contraste breve, MSI-H4 reusable, andamiaje ALTO y FD2 como PROFUNDIZAR después de F5 y antes de F6 con carga integrada; H5 permanece cerrado | Gate OVAt-H4, Especificación OVAt-H4, Estado Maestro, Mapa de Ruta, producción H4, FD2 | APROBADO |
 
+| 2026-09-21 | D-034 | Reconocer U6-H4 completo como PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE según reporte humano y cerrar la fase de producción/montaje | El docente confirma que U6-H4 fue montado y verificado en Moodle. Se autoriza pasar al cierre integral H4 mediante Auditoría Inversa H4 + Gate Integral H4. Se preservan CONTROLAR SUPERFICIES E INTERFACES, MSI-H4 reusable, FD2 como PROFUNDIZAR dentro del nodo H3+H4 y andamiaje ALTO. No se declara todavía H4 APROBADO COMO SISTEMA, no se abre H5 y Carril B permanece abierto hasta decisión humana del Gate Integral. | Estado Maestro, Mapa de Ruta, Auditoría Inversa H4, Gate Integral H4, H4/OVAt/Moodle, FD2 | APROBADO |
+
 ## Regla de mantenimiento
 Añadir una fila sólo cuando exista una decisión humana o un cambio rector. Las discusiones exploratorias no se registran como decisiones.
