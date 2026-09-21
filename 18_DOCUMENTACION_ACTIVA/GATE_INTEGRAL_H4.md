@@ -119,16 +119,16 @@ Regla:
 
 # 8. Implicación para Carril B
 
-El cierre formal de Carril B requiere dos condiciones simultáneas:
+Las dos condiciones de cierre quedaron satisfechas mediante D-035:
 
-1. H4 declarado **APROBADO COMO SISTEMA** por decisión humana;
-2. documentación maestra actualizada con el cierre y deuda abierta explícita.
+1. H4 fue declarado **APROBADO COMO SISTEMA** por decisión humana;
+2. la documentación maestra fue actualizada con el cierre y la deuda abierta explícita.
 
-Hasta que ocurra esa decisión:
+Resultado:
 
-> **CARRIL B permanece ABIERTO EN GATE.**
+> **CARRIL B CERRADO DOCUMENTALMENTE · D-035.**
 
-No se abre Carril A en este documento.
+La reentrada posterior se documenta por separado para no mezclar cierre y apertura.
 
 ---
 
