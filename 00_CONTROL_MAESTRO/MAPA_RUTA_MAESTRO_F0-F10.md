@@ -1,6 +1,6 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 2.2  
+**Versión:** 2.3  
 **Estado:** ACTIVO  
 **Fecha:** 2026-09-21  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
@@ -33,15 +33,15 @@ Mantener una vista compacta y recuperable del proyecto completo para que producc
 | Tramo | Función en Ars Materia | Estado práctico |
 |---|---|---|
 | **F0** | autoridad, repositorio, estado y gobernanza | BASE OPERATIVA ESTABLECIDA |
-| **F1** | fundamentos histórico-epistemológicos | H1-H3 CERRADOS; FEHE-H4 APROBADA · D-032 |
+| **F1** | fundamentos histórico-epistemológicos | H1-H4 CERRADOS; FEHE-H5 = PRÓXIMO MOVIMIENTO |
 | **F2** | alineación pedagógica, evidencia, DUA y apoyos | ACTIVA H1-H4 A NIVEL FEHE |
-| **F3** | trayectoria FEHE H1-H10, PROEMA y arquitectura longitudinal | FEHE-H4 APROBADA · D-032 |
-| **F4** | microdiseño/OVAt | H1-H3 CERRADOS; OVAt-H4 APROBADO · D-033 |
-| **F5** | prototipado integrado | H1-H3 VALIDADOS; H4 PRODUCIDO/MONTADO, PENDIENTE GATE INTEGRAL |
+| **F3** | trayectoria FEHE H1-H10, PROEMA y arquitectura longitudinal | H4 CERRADO · D-035; REENTRADA H5 AUTORIZADA A NIVEL FEHE |
+| **F4** | microdiseño/OVAt | H1-H4 CERRADOS; OVAt-H5 TODAVÍA NO ABIERTO |
+| **F5** | prototipado integrado | H1-H4 VALIDADOS COMO MODELO/SISTEMAS |
 | **F6** | DUA + IA + tecnología operacional | ACTIVA PROPORCIONALMENTE |
-| **F7** | auditoría integral de calidad | H1-H3 COMPLETADAS; H4 EN CIERRE INTEGRAL |
+| **F7** | auditoría integral de calidad | H1-H4 COMPLETADAS |
 | **F8** | producción y montaje Moodle | H1-H4 MONTADOS Y VERIFICADOS/PROBADOS; H4 · D-034 |
-| **F9** | validación con evidencia real | H1-H3 CERRADAS; H4 PENDIENTE DECISIÓN HUMANA |
+| **F9** | validación con evidencia real | H1-H4 CERRADAS; H4 · D-035 |
 | **F10** | metaevaluación y evolución | PATRÓN v1.0 VALIDADO; HALLAZGO EDITORIAL H3 REGISTRADO |
 
 ## 4. Carril de producción actual
@@ -55,7 +55,10 @@ H1 APROBADO COMO MODELO OPERATIVO
 → Especificación OVAt-H4 v0.1 APROBADA · D-033
 → U6-H4 PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE · D-034
 → Auditoría Inversa H4
-→ Gate Integral H4 · decisión humana pendiente
+→ Gate Integral H4 · GO CON CONDICIONES · D-035
+→ Carril B CERRADO DOCUMENTALMENTE
+→ reentrada curricular reconstruida
+→ próximo movimiento: FEHE-H5 profunda
 ```
 
 ```text
@@ -154,4 +157,4 @@ Decisiones de diseño aprobadas:
 
 ## 11. Próximo control
 
-> **Completar Auditoría Inversa H4 + Gate Integral H4. H5 permanece cerrado hasta decisión humana.**
+> **Abrir FEHE-H5 profunda. No abrir todavía Especificación OVAt-H5 ni producción Moodle U7-H5.**
