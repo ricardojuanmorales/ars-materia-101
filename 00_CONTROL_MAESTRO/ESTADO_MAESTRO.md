@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 3.9  
+**Versión:** 4.0  
 **Fecha:** 2026-09-22  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -8,7 +8,7 @@
 
 ## 1. Posición del proyecto
 
-**H1 permanece APROBADO COMO MODELO OPERATIVO. H2, H3 y H4 permanecen APROBADOS COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H4 queda APROBADO COMO SISTEMA mediante D-035, con GO CON CONDICIONES y tres deudas no bloqueantes controladas: procedencia/licencias finales, archivo canónico del paquete final H4 y medición de carga real con estudiantes. Carril B queda CERRADO DOCUMENTALMENTE. La reentrada curricular queda reconstruida. FEHE-H5 profunda v1.0 queda APROBADA mediante D-036. La Especificación OVAt-H5 v0.1 queda APROBADA PARA PRODUCCIÓN SECUENCIAL mediante D-037 con GO CON CONDICIONES. H5 se formula bajo ESTRATIFICAR / SISTEMA ESTRATIFICADO, con PEF-H5 reusable, andamiaje MEDIO, Virgin of the Rocks como caso rector preferente y pintura neerlandesa temprana como contraste breve. Se autoriza exclusivamente producir F1 · Bienvenida H5 y verificarla antes de abrir F2. FD3 permanece cerrado y no se autoriza montaje integral U7-H5.**
+**H1 permanece APROBADO COMO MODELO OPERATIVO. H2, H3 y H4 permanecen APROBADOS COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H4 queda APROBADO COMO SISTEMA mediante D-035, con GO CON CONDICIONES y tres deudas no bloqueantes controladas: procedencia/licencias finales, archivo canónico del paquete final H4 y medición de carga real con estudiantes. Carril B queda CERRADO DOCUMENTALMENTE. La reentrada curricular queda reconstruida. FEHE-H5 profunda v1.0 queda APROBADA mediante D-036. La Especificación OVAt-H5 v0.1 queda APROBADA PARA PRODUCCIÓN SECUENCIAL mediante D-037 con GO CON CONDICIONES. H5 se formula bajo ESTRATIFICAR / SISTEMA ESTRATIFICADO, con PEF-H5 reusable, andamiaje MEDIO, Virgin of the Rocks como caso rector preferente y pintura neerlandesa temprana como contraste breve. F1 · Bienvenida H5 v0.1 CANDIDATA ha sido producida y queda pendiente de verificación editorial/funcional antes de abrir F2. FD3 permanece cerrado y no se autoriza montaje integral U7-H5.**
 
 Framework Genérico V4.1.0 permanece activo de forma integral y proporcional.
 
@@ -39,6 +39,7 @@ D-026 mantiene provisionalmente los materiales sustantivos PROEMA bajo `13_INVES
 21. Especificación OVAt-H5 v0.1 APROBADA PARA PRODUCCIÓN SECUENCIAL · D-037.
 22. Gate OVAt-H5 CERRADO · GO CON CONDICIONES · D-037.
 23. Producción H5 autorizada exclusivamente comenzando por F1 · Bienvenida.
+24. F1 · Bienvenida H5 v0.1 CANDIDATA producida; verificación editorial/funcional pendiente.
 
 ## 3. Decisiones rectoras vigentes
 
@@ -214,4 +215,4 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 
 ## 12. Único próximo movimiento curricular
 
-> **Producir F1 · Bienvenida H5 y someterla a verificación editorial/funcional.**
+> **Verificar F1 · Bienvenida H5 v0.1 antes de abrir F2.**
