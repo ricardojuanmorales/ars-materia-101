@@ -1,8 +1,8 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 2.5  
+**Versión:** 2.6  
 **Estado:** ACTIVO  
-**Fecha:** 2026-09-21  
+**Fecha:** 2026-09-22  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
 **Fuente de verdad:** GitHub `main`
 
@@ -36,8 +36,8 @@ Mantener una vista compacta y recuperable del proyecto completo para que producc
 | **F1** | fundamentos histórico-epistemológicos | H1-H4 CERRADOS; FEHE-H5 APROBADA · D-036 |
 | **F2** | alineación pedagógica, evidencia, DUA y apoyos | ACTIVA H1-H4 A NIVEL FEHE |
 | **F3** | trayectoria FEHE H1-H10, PROEMA y arquitectura longitudinal | FEHE-H5 APROBADA · D-036 |
-| **F4** | microdiseño/OVAt | OVAt-H5 v0.1 CANDIDATA · GATE ABIERTO |
-| **F5** | prototipado integrado | H1-H4 VALIDADOS COMO MODELO/SISTEMAS |
+| **F4** | microdiseño/OVAt | OVAt-H5 v0.1 APROBADO · D-037 |
+| **F5** | prototipado integrado | H1-H4 VALIDADOS; H5 PRODUCCIÓN SECUENCIAL AUTORIZADA |
 | **F6** | DUA + IA + tecnología operacional | ACTIVA PROPORCIONALMENTE |
 | **F7** | auditoría integral de calidad | H1-H4 COMPLETADAS |
 | **F8** | producción y montaje Moodle | H1-H4 MONTADOS Y VERIFICADOS/PROBADOS; H4 · D-034 |
@@ -59,8 +59,9 @@ H1 APROBADO COMO MODELO OPERATIVO
 → Carril B CERRADO DOCUMENTALMENTE
 → reentrada curricular reconstruida
 → FEHE-H5 profunda APROBADA · D-036
-→ Especificación OVAt-H5 v0.1 CANDIDATA
-→ Gate OVAt-H5 · decisión humana pendiente
+→ Especificación OVAt-H5 v0.1 APROBADA · D-037
+→ Gate OVAt-H5 · GO CON CONDICIONES · D-037
+→ producir F1 · Bienvenida H5
 ```
 
 ```text
@@ -159,4 +160,4 @@ Decisiones de diseño aprobadas:
 
 ## 11. Próximo control
 
-> **Evaluar Gate OVAt-H5. No abrir todavía producción Moodle U7-H5.**
+> **Producir y verificar F1 · Bienvenida H5. No abrir F2 ni montaje integral U7-H5 todavía.**
