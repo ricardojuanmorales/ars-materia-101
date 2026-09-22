@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 3.7  
+**Versión:** 3.8  
 **Fecha:** 2026-09-21  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -8,7 +8,7 @@
 
 ## 1. Posición del proyecto
 
-**H1 permanece APROBADO COMO MODELO OPERATIVO. H2, H3 y H4 permanecen APROBADOS COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H4 queda APROBADO COMO SISTEMA mediante D-035, con GO CON CONDICIONES y tres deudas no bloqueantes controladas: procedencia/licencias finales, archivo canónico del paquete final H4 y medición de carga real con estudiantes. Carril B queda CERRADO DOCUMENTALMENTE. La reentrada curricular queda reconstruida. FEHE-H5 profunda v0.1 CANDIDATA ha sido producida y Gate FEHE-H5 queda ABIERTO. H5 se formula bajo ESTRATIFICAR / SISTEMA ESTRATIFICADO, con PEF-H5 como producto reusable candidato y andamiaje MEDIO candidato. No se autoriza todavía Especificación OVAt-H5 ni producción/montaje U7-H5.**
+**H1 permanece APROBADO COMO MODELO OPERATIVO. H2, H3 y H4 permanecen APROBADOS COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H4 queda APROBADO COMO SISTEMA mediante D-035, con GO CON CONDICIONES y tres deudas no bloqueantes controladas: procedencia/licencias finales, archivo canónico del paquete final H4 y medición de carga real con estudiantes. Carril B queda CERRADO DOCUMENTALMENTE. La reentrada curricular queda reconstruida. FEHE-H5 profunda v1.0 queda APROBADA mediante D-036. La Especificación OVAt-H5 v0.1 CANDIDATA ha sido producida y Gate OVAt-H5 queda ABIERTO. H5 se formula bajo ESTRATIFICAR / SISTEMA ESTRATIFICADO, con PEF-H5 como producto reusable y andamiaje MEDIO. Caso rector candidato: Leonardo da Vinci · Virgin of the Rocks; contraste: pintura neerlandesa temprana. FD3 permanece cerrado. No se autoriza todavía producción/montaje U7-H5.**
 
 Framework Genérico V4.1.0 permanece activo de forma integral y proporcional.
 
@@ -34,8 +34,10 @@ D-026 mantiene provisionalmente los materiales sustantivos PROEMA bajo `13_INVES
 16. H4 APROBADO COMO SISTEMA · D-035.
 17. Carril B CERRADO DOCUMENTALMENTE.
 18. Reentrada curricular reconstruida.
-19. FEHE-H5 profunda v0.1 CANDIDATA producida.
-20. Gate FEHE-H5 ABIERTO · decisión humana pendiente.
+19. FEHE-H5 profunda v1.0 APROBADA · D-036.
+20. Gate FEHE-H5 CERRADO · GO · D-036.
+21. Especificación OVAt-H5 v0.1 CANDIDATA producida.
+22. Gate OVAt-H5 ABIERTO · decisión humana pendiente.
 
 ## 3. Decisiones rectoras vigentes
 
@@ -187,7 +189,7 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 
 ## 9. Secuencia activa
 
-`H4 APROBADO COMO SISTEMA · D-035 → Carril B CERRADO → reentrada reconstruida → FEHE-H5 profunda v0.1 CANDIDATA → Gate FEHE-H5 ABIERTO → decisión humana`
+`H4 APROBADO COMO SISTEMA · D-035 → Carril B CERRADO → FEHE-H5 APROBADA · D-036 → Especificación OVAt-H5 v0.1 CANDIDATA → Gate OVAt-H5 ABIERTO → decisión humana`
 
 ## 10. Deuda documental abierta
 
@@ -203,11 +205,11 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 ## 11. No hacer todavía
 
 - No propagar automáticamente contenido H4 hacia H5.
-- No abrir producción OVAt/Moodle de U7-H5 antes de FEHE-H5 profunda y su Gate.
+- No abrir producción Moodle de U7-H5 antes de cerrar Gate OVAt-H5.
 - No tratar las condiciones D-035 como bloqueantes salvo que aparezca evidencia nueva de incumplimiento.
 - No modificar Patrón OVAt-H v1.0 sólo por gramática editorial.
 - No fusionar Espiral de Casos y PROEMA.
 
 ## 12. Único próximo movimiento curricular
 
-> **Evaluar Gate FEHE-H5 y decidir GO / GO CON CONDICIONES / NO-GO.**
+> **Evaluar Gate OVAt-H5 y decidir GO / GO CON CONDICIONES / NO-GO.**
