@@ -1,9 +1,11 @@
 # GATE OVAt-H5 — Ars Materia 101
 
 **Fecha de apertura:** 2026-09-22  
-**Estado:** ABIERTO · DECISIÓN HUMANA PENDIENTE  
+**Fecha de cierre:** 2026-09-22  
+**Estado:** CERRADO · GO CON CONDICIONES · ESPECIFICACIÓN APROBADA    
 **Objeto:** Especificación OVAt-H5 v0.1 CANDIDATA  
-**Autoridad:** FEHE-H5 profunda v1.0 APROBADA · D-036; Patrón OVAt-H v1.0 VALIDADO · D-027.
+**Autoridad:** FEHE-H5 profunda v1.0 APROBADA · D-036; Patrón OVAt-H v1.0 VALIDADO · D-027.  
+**Decisión humana final:** D-037
 
 ---
 
@@ -104,6 +106,30 @@ Mientras el Gate permanezca abierto:
 
 ---
 
-# 8. Próximo movimiento
+# 8. Decisión humana
 
-> **Recibir decisión humana sobre Gate OVAt-H5.**
+> **GO CON CONDICIONES · D-037**
+
+La Especificación OVAt-H5 v0.1 queda **APROBADA PARA PRODUCCIÓN SECUENCIAL**.
+
+Condiciones vinculantes:
+
+1. cerrar en producción un conjunto pequeño de evidencias del caso rector;
+2. mantener PEF-H5 en una sola vista o equivalente breve;
+3. usar máximo un ejemplo modelado completo;
+4. no convertir métodos instrumentales en contenidos evaluados por nomenclatura;
+5. mantener el contraste en cuatro notas de transferencia;
+6. verificar procedencia/licencias antes de montaje;
+7. mantener FD3 fuera de H5.
+
+Autorización:
+
+> **producir exclusivamente F1 · Bienvenida H5 y someterla a verificación editorial/funcional antes de abrir F2.**
+
+No se autoriza montaje integral de U7-H5.
+
+---
+
+# 9. Próximo movimiento
+
+> **Producir F1 · Bienvenida H5 bajo D-037.**
