@@ -1,6 +1,6 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 2.6  
+**Versión:** 2.7  
 **Estado:** ACTIVO  
 **Fecha:** 2026-09-22  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
@@ -61,7 +61,8 @@ H1 APROBADO COMO MODELO OPERATIVO
 → FEHE-H5 profunda APROBADA · D-036
 → Especificación OVAt-H5 v0.1 APROBADA · D-037
 → Gate OVAt-H5 · GO CON CONDICIONES · D-037
-→ producir F1 · Bienvenida H5
+→ F1 · Bienvenida H5 v0.1 CANDIDATA producida
+→ verificación editorial/funcional pendiente
 ```
 
 ```text
@@ -160,4 +161,4 @@ Decisiones de diseño aprobadas:
 
 ## 11. Próximo control
 
-> **Producir y verificar F1 · Bienvenida H5. No abrir F2 ni montaje integral U7-H5 todavía.**
+> **Verificar F1 · Bienvenida H5 v0.1. No abrir F2 ni montaje integral U7-H5 todavía.**
