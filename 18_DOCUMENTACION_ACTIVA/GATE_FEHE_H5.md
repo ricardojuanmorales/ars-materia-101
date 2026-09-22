@@ -1,11 +1,13 @@
 # GATE FEHE-H5 — Ars Materia 101
 
 **Fecha de apertura:** 2026-09-21  
-**Estado:** ABIERTO · DECISIÓN HUMANA PENDIENTE  
+**Fecha de cierre:** 2026-09-22  
+**Estado:** CERRADO · GO · FEHE-H5 APROBADA    
 **Objeto:** FEHE-H5 profunda v0.1 CANDIDATA  
 **Unidad:** U7-H5 · Capas de materia: la revolución pictórica  
 **Movimiento rector:** ESTRATIFICAR  
-**Autoridad:** Estado Maestro v3.6; Patrón OVAt-H v1.0 VALIDADO · D-027; H4 APROBADO COMO SISTEMA · D-035.
+**Autoridad:** Estado Maestro vigente; Patrón OVAt-H v1.0 VALIDADO · D-027; H4 APROBADO COMO SISTEMA · D-035.  
+**Decisión humana final:** D-036
 
 ---
 
@@ -188,6 +190,25 @@ Mientras este Gate permanezca abierto:
 
 ---
 
-# 8. Próximo movimiento
+# 8. Decisión humana
 
-> **Recibir decisión humana sobre FEHE-H5 profunda v0.1 CANDIDATA.**
+> **GO · D-036**
+
+Se aprueban:
+
+1. título de trabajo **Capas de materia: la revolución pictórica**, con obligación de mantener el control anti-teleológico;
+2. movimiento rector **ESTRATIFICAR**;
+3. concepto organizador **SISTEMA ESTRATIFICADO**;
+4. unidad de análisis **CAPA + FUNCIÓN + INTERFAZ + SECUENCIA**;
+5. **PEF-H5** como dirección de producto reusable;
+6. andamiaje **MEDIO**;
+7. **Leonardo da Vinci · Virgin of the Rocks** como candidato rector preferente a cerrar en Especificación;
+8. pintura neerlandesa temprana como contraste histórico-técnico;
+9. reserva de circulación para H6 e instrumentación sistemática para H8;
+10. FD3 permanece cerrado.
+
+---
+
+# 9. Próximo movimiento
+
+> **Producir Especificación OVAt-H5 v0.1 CANDIDATA y someterla a Gate OVAt-H5 antes de producción.**
