@@ -1,14 +1,14 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 3.8  
-**Fecha:** 2026-09-21  
+**Versión:** 3.9  
+**Fecha:** 2026-09-22  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
 **Centro operativo:** ChatGPT Project **Ars Materia 101**
 
 ## 1. Posición del proyecto
 
-**H1 permanece APROBADO COMO MODELO OPERATIVO. H2, H3 y H4 permanecen APROBADOS COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H4 queda APROBADO COMO SISTEMA mediante D-035, con GO CON CONDICIONES y tres deudas no bloqueantes controladas: procedencia/licencias finales, archivo canónico del paquete final H4 y medición de carga real con estudiantes. Carril B queda CERRADO DOCUMENTALMENTE. La reentrada curricular queda reconstruida. FEHE-H5 profunda v1.0 queda APROBADA mediante D-036. La Especificación OVAt-H5 v0.1 CANDIDATA ha sido producida y Gate OVAt-H5 queda ABIERTO. H5 se formula bajo ESTRATIFICAR / SISTEMA ESTRATIFICADO, con PEF-H5 como producto reusable y andamiaje MEDIO. Caso rector candidato: Leonardo da Vinci · Virgin of the Rocks; contraste: pintura neerlandesa temprana. FD3 permanece cerrado. No se autoriza todavía producción/montaje U7-H5.**
+**H1 permanece APROBADO COMO MODELO OPERATIVO. H2, H3 y H4 permanecen APROBADOS COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H4 queda APROBADO COMO SISTEMA mediante D-035, con GO CON CONDICIONES y tres deudas no bloqueantes controladas: procedencia/licencias finales, archivo canónico del paquete final H4 y medición de carga real con estudiantes. Carril B queda CERRADO DOCUMENTALMENTE. La reentrada curricular queda reconstruida. FEHE-H5 profunda v1.0 queda APROBADA mediante D-036. La Especificación OVAt-H5 v0.1 queda APROBADA PARA PRODUCCIÓN SECUENCIAL mediante D-037 con GO CON CONDICIONES. H5 se formula bajo ESTRATIFICAR / SISTEMA ESTRATIFICADO, con PEF-H5 reusable, andamiaje MEDIO, Virgin of the Rocks como caso rector preferente y pintura neerlandesa temprana como contraste breve. Se autoriza exclusivamente producir F1 · Bienvenida H5 y verificarla antes de abrir F2. FD3 permanece cerrado y no se autoriza montaje integral U7-H5.**
 
 Framework Genérico V4.1.0 permanece activo de forma integral y proporcional.
 
@@ -36,8 +36,9 @@ D-026 mantiene provisionalmente los materiales sustantivos PROEMA bajo `13_INVES
 18. Reentrada curricular reconstruida.
 19. FEHE-H5 profunda v1.0 APROBADA · D-036.
 20. Gate FEHE-H5 CERRADO · GO · D-036.
-21. Especificación OVAt-H5 v0.1 CANDIDATA producida.
-22. Gate OVAt-H5 ABIERTO · decisión humana pendiente.
+21. Especificación OVAt-H5 v0.1 APROBADA PARA PRODUCCIÓN SECUENCIAL · D-037.
+22. Gate OVAt-H5 CERRADO · GO CON CONDICIONES · D-037.
+23. Producción H5 autorizada exclusivamente comenzando por F1 · Bienvenida.
 
 ## 3. Decisiones rectoras vigentes
 
@@ -189,7 +190,7 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 
 ## 9. Secuencia activa
 
-`H4 APROBADO COMO SISTEMA · D-035 → Carril B CERRADO → FEHE-H5 APROBADA · D-036 → Especificación OVAt-H5 v0.1 CANDIDATA → Gate OVAt-H5 ABIERTO → decisión humana`
+`H4 APROBADO COMO SISTEMA · D-035 → FEHE-H5 APROBADA · D-036 → Especificación OVAt-H5 APROBADA · D-037 → producción secuencial H5 comenzando por F1`
 
 ## 10. Deuda documental abierta
 
@@ -205,11 +206,12 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 ## 11. No hacer todavía
 
 - No propagar automáticamente contenido H4 hacia H5.
-- No abrir producción Moodle de U7-H5 antes de cerrar Gate OVAt-H5.
+- No abrir F2-H5 antes de verificar F1 · Bienvenida H5.
+- No montar integralmente U7-H5 antes de completar producción secuencial y QA.
 - No tratar las condiciones D-035 como bloqueantes salvo que aparezca evidencia nueva de incumplimiento.
 - No modificar Patrón OVAt-H v1.0 sólo por gramática editorial.
 - No fusionar Espiral de Casos y PROEMA.
 
 ## 12. Único próximo movimiento curricular
 
-> **Evaluar Gate OVAt-H5 y decidir GO / GO CON CONDICIONES / NO-GO.**
+> **Producir F1 · Bienvenida H5 y someterla a verificación editorial/funcional.**
