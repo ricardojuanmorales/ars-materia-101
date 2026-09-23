@@ -53,6 +53,7 @@ D-026 mantiene provisionalmente los materiales sustantivos PROEMA bajo `13_INVES
 35. Especificación OVAt-H6 v0.1 APROBADA PARA PRODUCCIÓN SECUENCIAL · D-041.
 36. Carril B H6 ACTIVO · D-041.
 37. Hallazgo de proceso: activación nominal de Carril B faltó en H5; deuda de trazabilidad registrada sin retroactividad.
+38. F1 · Bienvenida H6 v0.1 CANDIDATA producida; verificación editorial/funcional pendiente.
 
 ## 3. Decisiones rectoras vigentes
 
@@ -231,4 +232,4 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 
 ## 12. Único próximo movimiento curricular
 
-> **Carril B H6 activo. Producir F1 · Bienvenida H6 como único próximo componente.**
+> **Verificar F1 · Bienvenida H6 v0.1 antes de abrir F2.**
