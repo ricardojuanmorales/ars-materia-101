@@ -1,7 +1,7 @@
 # GATE OVAt-H6 — Ars Materia 101
 
 **Fecha de apertura:** 2026-09-23  
-**Estado:** ABIERTO · DECISIÓN HUMANA PENDIENTE  
+**Estado:** CERRADO · GO · D-041  
 **Objeto:** Especificación OVAt-H6 v0.1 CANDIDATA  
 **Autoridad:** FEHE-H6 profunda v1.0 APROBADA · D-040; Patrón OVAt-H v1.0 VALIDADO · D-027; Espiral de Casos APROBADA · D-024.  
 **Movimiento:** INTERCAMBIAR MATERIALES Y SABERES  
@@ -78,34 +78,42 @@ Determinar si la Especificación OVAt-H6 traduce la FEHE aprobada a una experien
 
 ---
 
-# 6. Opciones de decisión humana
+# 6. Decisión humana
 
-## GO
+> **GO · D-041**
 
-Aprueba la Especificación OVAt-H6 y autoriza producción secuencial comenzando exclusivamente por F1.
+Mediante D-041:
 
-## GO CON CONDICIONES
+1. Especificación OVAt-H6 v0.1 queda **APROBADA PARA PRODUCCIÓN SECUENCIAL**.
+2. Se confirma **cochinilla/carmín** como caso rector de producción, sujeto a cierre final de procedencia/licencias.
+3. Se confirma **MTS-H6** en una sola vista o equivalente breve.
+4. Se confirma carga total H6+FD3 de **85–110 min**, incluyendo FD3.
+5. Se confirma FD3 después de F5 y antes de F6.
+6. F5 queda limitado a cuatro notas de transferencia.
+7. H6 mantiene andamiaje MEDIO y FD3 MEDIO-BAJO.
+8. F1 y F6 permanecen informativos y ligeros.
+9. No se modifica Patrón OVAt-H v1.0.
+10. Se **activa explícitamente Carril B para H6** como tramo operativo de producción → montaje/QA → Auditoría Inversa → Gate Integral.
 
-Aprueba bajo condiciones vinculantes explícitas.
+Hallazgo de trazabilidad:
 
-## NO-GO
-
-Mantiene H6 en especificación y exige corrección antes de producir componentes.
+> En H5, la transición desde reentrada curricular hacia producción se ejecutó, pero la activación nominal de Carril B no quedó documentada de forma explícita. No se reconstruye retroactivamente una decisión inexistente; se registra el hallazgo y se corrige prospectivamente desde H6.
 
 ---
 
 # 7. Límite actual
 
-Hasta decisión humana:
+Tras D-041:
 
-- Especificación OVAt-H6 permanece CANDIDATA;
-- no se produce F1;
-- no se monta Moodle;
-- FD3 no se activa;
-- Patrón OVAt-H v1.0 no se modifica.
+- OVAt-H6 queda APROBADO;
+- Carril B H6 queda ACTIVO;
+- se autoriza producción secuencial comenzando exclusivamente por F1;
+- no se autoriza montaje integral antes de QA secuencial;
+- FD3 se produce dentro de H6 según la Especificación aprobada;
+- Patrón OVAt-H v1.0 permanece sin cambio.
 
 ---
 
 # 8. Próximo movimiento
 
-> **Decisión humana sobre Gate OVAt-H6.**
+> **Abrir Carril B H6 y producir F1 · Bienvenida H6 como único próximo componente.**
