@@ -55,5 +55,8 @@
 
 | 2026-09-23 | D-040 | GO al Gate FEHE-H6; FEHE-H6 profunda queda APROBADA y se autoriza Especificación OVAt-H6 v0.1 CANDIDATA | Aprueba H6 bajo el eje INTERCAMBIAR MATERIALES Y SABERES, con TRAYECTORIA MATERIAL SITUADA como concepto organizador, unidad de análisis MATERIAL + RUTA + ACTORES + TRANSFORMACIÓN + SABER + EVIDENCIA, MTS-H6 como producto reusable candidato, andamiaje MEDIO para H6 y MEDIO-BAJO para FD3. Confirma cochinilla/carmín como candidato rector preferente, índigo/textiles de Gujarat y ultramarino como reservas, FD3 como Caso B + nota comparativa A/B con carga integrada, y reserva H7/H8. | FEHE-H6, Gate FEHE-H6, Estado Maestro, Mapa de Ruta, futura Especificación OVAt-H6 | APROBADO |
 
+
+| 2026-09-23 | D-041 | GO al Gate OVAt-H6; Especificación OVAt-H6 v0.1 queda APROBADA PARA PRODUCCIÓN SECUENCIAL y se activa explícitamente Carril B para H6 | La Especificación traduce FEHE-H6 aprobada a F1-F6 bajo INTERCAMBIAR MATERIALES Y SABERES / TRAYECTORIA MATERIAL SITUADA, con cochinilla/carmín como caso rector, MTS-H6 reusable, contraste breve, FD3 TRANSFERIR como Caso B + nota A/B, carga total 85–110 min, H6 MEDIO y FD3 MEDIO-BAJO. Se corrige una deuda de trazabilidad detectada en reflexión en acción: Carril B había sido usado como tramo operativo producción→Moodle/QA→auditoría→Gate integral, pero su activación no había quedado explicitada como paso recurrente. Para H6 queda ACTIVO desde D-041 hasta Gate Integral H6. | Gate OVAt-H6, Especificación OVAt-H6, Activación Carril B H6, Estado Maestro, Mapa de Ruta, producción H6 | APROBADO |
+
 ## Regla de mantenimiento
 Añadir una fila sólo cuando exista una decisión humana o un cambio rector. Las discusiones exploratorias no se registran como decisiones.
