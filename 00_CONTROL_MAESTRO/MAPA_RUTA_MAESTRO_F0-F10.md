@@ -1,6 +1,6 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 2.9  
+**Versión:** 3.0  
 **Estado:** ACTIVO  
 **Fecha:** 2026-09-22  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
@@ -33,9 +33,9 @@ Mantener una vista compacta y recuperable del proyecto completo para que producc
 | Tramo | Función en Ars Materia | Estado práctico |
 |---|---|---|
 | **F0** | autoridad, repositorio, estado y gobernanza | BASE OPERATIVA ESTABLECIDA |
-| **F1** | fundamentos histórico-epistemológicos | H1-H5 CERRADOS; H6 PENDIENTE FEHE |
+| **F1** | fundamentos histórico-epistemológicos | FEHE-H6 v0.1 CANDIDATA · GATE ABIERTO |
 | **F2** | alineación pedagógica, evidencia, DUA y apoyos | ACTIVA H1-H5 A NIVEL FEHE |
-| **F3** | trayectoria FEHE H1-H10, PROEMA y arquitectura longitudinal | H5 CERRADO · D-039; H6 SIGUIENTE |
+| **F3** | trayectoria FEHE H1-H10, PROEMA y arquitectura longitudinal | FEHE-H6 CANDIDATA; FD3 DISEÑO AÚN CERRADO |
 | **F4** | microdiseño/OVAt | OVAt-H5 v0.1 APROBADO · D-037 |
 | **F5** | prototipado integrado | H1-H4 VALIDADOS; H5 PRODUCIDO Y MONTADO · D-038 |
 | **F6** | DUA + IA + tecnología operacional | ACTIVA PROPORCIONALMENTE |
@@ -68,6 +68,8 @@ H1 APROBADO COMO MODELO OPERATIVO
 → H5 APROBADO COMO SISTEMA
 → cierre documental del carril H5
 → reentrada curricular hacia H6
+→ FEHE-H6 profunda v0.1 CANDIDATA
+→ Gate FEHE-H6 · decisión humana pendiente
 ```
 
 ```text
@@ -166,4 +168,4 @@ Decisiones de diseño aprobadas:
 
 ## 11. Próximo control
 
-> **Cerrar documentalmente H5, completar ficha de reentrada y abrir FEHE-H6 profunda.**
+> **Decisión humana sobre Gate FEHE-H6. No abrir OVAt-H6 todavía.**
