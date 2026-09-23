@@ -46,5 +46,8 @@
 
 | 2026-09-22 | D-037 | GO CON CONDICIONES al Gate OVAt-H5; aprobar Especificación OVAt-H5 v0.1 y autorizar producción secuencial comenzando exclusivamente por F1 · Bienvenida H5 | La Especificación traduce FEHE-H5 aprobada a F1-F6 bajo ESTRATIFICAR / SISTEMA ESTRATIFICADO, con Virgin of the Rocks como caso rector preferente, PEF-H5 reusable, contraste neerlandés breve, andamiaje MEDIO, carga 70–90 min y FD3 cerrado. Quedan vinculantes: (1) conjunto pequeño de evidencias del caso rector; (2) PEF-H5 en una sola vista o equivalente breve; (3) máximo un ejemplo modelado completo; (4) instrumentación no evaluada por nomenclatura; (5) contraste limitado a cuatro notas de transferencia; (6) procedencia/licencias cerradas antes de montaje; (7) FD3 fuera de H5. | Gate OVAt-H5, Especificación OVAt-H5, Estado Maestro, Mapa de Ruta, producción H5 | APROBADO CON CONDICIONES |
 
+
+| 2026-09-22 | D-038 | Reconocer U7-H5 completo como PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE según reporte humano y cerrar la fase de producción/montaje | El docente confirma que U7-H5 fue montado y verificado en Moodle. Se autoriza pasar al cierre integral H5 mediante Auditoría Inversa H5 + Gate Integral H5. Se preservan ESTRATIFICAR / SISTEMA ESTRATIFICADO, PEF-H5 reusable, andamiaje MEDIO, Virgin of the Rocks como caso rector, contraste neerlandés breve y FD3 fuera de H5. No se declara todavía H5 APROBADO COMO SISTEMA ni se abre H6. | Estado Maestro, Mapa de Ruta, Auditoría Inversa H5, Gate Integral H5, H5/OVAt/Moodle | APROBADO |
+
 ## Regla de mantenimiento
 Añadir una fila sólo cuando exista una decisión humana o un cambio rector. Las discusiones exploratorias no se registran como decisiones.
