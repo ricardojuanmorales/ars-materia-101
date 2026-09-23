@@ -1,12 +1,12 @@
 # GATE INTEGRAL H5 — Ars Materia 101
 
 **Fecha de apertura:** 2026-09-22  
-**Estado:** ABIERTO · DECISIÓN HUMANA PENDIENTE  
+**Estado:** CERRADO · GO CON CONDICIONES · H5 APROBADO COMO SISTEMA  
 **Objeto:** U7-H5 completo como sistema FEHE → OVAt → F1-F6 → PEF-H5 → Moodle → recuperación → continuidad H6  
 **Decisión que habilita apertura:** D-038  
 **Auditoría aplicable:** AUDITORÍA INVERSA H5 v1.0 · COMPLETADA  
 **Patrón aplicable:** OVAt-H v1.0 VALIDADO · D-027  
-**Decisión humana final:** PENDIENTE
+**Decisión humana final:** D-039
 
 ---
 
@@ -149,24 +149,37 @@ Esto no invalida por sí mismo el sistema pedagógico, pero sí debe quedar como
 
 # 10. Decisión humana
 
-> **PENDIENTE**
+> **GO CON CONDICIONES · D-039**
 
-Opciones: **GO / GO CON CONDICIONES / NO-GO**.
+Mediante D-039:
+
+1. H5 queda **APROBADO COMO SISTEMA**.
+2. Se aceptan como condiciones no bloqueantes:
+   - cerrar procedencia/licencias finales de imágenes y evidencias documentales usadas en Moodle;
+   - archivar canónicamente el paquete final H5;
+   - reconciliar el F1 conservado en `main` con la versión final efectivamente montada;
+   - mantener medición longitudinal de carga;
+   - realizar QA técnico fino de accesibilidad cuando corresponda.
+3. El Patrón OVAt-H v1.0 permanece **VALIDADO sin cambio**.
+4. El hallazgo “mayor complejidad conceptual ≠ mayor granularidad editorial” queda registrado como aprendizaje metodológico transversal.
+5. Se autoriza cerrar documentalmente el carril de producción H5 y reconstruir la reentrada curricular.
+6. H6 no se produce automáticamente; el siguiente movimiento curricular autorizado será **FEHE-H6 profunda** una vez completada la ficha de reentrada.
 
 ---
 
 # 11. Límite de autorización actual
 
-Hasta decisión humana:
+Tras D-039:
 
-- H5 NO está APROBADO COMO SISTEMA;
-- H6 permanece cerrado;
-- no se modifica Patrón OVAt-H v1.0;
-- no se declara cerrado el carril actual;
-- sí queda completada la Auditoría Inversa H5 y abierto este Gate Integral.
+- H5 queda **APROBADO COMO SISTEMA**;
+- el carril de producción H5 puede cerrarse documentalmente;
+- las condiciones aceptadas permanecen como deuda no bloqueante controlada;
+- Patrón OVAt-H v1.0 no se modifica;
+- H6 sólo puede abrirse por su secuencia normal: **FEHE-H6 profunda → Gate FEHE → Especificación OVAt-H6 → Gate → producción → Moodle/QA → Gate integral**;
+- FD3 corresponde al nodo H5+H6 y sólo podrá activarse en H6 según el protocolo aprobado.
 
 ---
 
 # 12. Próximo movimiento
 
-> **Decisión humana sobre Gate Integral H5.**
+> **Cerrar documentalmente el carril H5 y completar la Ficha de Reentrada antes de abrir FEHE-H6 profunda.**
