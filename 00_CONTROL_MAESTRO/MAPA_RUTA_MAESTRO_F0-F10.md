@@ -75,7 +75,7 @@ H1 APROBADO COMO MODELO OPERATIVO
 → Gate OVAt-H6 · GO · D-041
 → Especificación OVAt-H6 APROBADA
 → Carril B H6 ACTIVO
-→ F1 Bienvenida H6
+→ F1 Bienvenida H6 v0.1 CANDIDATA · verificación pendiente
 ```
 
 ```text
@@ -174,4 +174,4 @@ Decisiones de diseño aprobadas:
 
 ## 11. Próximo control
 
-> **Carril B H6 ACTIVO. Producir F1 · Bienvenida H6.**
+> **Verificar F1 · Bienvenida H6 v0.1. No abrir F2 todavía.**
