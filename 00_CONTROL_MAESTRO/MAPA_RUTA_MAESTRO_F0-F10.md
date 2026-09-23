@@ -1,6 +1,6 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 2.7  
+**Versión:** 2.8  
 **Estado:** ACTIVO  
 **Fecha:** 2026-09-22  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
@@ -37,11 +37,11 @@ Mantener una vista compacta y recuperable del proyecto completo para que producc
 | **F2** | alineación pedagógica, evidencia, DUA y apoyos | ACTIVA H1-H4 A NIVEL FEHE |
 | **F3** | trayectoria FEHE H1-H10, PROEMA y arquitectura longitudinal | FEHE-H5 APROBADA · D-036 |
 | **F4** | microdiseño/OVAt | OVAt-H5 v0.1 APROBADO · D-037 |
-| **F5** | prototipado integrado | H1-H4 VALIDADOS; H5 PRODUCCIÓN SECUENCIAL AUTORIZADA |
+| **F5** | prototipado integrado | H1-H4 VALIDADOS; H5 PRODUCIDO Y MONTADO · D-038 |
 | **F6** | DUA + IA + tecnología operacional | ACTIVA PROPORCIONALMENTE |
-| **F7** | auditoría integral de calidad | H1-H4 COMPLETADAS |
-| **F8** | producción y montaje Moodle | H1-H4 MONTADOS Y VERIFICADOS/PROBADOS; H4 · D-034 |
-| **F9** | validación con evidencia real | H1-H4 CERRADAS; H4 · D-035 |
+| **F7** | auditoría integral de calidad | H1-H4 COMPLETADAS; H5 ABIERTA TRAS D-038 |
+| **F8** | producción y montaje Moodle | H1-H5 MONTADOS Y VERIFICADOS/PROBADOS; H5 · D-038 |
+| **F9** | validación con evidencia real | H1-H4 CERRADAS; H5 PENDIENTE GATE INTEGRAL |
 | **F10** | metaevaluación y evolución | PATRÓN v1.0 VALIDADO; HALLAZGO EDITORIAL H3 REGISTRADO |
 
 ## 4. Carril de producción actual
@@ -61,8 +61,9 @@ H1 APROBADO COMO MODELO OPERATIVO
 → FEHE-H5 profunda APROBADA · D-036
 → Especificación OVAt-H5 v0.1 APROBADA · D-037
 → Gate OVAt-H5 · GO CON CONDICIONES · D-037
-→ F1 · Bienvenida H5 v0.1 CANDIDATA producida
-→ verificación editorial/funcional pendiente
+→ U7-H5 PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE · D-038
+→ Auditoría Inversa H5
+→ Gate Integral H5 · decisión humana pendiente
 ```
 
 ```text
@@ -161,4 +162,4 @@ Decisiones de diseño aprobadas:
 
 ## 11. Próximo control
 
-> **Verificar F1 · Bienvenida H5 v0.1. No abrir F2 ni montaje integral U7-H5 todavía.**
+> **Completar Auditoría Inversa H5 y llevar H5 a Gate Integral. No abrir H6 antes de decisión humana.**
