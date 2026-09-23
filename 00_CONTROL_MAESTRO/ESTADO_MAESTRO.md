@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 4.2  
+**Versión:** 4.3  
 **Fecha:** 2026-09-22  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -8,7 +8,7 @@
 
 ## 1. Posición del proyecto
 
-**H1 permanece APROBADO COMO MODELO OPERATIVO. H2, H3 y H4 permanecen APROBADOS COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H4 permanece APROBADO COMO SISTEMA mediante D-035. FEHE-H5 profunda v1.0 permanece APROBADA mediante D-036 y la Especificación OVAt-H5 v0.1 permanece APROBADA mediante D-037. U7-H5 queda reconocido como PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE según reporte humano mediante D-038. H5 conserva ESTRATIFICAR / SISTEMA ESTRATIFICADO, PEF-H5 reusable, andamiaje MEDIO, Virgin of the Rocks como caso rector y contraste neerlandés breve. FD3 permanece fuera de H5. H5 queda **APROBADO COMO SISTEMA mediante D-039, GO CON CONDICIONES**. Se aceptan como deudas no bloqueantes: procedencia/licencias finales, archivo canónico del paquete H5, reconciliación de F1 final con `main`, medición longitudinal de carga y QA técnico fino de accesibilidad. El Patrón OVAt-H v1.0 permanece VALIDADO sin cambio. El carril de producción H5 queda autorizado para cierre documental y la reentrada curricular puede reconstruirse. H6 no se produce automáticamente: el próximo movimiento curricular autorizado, tras ficha de reentrada, es FEHE-H6 profunda.**
+**H1 permanece APROBADO COMO MODELO OPERATIVO. H2, H3 y H4 permanecen APROBADOS COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H4 permanece APROBADO COMO SISTEMA mediante D-035. FEHE-H5 profunda v1.0 permanece APROBADA mediante D-036 y la Especificación OVAt-H5 v0.1 permanece APROBADA mediante D-037. U7-H5 queda reconocido como PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE según reporte humano mediante D-038. H5 conserva ESTRATIFICAR / SISTEMA ESTRATIFICADO, PEF-H5 reusable, andamiaje MEDIO, Virgin of the Rocks como caso rector y contraste neerlandés breve. FD3 permanece fuera de H5. H5 queda **APROBADO COMO SISTEMA mediante D-039, GO CON CONDICIONES**. Se aceptan como deudas no bloqueantes: procedencia/licencias finales, archivo canónico del paquete H5, reconciliación de F1 final con `main`, medición longitudinal de carga y QA técnico fino de accesibilidad. El Patrón OVAt-H v1.0 permanece VALIDADO sin cambio. El carril de producción H5 queda autorizado para cierre documental y la reentrada curricular puede reconstruirse. H6 no se produce automáticamente. La reentrada quedó documentada y **FEHE-H6 profunda v0.1 CANDIDATA ha sido producida** bajo INTERCAMBIAR MATERIALES Y SABERES; Gate FEHE-H6 queda ABIERTO y la decisión humana está pendiente. No se autoriza todavía Especificación OVAt-H6 ni FD3 operativo.**
 
 Framework Genérico V4.1.0 permanece activo de forma integral y proporcional.
 
@@ -44,7 +44,9 @@ D-026 mantiene provisionalmente los materiales sustantivos PROEMA bajo `13_INVES
 26. Gate Integral H5 CERRADO · GO CON CONDICIONES · D-039.
 27. H5 APROBADO COMO SISTEMA · D-039.
 28. Cierre documental del carril H5 autorizado; reentrada curricular hacia H6 por reconstruir.
-29. Próximo movimiento curricular: FEHE-H6 profunda, sólo tras ficha de reentrada.
+29. Ficha de reentrada H6 completada.
+30. FEHE-H6 profunda v0.1 CANDIDATA producida.
+31. Gate FEHE-H6 ABIERTO · decisión humana pendiente.
 
 ## 3. Decisiones rectoras vigentes
 
@@ -223,4 +225,4 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 
 ## 12. Único próximo movimiento curricular
 
-> **Cerrar documentalmente el carril H5, completar ficha de reentrada y abrir FEHE-H6 profunda como único próximo movimiento curricular.**
+> **Decisión humana sobre Gate FEHE-H6. No abrir OVAt-H6 ni activar FD3 antes del Gate.**
