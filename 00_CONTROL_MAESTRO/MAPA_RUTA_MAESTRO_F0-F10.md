@@ -1,6 +1,6 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 2.8  
+**Versión:** 2.9  
 **Estado:** ACTIVO  
 **Fecha:** 2026-09-22  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
@@ -33,15 +33,16 @@ Mantener una vista compacta y recuperable del proyecto completo para que producc
 | Tramo | Función en Ars Materia | Estado práctico |
 |---|---|---|
 | **F0** | autoridad, repositorio, estado y gobernanza | BASE OPERATIVA ESTABLECIDA |
-| **F1** | fundamentos histórico-epistemológicos | H1-H4 CERRADOS; FEHE-H5 APROBADA · D-036 |
-| **F2** | alineación pedagógica, evidencia, DUA y apoyos | ACTIVA H1-H4 A NIVEL FEHE |
-| **F3** | trayectoria FEHE H1-H10, PROEMA y arquitectura longitudinal | FEHE-H5 APROBADA · D-036 |
+| **F1** | fundamentos histórico-epistemológicos | H1-H5 CERRADOS; H6 PENDIENTE FEHE |
+| **F2** | alineación pedagógica, evidencia, DUA y apoyos | ACTIVA H1-H5 A NIVEL FEHE |
+| **F3** | trayectoria FEHE H1-H10, PROEMA y arquitectura longitudinal | H5 CERRADO · D-039; H6 SIGUIENTE |
 | **F4** | microdiseño/OVAt | OVAt-H5 v0.1 APROBADO · D-037 |
 | **F5** | prototipado integrado | H1-H4 VALIDADOS; H5 PRODUCIDO Y MONTADO · D-038 |
 | **F6** | DUA + IA + tecnología operacional | ACTIVA PROPORCIONALMENTE |
-| **F7** | auditoría integral de calidad | H1-H4 COMPLETADAS; H5 ABIERTA TRAS D-038 |
+| **F7** | auditoría integral de calidad | H1-H5 COMPLETADAS |
+
 | **F8** | producción y montaje Moodle | H1-H5 MONTADOS Y VERIFICADOS/PROBADOS; H5 · D-038 |
-| **F9** | validación con evidencia real | H1-H4 CERRADAS; H5 PENDIENTE GATE INTEGRAL |
+| **F9** | validación con evidencia real | H1-H5 CERRADAS; H5 · D-039 |
 | **F10** | metaevaluación y evolución | PATRÓN v1.0 VALIDADO; HALLAZGO EDITORIAL H3 REGISTRADO |
 
 ## 4. Carril de producción actual
@@ -63,7 +64,10 @@ H1 APROBADO COMO MODELO OPERATIVO
 → Gate OVAt-H5 · GO CON CONDICIONES · D-037
 → U7-H5 PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE · D-038
 → Auditoría Inversa H5
-→ Gate Integral H5 · decisión humana pendiente
+→ Gate Integral H5 · GO CON CONDICIONES · D-039
+→ H5 APROBADO COMO SISTEMA
+→ cierre documental del carril H5
+→ reentrada curricular hacia H6
 ```
 
 ```text
@@ -162,4 +166,4 @@ Decisiones de diseño aprobadas:
 
 ## 11. Próximo control
 
-> **Completar Auditoría Inversa H5 y llevar H5 a Gate Integral. No abrir H6 antes de decisión humana.**
+> **Cerrar documentalmente H5, completar ficha de reentrada y abrir FEHE-H6 profunda.**
