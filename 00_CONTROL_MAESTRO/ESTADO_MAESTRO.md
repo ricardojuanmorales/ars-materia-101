@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 4.1  
+**Versión:** 4.2  
 **Fecha:** 2026-09-22  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -8,7 +8,7 @@
 
 ## 1. Posición del proyecto
 
-**H1 permanece APROBADO COMO MODELO OPERATIVO. H2, H3 y H4 permanecen APROBADOS COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H4 permanece APROBADO COMO SISTEMA mediante D-035. FEHE-H5 profunda v1.0 permanece APROBADA mediante D-036 y la Especificación OVAt-H5 v0.1 permanece APROBADA mediante D-037. U7-H5 queda reconocido como PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE según reporte humano mediante D-038. H5 conserva ESTRATIFICAR / SISTEMA ESTRATIFICADO, PEF-H5 reusable, andamiaje MEDIO, Virgin of the Rocks como caso rector y contraste neerlandés breve. FD3 permanece fuera de H5. H5 todavía NO está APROBADO COMO SISTEMA: se abre cierre integral mediante Auditoría Inversa H5 + Gate Integral H5. H6 permanece cerrado.**
+**H1 permanece APROBADO COMO MODELO OPERATIVO. H2, H3 y H4 permanecen APROBADOS COMO SISTEMA. Patrón OVAt-H v1.0 permanece VALIDADO mediante D-027. H4 permanece APROBADO COMO SISTEMA mediante D-035. FEHE-H5 profunda v1.0 permanece APROBADA mediante D-036 y la Especificación OVAt-H5 v0.1 permanece APROBADA mediante D-037. U7-H5 queda reconocido como PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE según reporte humano mediante D-038. H5 conserva ESTRATIFICAR / SISTEMA ESTRATIFICADO, PEF-H5 reusable, andamiaje MEDIO, Virgin of the Rocks como caso rector y contraste neerlandés breve. FD3 permanece fuera de H5. H5 queda **APROBADO COMO SISTEMA mediante D-039, GO CON CONDICIONES**. Se aceptan como deudas no bloqueantes: procedencia/licencias finales, archivo canónico del paquete H5, reconciliación de F1 final con `main`, medición longitudinal de carga y QA técnico fino de accesibilidad. El Patrón OVAt-H v1.0 permanece VALIDADO sin cambio. El carril de producción H5 queda autorizado para cierre documental y la reentrada curricular puede reconstruirse. H6 no se produce automáticamente: el próximo movimiento curricular autorizado, tras ficha de reentrada, es FEHE-H6 profunda.**
 
 Framework Genérico V4.1.0 permanece activo de forma integral y proporcional.
 
@@ -41,7 +41,10 @@ D-026 mantiene provisionalmente los materiales sustantivos PROEMA bajo `13_INVES
 23. Producción H5 autorizada exclusivamente comenzando por F1 · Bienvenida.
 24. U7-H5 reconocido como PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE según reporte humano · D-038.
 25. Cierre integral H5 autorizado: Auditoría Inversa H5 + Gate Integral H5.
-26. H5 todavía NO APROBADO COMO SISTEMA; H6 permanece cerrado.
+26. Gate Integral H5 CERRADO · GO CON CONDICIONES · D-039.
+27. H5 APROBADO COMO SISTEMA · D-039.
+28. Cierre documental del carril H5 autorizado; reentrada curricular hacia H6 por reconstruir.
+29. Próximo movimiento curricular: FEHE-H6 profunda, sólo tras ficha de reentrada.
 
 ## 3. Decisiones rectoras vigentes
 
@@ -193,7 +196,7 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 
 ## 9. Secuencia activa
 
-`H4 APROBADO COMO SISTEMA · D-035 → FEHE-H5 APROBADA · D-036 → Especificación OVAt-H5 APROBADA · D-037 → U7-H5 PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE · D-038 → Auditoría Inversa H5 → Gate Integral H5`
+`H4 APROBADO COMO SISTEMA · D-035 → FEHE-H5 APROBADA · D-036 → Especificación OVAt-H5 APROBADA · D-037 → U7-H5 PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE · D-038 → Gate Integral H5 · GO CON CONDICIONES · D-039 → H5 APROBADO COMO SISTEMA → cierre documental → reentrada H6`
 
 ## 10. Deuda documental abierta
 
@@ -212,11 +215,12 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 
 - No propagar automáticamente contenido H4 hacia H5.
 - No reabrir producción editorial H5 salvo hallazgo del cierre integral.
-- No declarar H5 APROBADO COMO SISTEMA antes de decisión humana del Gate Integral H5.
+- No reabrir H5 salvo hallazgo nuevo o deuda que se convierta en bloqueante.
+- No producir H6 antes de completar su FEHE profunda y Gate.
 - No tratar las condiciones D-035 como bloqueantes salvo que aparezca evidencia nueva de incumplimiento.
 - No modificar Patrón OVAt-H v1.0 sólo por gramática editorial.
 - No fusionar Espiral de Casos y PROEMA.
 
 ## 12. Único próximo movimiento curricular
 
-> **Completar Auditoría Inversa H5 y someter H5 al Gate Integral. H6 permanece cerrado.**
+> **Cerrar documentalmente el carril H5, completar ficha de reentrada y abrir FEHE-H6 profunda como único próximo movimiento curricular.**
