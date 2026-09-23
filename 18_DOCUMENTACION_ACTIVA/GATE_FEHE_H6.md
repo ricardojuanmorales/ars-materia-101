@@ -1,7 +1,8 @@
 # GATE FEHE-H6 — Ars Materia 101
 
 **Fecha de apertura:** 2026-09-22  
-**Estado:** ABIERTO · DECISIÓN HUMANA PENDIENTE  
+**Fecha de cierre:** 2026-09-23  
+**Estado:** CERRADO · GO · D-040  
 **Objeto:** FEHE-H6 profunda v0.1 CANDIDATA  
 **Movimiento rector canónico:** INTERCAMBIAR MATERIALES Y SABERES  
 **Nodo:** H5 + H6 → FD3 · TRANSFERIR  
@@ -118,39 +119,38 @@ Regla:
 
 ---
 
-# 7. Opciones de decisión humana
+# 7. Decisión humana
 
-## GO
+> **GO · D-040**
 
-Autoriza:
+Mediante D-040:
 
-- promover FEHE-H6 a v1.0 APROBADA;
-- producir Especificación OVAt-H6 v0.1 CANDIDATA;
-- resolver en esa especificación caso rector, carga, ubicación de FD3 y evidencia.
-
-## GO CON CONDICIONES
-
-Autoriza lo anterior bajo condiciones explícitas y vinculantes.
-
-## NO-GO
-
-Mantiene H6 en FEHE y exige corrección antes de producir OVAt.
+1. FEHE-H6 profunda queda **APROBADA**.
+2. Se confirma **TRAYECTORIA MATERIAL SITUADA** como concepto organizador.
+3. Se confirma la unidad de análisis **MATERIAL + RUTA + ACTORES + TRANSFORMACIÓN + SABER + EVIDENCIA**.
+4. Se confirma **MTS-H6** como dirección de producto reusable.
+5. Se confirma andamiaje **MEDIO** para H6 y **MEDIO-BAJO** para FD3.
+6. Se confirma **cochinilla/carmín** como candidato rector preferente, sujeto a cierre documental en OVAt.
+7. Índigo/textiles de Gujarat y ultramarino permanecen como reservas/contrastes, no como segundos núcleos automáticos.
+8. FD3 mantiene **Caso B + nota comparativa A/B**, con carga integrada dentro de H6.
+9. H7 y H8 permanecen protegidos.
+10. La regla de granularidad heredada de H5 permanece vinculante.
 
 ---
 
 # 8. Límite actual
 
-Hasta decisión humana:
+Tras D-040:
 
-- FEHE-H6 permanece CANDIDATA;
-- no se abre Especificación OVAt-H6;
-- no se produce F1;
+- FEHE-H6 queda APROBADA;
+- se autoriza producir **Especificación OVAt-H6 v0.1 CANDIDATA**;
+- no se produce F1 todavía;
 - no se monta Moodle;
-- FD3 no se activa operativamente;
+- FD3 no se activa operativamente hasta resolver ubicación, carga y evidencia en OVAt-H6;
 - Patrón OVAt-H v1.0 permanece sin cambio.
 
 ---
 
 # 9. Próximo movimiento
 
-> **Decisión humana sobre Gate FEHE-H6.**
+> **Producir Especificación OVAt-H6 v0.1 CANDIDATA y someterla a Gate humano antes de producción.**
