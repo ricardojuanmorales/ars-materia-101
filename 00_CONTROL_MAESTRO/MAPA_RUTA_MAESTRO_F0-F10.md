@@ -1,8 +1,8 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 3.2  
+**Versión:** 3.3  
 **Estado:** ACTIVO  
-**Fecha:** 2026-09-22  
+**Fecha:** 2026-09-24  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
 **Fuente de verdad:** GitHub `main`
 
@@ -174,4 +174,30 @@ Decisiones de diseño aprobadas:
 
 ## 11. Próximo control
 
-> **Verificar F1 · Bienvenida H6 v0.1. No abrir F2 todavía.**
+> **Decisión humana del Gate Integral H6. No cerrar Carril B ni abrir H7 antes del Gate.**
+
+
+## 12. Actualización H6 · cierre de producción y preparación de reentrada
+
+```text
+→ FEHE-H6 APROBADA · D-040
+→ OVAt-H6 APROBADO · D-041
+→ Carril B H6 ACTIVO · D-041
+→ H6 PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE · D-042
+→ Auditoría Inversa H6 COMPLETADA
+→ Gate Integral H6 ABIERTO · decisión humana pendiente
+→ [si GO/GO CON CONDICIONES no bloqueantes] cierre Carril B H6
+→ reentrada Carril A H7
+→ FEHE-H7 profunda
+```
+
+Documentos de retorno ya preparados, pero no activos:
+
+- `CIERRE_CARRIL_B_H6_2026-09-24_CANDIDATO.md`;
+- `FICHA_REENTRADA_CARRIL_A_H7_2026-09-24_CANDIDATA.md`.
+
+Orientación H7 preservada desde acuerdos rectores:
+
+> **La industria inventa nuevos materiales · SINTETIZAR Y REPRODUCIR**
+
+FD4 permanece reservado para H8 dentro del nodo H7+H8.
