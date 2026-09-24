@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 4.6  
+**Versión:** 4.7  
 **Fecha:** 2026-09-24  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -232,7 +232,7 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 
 ## 12. Único próximo movimiento curricular
 
-> **Decisión humana del Gate Integral H6. Carril B H6 permanece activo; H7 permanece cerrado.**
+> **Carril A H7 ACTIVO · producir FEHE-H7 profunda CANDIDATA como próximo movimiento curricular único.**
 
 
 ## 13. Actualización de cierre H6 · 2026-09-24
@@ -247,3 +247,18 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 - Orientación canónica reservada para H7: **SINTETIZAR Y REPRODUCIR**; FEHE-H7 todavía no abierta ni aprobada.
 
 **Próximo movimiento único:** decisión humana del Gate Integral H6.
+
+
+## 14. Cierre integral H6 y reentrada H7 · D-043
+
+- Gate Integral H6: **CERRADO · GO CON CONDICIONES · D-043**.
+- H6: **APROBADO COMO SISTEMA**.
+- Carril B H6: **CERRADO DOCUMENTALMENTE**.
+- Condiciones no bloqueantes: procedencia/licencias, archivo canónico H6, reconciliación F1-H6 con `main`, medición de carga y QA técnico fino de accesibilidad.
+- Patrón OVAt-H v1.0: **VALIDADO sin cambio**.
+- Carril A H7: **ACTIVO**.
+- H7: orientación canónica **SINTETIZAR Y REPRODUCIR**.
+- FD4 permanece reservado para H8 en el nodo H7+H8.
+- H7 no entra en producción automática.
+
+**Próximo movimiento único:** FEHE-H7 profunda CANDIDATA.
