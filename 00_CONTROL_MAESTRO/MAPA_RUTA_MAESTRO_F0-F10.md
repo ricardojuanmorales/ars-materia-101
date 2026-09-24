@@ -1,6 +1,6 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 3.4  
+**Versión:** 3.5  
 **Estado:** ACTIVO  
 **Fecha:** 2026-09-24  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
@@ -227,3 +227,20 @@ Reserva longitudinal:
 > **H8 · CARACTERIZAR Y EXPLICAR**
 
 FD4 permanece reservado a H8 dentro del nodo H7+H8.
+
+
+## 14. Punto de reanudación de sesión · 2026-09-24
+
+```text
+H6 APROBADO COMO SISTEMA · D-043
+→ Carril B H6 CERRADO
+→ Carril A H7 ACTIVO
+→ FEHE-H7 profunda CANDIDATA
+→ Gate FEHE-H7
+```
+
+Prompt canónico de continuidad:
+
+`00_CONTROL_MAESTRO/PROMPT_CONTINUIDAD_H7_FEHE_2026-09-24.md`
+
+No abrir OVAt-H7, Carril B H7, Moodle H7 ni FD4 antes de su secuencia de Gates.
