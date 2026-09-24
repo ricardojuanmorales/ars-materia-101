@@ -3,7 +3,7 @@
 ## H7 · La industria inventa nuevos materiales
 
 **Fecha:** 2026-09-24  
-**Estado:** CANDIDATA PARA GATE OVAt-H7  
+**Estado:** SUPERADA POR VERSIÓN APROBADA · D-045  
 **Autoridad:** FEHE-H7 profunda v1.0 APROBADA · D-044; Patrón OVAt-H v1.0 VALIDADO · D-027; Espiral de Casos v1.0 APROBADA · D-024; H6 APROBADO COMO SISTEMA · D-043.  
 **Movimiento rector:** **SINTETIZAR Y REPRODUCIR**  
 **Concepto organizador:** **REPRODUCIBILIDAD MATERIAL SITUADA**  
@@ -521,3 +521,12 @@ No autoriza:
 Próximo movimiento:
 
 > **Gate OVAt-H7.**
+
+
+---
+
+# Nota de aprobación
+
+Tras **GO · D-045**, esta candidata queda sustituida por:
+
+`CIFI4074_OVAt_H7_Especificacion_v0.1_APROBADA.md`
