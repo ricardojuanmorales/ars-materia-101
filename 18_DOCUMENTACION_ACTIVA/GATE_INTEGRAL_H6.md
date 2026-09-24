@@ -1,7 +1,7 @@
 # GATE INTEGRAL H6 — Ars Materia 101
 
 **Fecha de apertura:** 2026-09-24  
-**Estado:** ABIERTO · DECISIÓN HUMANA PENDIENTE  
+**Estado:** CERRADO · GO CON CONDICIONES · H6 APROBADO COMO SISTEMA  
 **Objeto:** H6 completo como sistema FEHE → OVAt → F1-F6 + FD3 → MTS-H6 → Moodle → continuidad H7  
 **Decisión que habilita apertura:** D-042  
 **Auditoría aplicable:** AUDITORÍA INVERSA H6 v1.0 · COMPLETADA  
@@ -146,23 +146,36 @@ La Auditoría Inversa recomienda llevar esta evidencia a decisión humana sin co
 
 # 10. Decisión humana
 
-> **PENDIENTE**
+> **GO CON CONDICIONES · D-043**
 
-No se registra número de decisión ni se cierra Carril B hasta respuesta humana explícita.
+Mediante D-043:
+
+1. H6 queda **APROBADO COMO SISTEMA**.
+2. Carril B H6 queda **CERRADO DOCUMENTALMENTE**.
+3. Se aceptan como condiciones **NO BLOQUEANTES**:
+   - cerrar registro final de procedencia/licencias de imágenes y evidencias usadas en Moodle;
+   - archivar canónicamente el paquete final H6;
+   - reconciliar F1-H6 en `main` con las versiones finales montadas;
+   - mantener medición longitudinal de carga real con estudiantes;
+   - realizar QA técnico fino de accesibilidad cuando corresponda.
+4. El Patrón OVAt-H v1.0 permanece **VALIDADO sin cambio**.
+5. Se autoriza **activar la reentrada Carril A H7**.
+6. H7 no entra en producción automática: el próximo movimiento curricular es **FEHE-H7 profunda** bajo la orientación canónica **SINTETIZAR Y REPRODUCIR**.
+7. FD4 permanece reservado al nodo H7+H8 y no se activa en H7.
 
 ---
 
 # 11. Documentos preparados para el retorno
 
-Se preparan, pero permanecen **CONDICIONADOS AL GATE**:
+Tras D-043 se activan las versiones canónicas:
 
-1. `CIERRE_CARRIL_B_H6_2026-09-24_CANDIDATO.md`;
-2. `FICHA_REENTRADA_CARRIL_A_H7_2026-09-24_CANDIDATA.md`.
+1. `CIERRE_CARRIL_B_H6_2026-09-24.md`;
+2. `FICHA_REENTRADA_CARRIL_A_H7_2026-09-24.md`.
 
-Su existencia no equivale a cierre ni activación.
+Las versiones CANDIDATO/CANDIDATA quedan como antecedentes de preparación y no como estado vigente.
 
 ---
 
 # 12. Próximo movimiento
 
-> **Decisión humana del Gate Integral H6.**
+> **Activar reentrada Carril A H7 y abrir FEHE-H7 profunda como próximo movimiento curricular único.**
