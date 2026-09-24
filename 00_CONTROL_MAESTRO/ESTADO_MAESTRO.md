@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 5.0  
+**Versión:** 5.1  
 **Fecha:** 2026-09-24  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -310,3 +310,17 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Patrón OVAt-H v1.0: **sin cambio**.
 
 **Próximo movimiento único:** completar Paso 1 de Realización H7 → Gate humano de Realización → sólo entonces decidir activación de Carril B H7.
+
+
+## 18. Paso 1 de Realización H7 completado · Gate abierto
+
+**Actualización operativa sin nueva decisión D-XXX.**
+
+- Paso 1 de Realización H7 v1.0: **COMPLETADO**.
+- Gate de Realización H7: **ABIERTO · decisión humana pendiente**.
+- Corpus, procedencia, representación, accesibilidad, carga y tecnología: cerrados a nivel preproducción.
+- Semáforo: **0 ROJO**; sólo decisiones locales/reversibles ÁMBAR.
+- Carril B H7: **CERRADO**.
+- Recomendación del Paso 1: **REALIZACIÓN APROBADA**.
+
+**Próximo movimiento único:** decisión humana del Gate de Realización H7.
