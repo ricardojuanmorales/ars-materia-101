@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 4.8  
+**Versión:** 4.9  
 **Fecha:** 2026-09-24  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -278,3 +278,18 @@ Documentos de continuidad:
 - `00_CONTROL_MAESTRO/PROMPT_CONTINUIDAD_H7_FEHE_2026-09-24.md`.
 
 No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
+
+
+## 16. FEHE-H7 aprobada · D-044
+
+- Gate FEHE-H7: **CERRADO · GO · D-044**.
+- FEHE-H7 profunda v1.0: **APROBADA**.
+- Movimiento: **SINTETIZAR Y REPRODUCIR**.
+- Concepto organizador: **REPRODUCIBILIDAD MATERIAL SITUADA**.
+- Caso rector preferente: **ultramarino artificial**.
+- Producto reusable candidato: **PSR-H7**.
+- Andamiaje: **MEDIO-BAJO · autonomía supervisada**.
+- FD4 permanece reservado para H8.
+- Carril B H7: **NO ACTIVO**.
+
+**Próximo movimiento único:** producir Especificación OVAt-H7 v0.1 CANDIDATA y someterla a Gate humano.
