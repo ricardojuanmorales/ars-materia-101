@@ -1,7 +1,7 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 4.5  
-**Fecha:** 2026-09-22  
+**Versión:** 4.6  
+**Fecha:** 2026-09-24  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
 **Centro operativo:** ChatGPT Project **Ars Materia 101**
@@ -232,4 +232,18 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 
 ## 12. Único próximo movimiento curricular
 
-> **Verificar F1 · Bienvenida H6 v0.1 antes de abrir F2.**
+> **Decisión humana del Gate Integral H6. Carril B H6 permanece activo; H7 permanece cerrado.**
+
+
+## 13. Actualización de cierre H6 · 2026-09-24
+
+- H6 queda reconocido como **PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE** según reporte humano · D-042.
+- Auditoría Inversa H6 v1.0 queda **COMPLETADA**.
+- Gate Integral H6 queda **ABIERTO · decisión humana pendiente**.
+- Hallazgos críticos: 0; mayores: 0; menores documentales: procedencia/licencias, archivo canónico final y reconciliación de versiones montadas con `main`.
+- Carril B H6 **permanece ACTIVO** hasta decisión del Gate.
+- Se preparan, sin activar, el cierre documental de Carril B H6 y la Ficha de Reentrada Carril A H7.
+- H7 permanece **CERRADO**.
+- Orientación canónica reservada para H7: **SINTETIZAR Y REPRODUCIR**; FEHE-H7 todavía no abierta ni aprobada.
+
+**Próximo movimiento único:** decisión humana del Gate Integral H6.
