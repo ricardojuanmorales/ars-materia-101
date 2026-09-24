@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 4.7  
+**Versión:** 4.8  
 **Fecha:** 2026-09-24  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -262,3 +262,19 @@ PROEMA permanece distinto de Espiral de Casos. D-026 conserva provisionalmente l
 - H7 no entra en producción automática.
 
 **Próximo movimiento único:** FEHE-H7 profunda CANDIDATA.
+
+
+## 15. Cierre de sesión 2026-09-24
+
+**Estado de sesión:** CERRADA DOCUMENTALMENTE.
+
+Punto exacto de reanudación:
+
+> **H6 APROBADO COMO SISTEMA · D-043 → Carril B H6 CERRADO → Carril A H7 ACTIVO → FEHE-H7 profunda CANDIDATA.**
+
+Documentos de continuidad:
+
+- `18_DOCUMENTACION_ACTIVA/CIERRE_SESION_2026-09-24_H6_CERRADO_REENTRADA_H7.md`;
+- `00_CONTROL_MAESTRO/PROMPT_CONTINUIDAD_H7_FEHE_2026-09-24.md`.
+
+No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
