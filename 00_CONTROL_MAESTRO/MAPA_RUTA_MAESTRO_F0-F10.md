@@ -1,6 +1,6 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 3.5  
+**Versión:** 3.6  
 **Estado:** ACTIVO  
 **Fecha:** 2026-09-24  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
@@ -244,3 +244,20 @@ Prompt canónico de continuidad:
 `00_CONTROL_MAESTRO/PROMPT_CONTINUIDAD_H7_FEHE_2026-09-24.md`
 
 No abrir OVAt-H7, Carril B H7, Moodle H7 ni FD4 antes de su secuencia de Gates.
+
+
+## 15. D-044 · FEHE-H7 aprobada
+
+```text
+Carril A H7 ACTIVO
+→ FEHE-H7 profunda v1.0 APROBADA · D-044
+→ Especificación OVAt-H7 v0.1 CANDIDATA
+→ Gate OVAt-H7
+→ [sin producción hasta decisión humana]
+```
+
+Reserva:
+
+> **H8 · CARACTERIZAR Y EXPLICAR**
+
+FD4 permanece reservado a H8.
