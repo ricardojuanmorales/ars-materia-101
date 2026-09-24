@@ -3,12 +3,12 @@
 
 **Versión:** 1.0 COMPLETADA · LISTA PARA GATE HUMANO  
 **Fecha:** 2026-09-24  
-**Estado:** COMPLETADA · DECISIÓN HUMANA PENDIENTE  
+**Estado:** APROBADA · D-046  
 **Autoridad de entrada:** FEHE-H7 v1.0 APROBADA · D-044; Especificación OVAt-H7 v0.1 APROBADA · D-045.  
 **Naturaleza:** piloto preproducción adaptado al protocolo transferible aportado por el profesor.  
 **Propósito:** cerrar decisiones de realización antes de producir F1-H7.  
 **No modifica:** Patrón OVAt-H v1.0.  
-**Carril B H7:** CERRADO hasta Gate humano de Realización.
+**Carril B H7:** ACTIVO · D-046.
 
 ---
 
@@ -721,10 +721,8 @@ CUMPLE.
 - Mapa de Realización: SÍ;
 - decisiones abiertas visibles: SÍ;
 - riesgos clasificados: SÍ;
-- profesor emite dictamen: **PENDIENTE**.
+- profesor emite dictamen: **REALIZACIÓN APROBADA · D-046**.
 
 Conclusión operacional:
 
-> **Paso 1 H7 está listo para Gate humano de Realización.**
-
-Carril B permanece cerrado.
+> **Paso 1 H7 APROBADO · D-046. Carril B H7 ACTIVO. Próximo componente: F1 · Bienvenida H7.**
