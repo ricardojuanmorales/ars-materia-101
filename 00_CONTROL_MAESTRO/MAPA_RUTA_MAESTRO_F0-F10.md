@@ -1,6 +1,6 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 3.6  
+**Versión:** 3.7  
 **Estado:** ACTIVO  
 **Fecha:** 2026-09-24  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
@@ -261,3 +261,22 @@ Reserva:
 > **H8 · CARACTERIZAR Y EXPLICAR**
 
 FD4 permanece reservado a H8.
+
+
+## 16. D-045 · OVAt-H7 aprobado y piloto de Realización
+
+```text
+FEHE-H7 APROBADA · D-044
+→ Especificación OVAt-H7 v0.1 APROBADA · D-045
+→ Paso 1 de Realización H7 ACTIVO
+→ Gate humano de Realización
+→ [si REALIZACIÓN APROBADA / APROBADA CON AJUSTES sin bloqueantes]
+→ activar Carril B H7
+→ producción F1-F6
+```
+
+Regla piloto:
+
+> **Gate OVAt ya no activa Carril B automáticamente en H7. La activación queda condicionada al Gate humano de Realización.**
+
+El Patrón OVAt-H v1.0 permanece sin modificación hasta evaluar el piloto.
