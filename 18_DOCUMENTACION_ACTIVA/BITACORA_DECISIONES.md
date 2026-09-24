@@ -78,3 +78,18 @@ Punto de reanudación: **Carril A H7 ACTIVO → FEHE-H7 profunda CANDIDATA**.
 | 2026-09-24 | D-044 | GO al Gate FEHE-H7; FEHE-H7 profunda v1.0 queda APROBADA y se autoriza Especificación OVAt-H7 v0.1 CANDIDATA | Aprueba H7 bajo SINTETIZAR Y REPRODUCIR, con REPRODUCIBILIDAD MATERIAL SITUADA como concepto organizador, unidad FORMULACIÓN + PROCESO + VARIABLE DE CONTROL + PROPIEDAD + REPRODUCIBILIDAD + VARIABILIDAD + EVIDENCIA, ultramarino artificial como caso rector preferente, PSR-H7 como producto reusable candidato, andamiaje MEDIO-BAJO/autonomía supervisada y FD4 reservado para H8. Las condiciones de auditoría pasan a control de OVAt. No se autoriza todavía producción ni Carril B H7. | FEHE-H7, Gate FEHE-H7, Estado Maestro, Mapa de Ruta, futura Especificación OVAt-H7 | APROBADO |
 
 | 2026-09-24 | D-045 | GO al Gate OVAt-H7; aprobar Especificación OVAt-H7 v0.1 y activar Paso 1 de Realización H7 como piloto preproducción | Aprueba arquitectura F1-F6 de H7 bajo SINTETIZAR Y REPRODUCIR, con ultramarino artificial + Manet, _Boating_ como caso rector situado, Prussian blue + Hokusai, _The Great Wave_ como contraste único, PSR-H7 de 8 campos, carga objetivo 65–85 min y andamiaje MEDIO-BAJO. Se incorpora en prueba el Paso 1 de Realización entre Gate OVAt y Carril B para cerrar corpus, procedencia, accesibilidad, representación y decisiones de realización antes de producir. Carril B H7 permanece CERRADO hasta Gate humano de Realización. No se modifica Patrón OVAt-H v1.0. | Gate OVAt-H7, Especificación OVAt-H7, Paso 1 Realización H7, Estado Maestro, Mapa de Ruta | APROBADO |
+
+
+## Nota de ejecución · Paso 1 H7 · 2026-09-24
+
+Sin crear nueva decisión D-XXX, se registra que el **Paso 1 de Realización H7 v1.0** fue completado y el **Gate de Realización H7** quedó abierto para decisión humana.
+
+Estado:
+
+- corpus y procedencia cerrados a nivel preproducción;
+- PSR-H7: una página / 8 campos;
+- F4 integra PSR, sin guía larga separada;
+- Moodle previsto: 6 objetos funcionales;
+- semáforo: 0 ROJO;
+- Carril B H7: CERRADO;
+- recomendación: REALIZACIÓN APROBADA.
