@@ -2,7 +2,7 @@
 ## Piloto Paso 1 de Realización
 
 **Fecha de apertura:** 2026-09-24  
-**Estado:** ABIERTO · DECISIÓN HUMANA PENDIENTE  
+**Estado:** CERRADO · REALIZACIÓN APROBADA · D-046  
 **Objeto:** PASO 1 DE REALIZACIÓN H7 v1.0 COMPLETADO  
 **Autoridad:** FEHE-H7 APROBADA · D-044; OVAt-H7 APROBADO · D-045.  
 **Carril B H7:** CERRADO.
@@ -186,9 +186,21 @@ No se modifica todavía Patrón OVAt-H v1.0.
 
 # 10. Decisión humana
 
-> **PENDIENTE**
+> **REALIZACIÓN APROBADA · D-046**
 
-No activar Carril B H7 ni crear nueva decisión D-XXX hasta dictamen explícito.
+Mediante D-046:
+
+1. Paso 1 de Realización H7 queda **APROBADO**.
+2. Se autoriza **ACTIVAR Carril B H7**.
+3. La producción debe comenzar exclusivamente por **F1 · Bienvenida H7**.
+4. Las decisiones locales ÁMBAR permanecen vinculantes durante producción y QA:
+   - maquetación final del PSR;
+   - composición visual del diagrama;
+   - imagen de portada si se usa;
+   - alt texts finales.
+5. No se modifica Patrón OVAt-H v1.0.
+6. FD4 permanece cerrado hasta H8.
+7. El piloto Paso 1 deberá evaluarse de nuevo al cierre integral H7.
 
 ---
 
@@ -206,4 +218,4 @@ La decisión final corresponde al profesor.
 
 # 12. Próximo movimiento
 
-> **Decisión humana del Gate de Realización H7.**
+> **Activar Carril B H7 y producir F1 · Bienvenida H7 como único próximo componente.**
