@@ -1,7 +1,7 @@
 # GATE FEHE-H7 — Ars Materia 101
 
 **Fecha de apertura:** 2026-09-24  
-**Estado:** ABIERTO · DECISIÓN HUMANA PENDIENTE  
+**Estado:** CERRADO · GO · D-044  
 **Objeto:** FEHE-H7 profunda v0.1 CANDIDATA  
 **Movimiento rector:** SINTETIZAR Y REPRODUCIR  
 **Auditoría aplicable:** AUDITORÍA FEHE-H7 v0.1 · COMPLETADA  
@@ -79,12 +79,25 @@
 
 # 6. Decisión humana
 
-> **PENDIENTE**
+> **GO · D-044**
 
-No crear D-044 ni actualizar Estado Maestro hasta decisión humana explícita.
+La FEHE-H7 queda **APROBADA**.
+
+Se autoriza producir la **Especificación OVAt-H7 v0.1 CANDIDATA**. Las condiciones identificadas por la auditoría pasan a control vinculante de la Especificación:
+
+1. mantener `síntesis ≠ industrialización ≠ reproducibilidad perfecta`;
+2. resolver PSR-H7 en una sola vista o equivalente breve;
+3. cerrar un caso rector situado de ultramarino artificial con evidencia y licencias verificables;
+4. seleccionar un solo contraste breve;
+5. mantener instrumentación sistemática fuera de H7;
+6. mantener FD4 cerrado hasta H8;
+7. preservar F1/F6 ligeros;
+8. validar carga y andamiaje MEDIO-BAJO antes de producción.
+
+La aprobación FEHE **no autoriza todavía producción ni Carril B H7**.
 
 ---
 
 # 7. Próximo movimiento
 
-> **Decisión humana del Gate FEHE-H7.**
+> **Producir Especificación OVAt-H7 v0.1 CANDIDATA.**
