@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 4.9  
+**Versión:** 5.0  
 **Fecha:** 2026-09-24  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -293,3 +293,20 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Carril B H7: **NO ACTIVO**.
 
 **Próximo movimiento único:** producir Especificación OVAt-H7 v0.1 CANDIDATA y someterla a Gate humano.
+
+
+## 17. Gate OVAt-H7 aprobado y Paso 1 activado · D-045
+
+- Gate OVAt-H7: **CERRADO · GO · D-045**.
+- Especificación OVAt-H7 v0.1: **APROBADA**.
+- Caso rector: **ultramarino artificial + Manet, _Boating_**.
+- Contraste: **Prussian blue + Hokusai, _The Great Wave_**.
+- Producto reusable: **PSR-H7 · 8 campos**.
+- Carga objetivo: **65–85 min**.
+- Andamiaje: **MEDIO-BAJO · autonomía supervisada**.
+- Paso 1 de Realización H7: **ACTIVO · piloto preproducción**.
+- Carril B H7: **CERRADO**.
+- FD4: **CERRADO hasta H8**.
+- Patrón OVAt-H v1.0: **sin cambio**.
+
+**Próximo movimiento único:** completar Paso 1 de Realización H7 → Gate humano de Realización → sólo entonces decidir activación de Carril B H7.
