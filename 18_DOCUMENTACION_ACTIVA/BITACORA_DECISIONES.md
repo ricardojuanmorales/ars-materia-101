@@ -60,3 +60,5 @@
 
 ## Regla de mantenimiento
 Añadir una fila sólo cuando exista una decisión humana o un cambio rector. Las discusiones exploratorias no se registran como decisiones.
+
+| 2026-09-24 | D-042 | Reconocer H6 completo como PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE según reporte humano y cerrar la fase de producción/montaje | El docente confirma cierre de montaje y verificación de H6 en Moodle, incluyendo F1-F6, MTS-H6 y FD3 TRANSFERIR. Se autoriza pasar al cierre integral mediante Auditoría Inversa H6 + Gate Integral H6. No se declara todavía H6 APROBADO COMO SISTEMA, Carril B permanece activo hasta decisión del Gate y H7 permanece cerrado. | Estado Maestro, Mapa de Ruta, Auditoría Inversa H6, Gate Integral H6, Carril B H6, H6/OVAt/Moodle | APROBADO |
