@@ -1,7 +1,7 @@
 # GATE OVAt-H7 — Ars Materia 101
 
 **Fecha de apertura:** 2026-09-24  
-**Estado:** ABIERTO · DECISIÓN HUMANA PENDIENTE  
+**Estado:** CERRADO · GO · D-045  
 **Objeto:** Especificación OVAt-H7 v0.1 CANDIDATA  
 **FEHE:** v1.0 APROBADA · D-044  
 **Movimiento:** SINTETIZAR Y REPRODUCIR
@@ -125,12 +125,31 @@ permitirá activar Carril B.
 
 # 7. Decisión humana
 
-> **PENDIENTE**
+> **GO · D-045**
 
-No crear nueva D-XXX hasta decisión explícita.
+La Especificación OVAt-H7 queda **APROBADA**.
+
+Se autoriza activar el **Paso 1 de Realización H7** como piloto preproducción.
+
+Condiciones vinculantes:
+
+1. mantener `síntesis ≠ industrialización ≠ reproducibilidad perfecta`;
+2. PSR-H7 en una sola vista o equivalente breve;
+3. un solo caso rector completo;
+4. contraste limitado a cuatro notas;
+5. instrumentación sistemática fuera de H7;
+6. F1/F6 ligeros;
+7. procedencia/licencias cerradas antes de montaje;
+8. IA conceptual nunca presentada como evidencia;
+9. FD4 permanece cerrado hasta H8;
+10. carga total objetivo 65–85 min.
+
+**Carril B H7 permanece CERRADO.**
+
+Sólo un Gate humano de Realización con **REALIZACIÓN APROBADA** o **APROBADA CON AJUSTES sin bloqueantes** podrá activar Carril B.
 
 ---
 
 # 8. Próximo movimiento
 
-> **Decisión humana del Gate OVAt-H7.**
+> **Ejecutar Paso 1 de Realización H7 y someterlo a Gate humano de Realización.**
