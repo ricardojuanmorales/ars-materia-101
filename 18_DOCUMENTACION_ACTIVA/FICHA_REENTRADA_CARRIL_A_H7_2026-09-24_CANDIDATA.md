@@ -1,7 +1,7 @@
 # FICHA DE REENTRADA CARRIL A H7 — CANDIDATA
 
 **Fecha de preparación:** 2026-09-24  
-**Estado:** PREPARADA · NO ACTIVA · CONDICIONADA AL GATE INTEGRAL H6  
+**Estado:** SUPERADA POR VERSIÓN CANÓNICA · D-043  
 **Función:** reconstruir el punto de entrada curricular hacia H7 una vez cerrado Carril B H6.  
 **Carril A:** etiqueta operativa para reentrada/diseño curricular, no taxonomía canónica independiente.
 
@@ -193,3 +193,12 @@ Sólo después de un Gate OVAt-H7 aprobado podrá activarse Carril B H7.
 Próximo movimiento condicionado:
 
 > **Gate Integral H6 → decisión humana → cierre Carril B H6 → activar reentrada Carril A H7 → FEHE-H7 profunda.**
+
+
+---
+
+# Nota de activación
+
+Tras **GO CON CONDICIONES · D-043**, esta candidata queda sustituida por:
+
+`FICHA_REENTRADA_CARRIL_A_H7_2026-09-24.md`
