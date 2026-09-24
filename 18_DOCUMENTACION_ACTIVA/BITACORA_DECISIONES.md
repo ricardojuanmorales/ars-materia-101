@@ -74,3 +74,5 @@ No se crea una nueva decisión D-XXX porque el cierre de sesión no modifica D-0
 - `00_CONTROL_MAESTRO/PROMPT_CONTINUIDAD_H7_FEHE_2026-09-24.md`.
 
 Punto de reanudación: **Carril A H7 ACTIVO → FEHE-H7 profunda CANDIDATA**.
+
+| 2026-09-24 | D-044 | GO al Gate FEHE-H7; FEHE-H7 profunda v1.0 queda APROBADA y se autoriza Especificación OVAt-H7 v0.1 CANDIDATA | Aprueba H7 bajo SINTETIZAR Y REPRODUCIR, con REPRODUCIBILIDAD MATERIAL SITUADA como concepto organizador, unidad FORMULACIÓN + PROCESO + VARIABLE DE CONTROL + PROPIEDAD + REPRODUCIBILIDAD + VARIABILIDAD + EVIDENCIA, ultramarino artificial como caso rector preferente, PSR-H7 como producto reusable candidato, andamiaje MEDIO-BAJO/autonomía supervisada y FD4 reservado para H8. Las condiciones de auditoría pasan a control de OVAt. No se autoriza todavía producción ni Carril B H7. | FEHE-H7, Gate FEHE-H7, Estado Maestro, Mapa de Ruta, futura Especificación OVAt-H7 | APROBADO |
