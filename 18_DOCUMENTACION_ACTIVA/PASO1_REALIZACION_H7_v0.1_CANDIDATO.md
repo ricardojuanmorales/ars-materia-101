@@ -3,7 +3,7 @@
 
 **Versión:** 0.1 CANDIDATO  
 **Fecha:** 2026-09-24  
-**Estado:** ACTIVO · D-045 · EN EJECUCIÓN PREPRODUCCIÓN  
+**Estado:** SUPERADO POR PASO 1 v1.0 COMPLETADO · GATE DE REALIZACIÓN ABIERTO  
 **Naturaleza:** adaptación situada a Ars Materia 101 del resumen transferible aportado por el profesor.  
 **Propósito:** cerrar decisiones de realización antes de producir F1-H7.  
 **No modifica:** Patrón OVAt-H v1.0.
@@ -310,3 +310,16 @@ Sólo entonces:
 Mediante **D-045**, el Gate OVAt-H7 queda cerrado con GO y este Paso 1 entra en estado **ACTIVO**.
 
 Carril B H7 permanece **CERRADO** hasta completar este documento y obtener dictamen humano de Realización.
+
+
+---
+
+# Nota de cierre de versión
+
+La ejecución piloto se consolidó en:
+
+`PASO1_REALIZACION_H7_v1.0_COMPLETADO.md`
+
+El Gate humano correspondiente es:
+
+`GATE_REALIZACION_H7.md`
