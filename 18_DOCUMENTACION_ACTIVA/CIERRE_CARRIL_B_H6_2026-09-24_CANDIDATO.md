@@ -1,7 +1,7 @@
 # CIERRE DOCUMENTAL CARRIL B H6 — CANDIDATO
 
 **Fecha de preparación:** 2026-09-24  
-**Estado:** PREPARADO · NO VIGENTE · CONDICIONADO A GATE INTEGRAL H6  
+**Estado:** SUPERADO POR VERSIÓN CANÓNICA · D-043  
 **Ámbito:** producción, montaje, QA, Auditoría Inversa y cierre sistémico de H6  
 **Autoridad futura requerida:** decisión humana GO o GO CON CONDICIONES en Gate Integral H6.
 
@@ -87,3 +87,12 @@ Si el Gate autoriza el cierre:
 # 7. Estado actual
 
 > **CANDIDATO PREPARADO. NO ACTIVAR HASTA GATE INTEGRAL H6.**
+
+
+---
+
+# Nota de cierre
+
+Tras **GO CON CONDICIONES · D-043**, este candidato queda sustituido por:
+
+`CIERRE_CARRIL_B_H6_2026-09-24.md`
