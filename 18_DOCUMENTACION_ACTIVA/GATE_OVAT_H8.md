@@ -1,7 +1,7 @@
 # GATE OVAt-H8 — Ars Materia 101
 
 **Fecha de apertura:** 2026-10-02  
-**Estado:** ABIERTO · DECISIÓN HUMANA PENDIENTE  
+**Estado:** CERRADO · GO · D-050  
 **Objeto:** Especificación OVAt-H8 v0.1 CANDIDATA  
 **Autoridad:** FEHE-H8 profunda v1.0 APROBADA · D-049; Patrón OVAt-H v1.0 VALIDADO · D-027; Espiral de Casos · D-024.
 
@@ -89,10 +89,24 @@
 
 # 6. Decisión humana
 
-> **PENDIENTE**
+> **GO · D-050**
+
+Mediante D-050:
+
+1. Especificación OVAt-H8 v0.1 queda **APROBADA**.
+2. Caso rector: **Johannes Vermeer, _Girl with a Pearl Earring_, ca. 1665 · Mauritshuis**.
+3. Contraste: **no invasivo vs micro-muestreo dentro del mismo caso**.
+4. MEC-H8 queda fijada en **8 campos**.
+5. Arquitectura: **F1 → F2 → F3 → F4+MEC → F5 → FD4 → F6**.
+6. FD4 queda ubicado después de F5 y antes de F6.
+7. Carga objetivo: **90–115 min incluyendo FD4**.
+8. Andamiaje: **BAJO · autonomía guiada por criterios**.
+9. Se activa **Paso 1 de Realización H8** como segundo piloto.
+10. Carril B H8 permanece **CERRADO** hasta Gate humano de Realización.
+11. Patrón OVAt-H v1.0 permanece **sin cambio**.
 
 ---
 
 # 7. Próximo movimiento
 
-> **Decisión humana del Gate OVAt-H8.**
+> **Completar Paso 1 de Realización H8 y someterlo a Gate humano de Realización.**
