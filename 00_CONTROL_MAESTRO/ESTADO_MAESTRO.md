@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 5.4  
+**Versión:** 5.5  
 **Fecha:** 2026-10-02  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -389,3 +389,23 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Paso 1 H8: reservado como segundo piloto después de Gate OVAt-H8.
 
 **Próximo movimiento único:** decisión humana del Gate FEHE-H8.
+
+
+## 23. FEHE-H8 aprobada y OVAt-H8 candidata
+
+- Gate FEHE-H8: **CERRADO · GO · D-049**.
+- FEHE-H8 profunda v1.0: **APROBADA**.
+- Movimiento: **CARACTERIZAR Y EXPLICAR**.
+- Concepto organizador: **EVIDENCIA INSTRUMENTAL SITUADA**.
+- Producto reusable candidato: **MEC-H8 · Matriz de Evidencia y Caracterización**.
+- Andamiaje: **BAJO · autonomía guiada por criterios**.
+- Especificación OVAt-H8 v0.1: **CANDIDATA PRODUCIDA**.
+- Caso rector propuesto: **Vermeer, Girl with a Pearl Earring · Mauritshuis**.
+- Contraste: **no invasivo vs micro-muestreo dentro del mismo caso**.
+- FD4: **DISCRIMINAR / DISEÑAR**, ubicado después de F5 y antes de F6.
+- Carga candidata H8 + FD4: **90–115 min**.
+- Gate OVAt-H8: **ABIERTO · decisión humana pendiente**.
+- Carril B H8: **CERRADO**.
+- Paso 1 H8: reservado como segundo piloto después de Gate OVAt-H8.
+
+**Próximo movimiento único:** decisión humana del Gate OVAt-H8.
