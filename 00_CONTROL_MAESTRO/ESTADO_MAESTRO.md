@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 5.5  
+**Versión:** 5.6  
 **Fecha:** 2026-10-02  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -409,3 +409,22 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Paso 1 H8: reservado como segundo piloto después de Gate OVAt-H8.
 
 **Próximo movimiento único:** decisión humana del Gate OVAt-H8.
+
+
+## 24. OVAt-H8 aprobado y Paso 1 H8 completado
+
+- Gate OVAt-H8: **CERRADO · GO · D-050**.
+- Especificación OVAt-H8 v0.1: **APROBADA**.
+- Caso rector: **Johannes Vermeer, Girl with a Pearl Earring · Mauritshuis**.
+- Contraste: **no invasivo vs micro-muestreo dentro del mismo caso**.
+- MEC-H8: **8 campos · una vista**.
+- FD4: **DISCRIMINAR / DISEÑAR**, después de F5 y antes de F6.
+- Carga objetivo H8 + FD4: **90–115 min**.
+- Andamiaje: **BAJO**.
+- Paso 1 de Realización H8 v1.0: **COMPLETADO · segundo piloto**.
+- Semáforo Paso 1: **0 ROJO**; ÁMBAR sólo locales/reversibles.
+- Gate de Realización H8: **ABIERTO · decisión humana pendiente**.
+- Carril B H8: **CERRADO**.
+- Patrón OVAt-H v1.0: **sin cambio**.
+
+**Próximo movimiento único:** decisión humana del Gate de Realización H8.
