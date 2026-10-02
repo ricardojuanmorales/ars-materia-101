@@ -1,8 +1,8 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 3.9  
+**Versión:** 4.0  
 **Estado:** ACTIVO  
-**Fecha:** 2026-09-24  
+**Fecha:** 2026-10-02  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
 **Fuente de verdad:** GitHub `main`
 
@@ -312,3 +312,25 @@ FEHE-H7 APROBADA · D-044
 Regla del piloto:
 
 > **La activación de Carril B ocurre después del Gate de Realización, no inmediatamente después del Gate OVAt.**
+
+
+## 19. D-047 · H7 montado y Gate Integral abierto
+
+```text
+FEHE-H7 APROBADA · D-044
+→ OVAt-H7 APROBADO · D-045
+→ Paso 1 APROBADO · D-046
+→ Carril B H7 ACTIVO
+→ H7 PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE · D-047
+→ Auditoría Inversa H7 COMPLETADA
+→ Gate Integral H7 ABIERTO
+→ [decisión humana]
+→ si GO / GO CON CONDICIONES sin bloqueantes
+→ H7 APROBADO COMO SISTEMA
+→ cerrar Carril B H7
+→ reentrada Carril A H8
+```
+
+Metaevaluación:
+
+> **Paso 1 muestra evidencia favorable en H7, pero requiere segunda prueba en H8 antes de cualquier cambio al Patrón OVAt-H v1.0.**
