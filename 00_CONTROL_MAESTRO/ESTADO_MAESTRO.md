@@ -370,3 +370,22 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - FD4 se activa curricularmente en H8, sujeto a FEHE/OVAt H8.
 
 **Próximo movimiento único:** FEHE-H8 profunda CANDIDATA.
+
+
+## 22. FEHE-H8 candidata producida · Gate abierto
+
+**Actualización operativa sin nueva decisión D-XXX.**
+
+- FEHE-H8 profunda v0.1: **CANDIDATA PRODUCIDA**.
+- Movimiento: **CARACTERIZAR Y EXPLICAR**.
+- Título rector: **La ciencia entra en la obra**.
+- Concepto organizador candidato: **EVIDENCIA INSTRUMENTAL SITUADA**.
+- Producto reusable candidato: **MEC-H8 · Matriz de Evidencia y Caracterización**.
+- Andamiaje candidato: **BAJO · autonomía guiada por criterios**.
+- Caso rector específico: **ABIERTO**, sujeto a cierre documental.
+- FD4: **DISCRIMINAR / DISEÑAR**, todavía no montado.
+- Gate FEHE-H8: **ABIERTO · decisión humana pendiente**.
+- Carril B H8: **CERRADO**.
+- Paso 1 H8: reservado como segundo piloto después de Gate OVAt-H8.
+
+**Próximo movimiento único:** decisión humana del Gate FEHE-H8.
