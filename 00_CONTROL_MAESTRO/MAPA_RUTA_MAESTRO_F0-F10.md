@@ -1,6 +1,6 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 4.1  
+**Versión:** 4.2  
 **Estado:** ACTIVO  
 **Fecha:** 2026-10-02  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
@@ -384,5 +384,28 @@ Candidatos FEHE:
 - caso rector específico todavía abierto.
 
 Regla:
+
+> **instrumentación por pregunta y evidencia, no como catálogo de técnicas.**
+
+
+## 22. D-049 · FEHE-H8 aprobada y Gate OVAt abierto
+
+```text
+Carril A H8 ACTIVO · D-048
+→ FEHE-H8 profunda v1.0 APROBADA · D-049
+→ Especificación OVAt-H8 v0.1 CANDIDATA
+→ Gate OVAt-H8 ABIERTO
+→ [decisión humana]
+→ si GO / GO CON CONDICIONES sin bloqueantes
+→ Paso 1 de Realización H8 · segundo piloto
+→ Gate de Realización
+→ Carril B H8
+```
+
+Caso rector propuesto:
+
+> **Vermeer · Girl with a Pearl Earring · Mauritshuis**
+
+Regla de diseño:
 
 > **instrumentación por pregunta y evidencia, no como catálogo de técnicas.**
