@@ -1,7 +1,7 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 5.2  
-**Fecha:** 2026-09-24  
+**Versión:** 5.3  
+**Fecha:** 2026-10-02  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
 **Centro operativo:** ChatGPT Project **Ars Materia 101**
@@ -338,3 +338,19 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Piloto Paso 1: evaluar nuevamente en cierre integral H7.
 
 **Próximo movimiento único:** producir F1 · Bienvenida H7 y verificarla antes de abrir F2.
+
+
+## 20. Cierre de producción H7 · D-047
+
+- H7: **PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE** según reporte humano · D-047.
+- Auditoría Inversa H7 v1.0: **COMPLETADA**.
+- Gate Integral H7: **ABIERTO · decisión humana pendiente**.
+- Críticos: **0**.
+- Mayores: **0**.
+- Menores: **3 deudas documentales**.
+- Paso 1 H7: evaluación favorable como piloto, pero con **una sola prueba situada**.
+- Recomendación metodológica: **repetir Paso 1 en H8 antes de considerar canonización**.
+- Carril B H7: **permanece ACTIVO** hasta decisión del Gate.
+- H8: **CERRADO**.
+
+**Próximo movimiento único:** decisión humana del Gate Integral H7.
