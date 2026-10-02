@@ -1,7 +1,7 @@
 # GATE FEHE-H8 — Ars Materia 101
 
 **Fecha de apertura:** 2026-10-02  
-**Estado:** ABIERTO · DECISIÓN HUMANA PENDIENTE  
+**Estado:** CERRADO · GO · D-049  
 **Objeto:** FEHE-H8 profunda v0.1 CANDIDATA  
 **Movimiento rector:** **CARACTERIZAR Y EXPLICAR**  
 **Nodo:** **H7 + H8 → FD4 · DISCRIMINAR / DISEÑAR**  
@@ -108,10 +108,23 @@ Y su frontera longitudinal es:
 
 # 7. Decisión humana
 
-> **PENDIENTE**
+> **GO · D-049**
+
+Mediante D-049:
+
+1. FEHE-H8 profunda queda **APROBADA**.
+2. **CARACTERIZAR Y EXPLICAR** queda confirmado como movimiento rector.
+3. **EVIDENCIA INSTRUMENTAL SITUADA** queda confirmado como concepto organizador.
+4. **MEC-H8 · Matriz de Evidencia y Caracterización** queda aprobado como producto reusable candidato para traducción OVAt.
+5. Andamiaje H8 queda **BAJO · autonomía guiada por criterios**.
+6. FD4 queda confirmado como **DISCRIMINAR / DISEÑAR**, a integrar en H8 con carga explícita.
+7. El caso rector específico, contraste, técnicas exactas, carga y ubicación de FD4 pasan legítimamente a OVAt.
+8. Carril B H8 permanece **CERRADO**.
+9. Paso 1 H8 permanece reservado como segundo piloto sólo después de Gate OVAt-H8.
+10. Se autoriza producir **Especificación OVAt-H8 v0.1 CANDIDATA**.
 
 ---
 
 # 8. Próximo movimiento
 
-> **Decisión humana del Gate FEHE-H8.**
+> **Producir Especificación OVAt-H8 v0.1 CANDIDATA y someterla a Gate OVAt-H8.**
