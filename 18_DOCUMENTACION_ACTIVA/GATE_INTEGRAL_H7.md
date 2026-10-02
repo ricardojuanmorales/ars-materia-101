@@ -1,7 +1,7 @@
 # GATE INTEGRAL H7 — Ars Materia 101
 
 **Fecha de apertura:** 2026-10-02  
-**Estado:** ABIERTO · DECISIÓN HUMANA PENDIENTE  
+**Estado:** CERRADO · GO CON CONDICIONES NO BLOQUEANTES · H7 APROBADO COMO SISTEMA  
 **Objeto:** H7 completo como sistema FEHE → OVAt → Paso 1 → F1-F6 → PSR-H7 → Moodle → continuidad H8  
 **Decisión que habilita apertura:** D-047  
 **Auditoría aplicable:** AUDITORÍA INVERSA H7 v1.0 · COMPLETADA  
@@ -165,23 +165,36 @@ La segunda reserva es metodológica: Paso 1 muestra valor, pero sólo cuenta con
 
 # 10. Decisión humana
 
-> **PENDIENTE**
+> **GO CON CONDICIONES NO BLOQUEANTES · D-048**
 
-No cerrar Carril B H7 ni activar Carril A H8 hasta respuesta humana explícita.
+Mediante D-048:
+
+1. H7 queda **APROBADO COMO SISTEMA**.
+2. Carril B H7 queda **CERRADO DOCUMENTALMENTE**.
+3. Se aceptan como condiciones **NO BLOQUEANTES**:
+   - cerrar registro final de procedencia/licencias/alt texts;
+   - archivar canónicamente el paquete final H7;
+   - reconciliar F1-F6 y artefactos H7 en `main` con las versiones finales montadas;
+   - mantener medición longitudinal de carga real;
+   - realizar QA técnico fino de accesibilidad cuando corresponda;
+   - repetir Paso 1 en H8 como segundo piloto antes de cualquier canonización.
+4. El Patrón OVAt-H v1.0 permanece **VALIDADO sin cambio**.
+5. El Paso 1 de Realización queda registrado como **piloto favorable, no canónico todavía**.
+6. Se autoriza **activar Carril A H8**.
+7. H8 no entra en producción automática: el próximo movimiento curricular es **FEHE-H8 profunda** bajo la orientación canónica **CARACTERIZAR Y EXPLICAR**.
+8. FD4 se activa curricularmente en H8 dentro del nodo **H7 + H8 → FD4 · DISCRIMINAR / DISEÑAR**, sujeto a diseño FEHE/OVAt H8.
 
 ---
 
 # 11. Documentos de retorno preparados
 
-Se preparan, pero permanecen **CONDICIONADOS AL GATE**:
+Se activan como documentos vigentes:
 
-1. `CIERRE_CARRIL_B_H7_2026-10-02_CANDIDATO.md`;
-2. `FICHA_REENTRADA_CARRIL_A_H8_2026-10-02_CANDIDATA.md`.
-
-Su existencia no equivale a cierre ni activación.
+1. `CIERRE_CARRIL_B_H7_2026-10-02.md`;
+2. `FICHA_REENTRADA_CARRIL_A_H8_2026-10-02.md`.
 
 ---
 
 # 12. Próximo movimiento
 
-> **Decisión humana del Gate Integral H7.**
+> **Carril A H8 ACTIVO → producir FEHE-H8 profunda CANDIDATA.**
