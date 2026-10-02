@@ -362,3 +362,27 @@ Nodo:
 Metaevaluación del Paso 1:
 
 > **piloto favorable en H7; repetir en H8 como segundo piloto antes de cualquier cambio al Patrón OVAt-H v1.0.**
+
+
+## 21. FEHE-H8 candidata y Gate abierto
+
+```text
+Carril A H8 ACTIVO · D-048
+→ FEHE-H8 profunda v0.1 CANDIDATA PRODUCIDA
+→ Gate FEHE-H8 ABIERTO
+→ [decisión humana]
+→ si GO / GO CON CONDICIONES sin bloqueantes
+→ FEHE-H8 v1.0 APROBADA
+→ Especificación OVAt-H8 v0.1 CANDIDATA
+```
+
+Candidatos FEHE:
+
+- **EVIDENCIA INSTRUMENTAL SITUADA**;
+- **MEC-H8 · Matriz de Evidencia y Caracterización**;
+- andamiaje **BAJO**;
+- caso rector específico todavía abierto.
+
+Regla:
+
+> **instrumentación por pregunta y evidencia, no como catálogo de técnicas.**
