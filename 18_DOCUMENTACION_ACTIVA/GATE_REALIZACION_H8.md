@@ -2,7 +2,7 @@
 ## Segundo piloto Paso 1 de Realización
 
 **Fecha de apertura:** 2026-10-02  
-**Estado:** ABIERTO · DECISIÓN HUMANA PENDIENTE  
+**Estado:** CERRADO · REALIZACIÓN APROBADA · D-051  
 **Objeto:** PASO 1 DE REALIZACIÓN H8 v1.0 COMPLETADO  
 **Autoridad:** FEHE-H8 APROBADA · D-049; OVAt-H8 APROBADO · D-050.  
 **Carril B H8:** CERRADO.
@@ -117,10 +117,21 @@ La decisión sobre incorporar Paso 1 al patrón queda diferida hasta el cierre i
 
 # 6. Decisión humana
 
-> **PENDIENTE**
+> **REALIZACIÓN APROBADA · D-051**
+
+Mediante D-051:
+
+1. Paso 1 de Realización H8 queda **APROBADO** como segundo piloto preproducción.
+2. Carril B H8 queda **ACTIVO**.
+3. Se autoriza producción secuencial de H8.
+4. El próximo componente único es **F1 · Bienvenida H8**.
+5. Las decisiones ÁMBAR se resuelven localmente en producción/QA y no bloquean F1.
+6. FD4 permanece dentro de H8, ubicado después de F5 y antes de F6.
+7. El Patrón OVAt-H v1.0 permanece sin cambio.
+8. La canonización del Paso 1 se difiere hasta el cierre integral H8.
 
 ---
 
 # 7. Próximo movimiento
 
-> **Decisión humana del Gate de Realización H8.**
+> **Producir exclusivamente F1 · Bienvenida H8 y verificarla antes de abrir F2.**
