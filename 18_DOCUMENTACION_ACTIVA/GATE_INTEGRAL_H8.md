@@ -1,7 +1,7 @@
 # GATE INTEGRAL H8 — Ars Materia 101
 
 **Fecha de apertura:** 2026-10-06  
-**Estado:** ABIERTO · DECISIÓN HUMANA PENDIENTE  
+**Estado:** CERRADO · GO CON CONDICIONES NO BLOQUEANTES · D-053  
 **Objeto:** H8 completo como sistema FEHE → OVAt → Paso 1 → F1-F6 + FD4 → MEC-H8 → Moodle → continuidad H9  
 **Decisión que habilita apertura:** D-052  
 **Auditoría:** AUDITORÍA INVERSA H8 v1.0 · COMPLETADA
@@ -127,7 +127,18 @@ No existen hallazgos críticos o mayores documentados.
 
 # 9. Decisión humana
 
-> **PENDIENTE**
+> **GO CON CONDICIONES NO BLOQUEANTES · D-053**
+
+Mediante D-053:
+
+1. H8 queda **APROBADO COMO SISTEMA**.
+2. Carril B H8 queda **CERRADO DOCUMENTALMENTE**.
+3. Las condiciones documentales y técnicas se aceptan como **NO BLOQUEANTES** y pasan a backlog.
+4. FD4 queda cerrado como nodo **H7 + H8 → DISCRIMINAR / DISEÑAR**.
+5. Carril A H9 queda **ACTIVO** mediante ficha de reentrada.
+6. H9 no entra en producción automática: el próximo movimiento curricular es **FEHE-H9 profunda CANDIDATA**.
+7. El Patrón OVAt-H v1.0 permanece **VALIDADO sin cambio**.
+8. La decisión sobre canonización del Paso 1 queda **separada** y pendiente de una decisión metodológica específica.
 
 ---
 
@@ -142,4 +153,6 @@ Condicionados al Gate:
 
 # 11. Próximo movimiento
 
-> **Decisión humana del Gate Integral H8.**
+> **Carril A H9 ACTIVO → producir FEHE-H9 profunda CANDIDATA.**
+
+En paralelo, abrir cuando corresponda una decisión metodológica específica sobre el futuro del **Paso 1 de Realización**.
