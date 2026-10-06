@@ -1,6 +1,6 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 4.4  
+**Versión:** 4.5  
 **Estado:** ACTIVO  
 **Fecha:** 2026-10-02  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
@@ -444,3 +444,25 @@ FEHE-H8 APROBADA · D-049
 Regla del segundo piloto:
 
 > **La activación de Carril B ocurre después del Gate de Realización. La canonización del Paso 1 se evalúa sólo en el cierre integral H8.**
+
+
+## 25. D-052 · H8 montado y Gate Integral abierto
+
+```text
+FEHE-H8 APROBADA · D-049
+→ OVAt-H8 APROBADO · D-050
+→ Paso 1 H8 APROBADO · D-051
+→ Carril B H8 ACTIVO
+→ H8 PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE · D-052
+→ Auditoría Inversa H8 COMPLETADA
+→ Gate Integral H8 ABIERTO
+→ [decisión humana]
+→ si GO / GO CON CONDICIONES sin bloqueantes
+→ H8 APROBADO COMO SISTEMA
+→ cerrar Carril B H8
+→ reentrada Carril A H9
+```
+
+Metaevaluación:
+
+> **Paso 1 cuenta con dos pilotos favorables H7+H8; cualquier canonización requiere decisión metodológica separada del Gate curricular H8.**
