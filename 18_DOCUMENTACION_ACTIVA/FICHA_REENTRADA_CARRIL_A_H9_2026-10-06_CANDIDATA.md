@@ -1,7 +1,7 @@
-# FICHA DE REENTRADA CARRIL A H9 — CANDIDATA
+# FICHA DE REENTRADA CARRIL A H9
 
 **Fecha:** 2026-10-06  
-**Estado:** PREPARADA · NO ACTIVA · CONDICIONADA AL GATE INTEGRAL H8
+**Estado:** ACTIVA · D-053
 
 ---
 
@@ -78,4 +78,10 @@ Después del Gate H8 deberá existir decisión metodológica específica:
 
 # 6. Estado
 
-> **NO ACTIVA hasta cierre positivo del Gate Integral H8.**
+> **ACTIVA · D-053**
+
+Próximo movimiento curricular único:
+
+> **producir FEHE-H9 profunda CANDIDATA.**
+
+No abrir todavía OVAt-H9 ni Carril B H9.
