@@ -1,6 +1,6 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 4.5  
+**Versión:** 4.6  
 **Estado:** ACTIVO  
 **Fecha:** 2026-10-02  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
@@ -466,3 +466,26 @@ FEHE-H8 APROBADA · D-049
 Metaevaluación:
 
 > **Paso 1 cuenta con dos pilotos favorables H7+H8; cualquier canonización requiere decisión metodológica separada del Gate curricular H8.**
+
+
+## 26. D-053 · cierre H8 y reentrada H9
+
+```text
+H8 PRODUCIDO, MONTADO Y VERIFICADO · D-052
+→ Auditoría Inversa H8 COMPLETADA
+→ Gate Integral H8
+→ GO CON CONDICIONES NO BLOQUEANTES · D-053
+→ H8 APROBADO COMO SISTEMA
+→ Carril B H8 CERRADO DOCUMENTALMENTE
+→ FD4 CERRADO
+→ Carril A H9 ACTIVO
+→ FEHE-H9 profunda CANDIDATA
+```
+
+Regla de continuidad:
+
+> **H9 no entra en producción automática.**
+
+Meta-regla metodológica:
+
+> **La decisión sobre canonización del Paso 1 queda separada del cierre curricular H8 y requiere decisión específica.**
