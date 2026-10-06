@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 5.9  
+**Versión:** 6.0  
 **Fecha:** 2026-10-06  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -479,3 +479,23 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - H9 no entra en producción automática.
 
 **Próximo movimiento único:** producir **FEHE-H9 profunda CANDIDATA**.
+
+
+## 28. FEHE-H9 candidata producida · Gate abierto
+
+**Actualización operativa sin nueva decisión D-XXX.**
+
+- Carril A H9: **ACTIVO · D-053**.
+- FEHE-H9 profunda v0.1: **CANDIDATA PRODUCIDA**.
+- Título rector: **El arte se vuelve sintético**.
+- Movimiento: **DISEÑAR NUEVOS COMPORTAMIENTOS MATERIALES**.
+- Concepto organizador candidato: **COMPORTAMIENTO MATERIAL DISEÑADO**.
+- Caso testigo candidato: **De Wain Valentine, _Gray Column_ / Valentine MasKast Resin**.
+- Producto reusable candidato: **DCM-H9 · Diseño de Comportamiento Material**.
+- Andamiaje candidato: **MÍNIMO SELECTIVO · autonomía productiva con criterios**.
+- FD5: **CERRADO hasta H10**.
+- Gate FEHE-H9: **ABIERTO · decisión humana pendiente**.
+- Carril B H9: **CERRADO**.
+- Paso 1: no se activa ni canoniza mediante esta FEHE.
+
+**Próximo movimiento único:** decisión humana del Gate FEHE-H9.
