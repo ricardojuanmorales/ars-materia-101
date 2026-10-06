@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 6.1  
+**Versión:** 6.2  
 **Fecha:** 2026-10-06  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -517,3 +517,23 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Patrón OVAt-H v1.0: **sin cambio**.
 
 **Próximo movimiento único:** producir Especificación OVAt-H9 v0.1 CANDIDATA.
+
+
+## 30. OVAt-H9 candidata producida · Gate abierto
+
+**Actualización operativa sin nueva decisión D-XXX.**
+
+- FEHE-H9 profunda v1.0: **APROBADA · D-054**.
+- Especificación OVAt-H9 v0.1: **CANDIDATA PRODUCIDA**.
+- Caso rector propuesto: **De Wain Valentine, _Gray Column_ / Valentine MasKast Resin**.
+- Contraste propuesto: **pintura acrílica en emulsión como sistema formulado**.
+- Producto reusable: **DCM-H9 · 8 campos / una vista**.
+- Arquitectura: **F1-F6 sin FD5**.
+- Carga objetivo candidata: **70–90 min**.
+- Andamiaje: **MÍNIMO SELECTIVO**.
+- Tg: **cualitativa**.
+- Gate OVAt-H9: **ABIERTO · decisión humana pendiente**.
+- Carril B H9: **CERRADO**.
+- Paso 1: **separado; no se activa ni canoniza mediante este Gate**.
+
+**Próximo movimiento único:** decisión humana del Gate OVAt-H9.
