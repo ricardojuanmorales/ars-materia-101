@@ -1,7 +1,7 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 5.7  
-**Fecha:** 2026-10-02  
+**Versión:** 5.8  
+**Fecha:** 2026-10-06  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
 **Centro operativo:** ChatGPT Project **Ars Materia 101**
@@ -446,3 +446,20 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Canonización de Paso 1: diferida al cierre integral H8.
 
 **Próximo movimiento único:** producir F1 · Bienvenida H8 y verificarla antes de abrir F2.
+
+
+## 26. Cierre de producción H8 · D-052
+
+- H8: **PRODUCIDO, MONTADO Y VERIFICADO EN MOODLE** según reporte humano · D-052.
+- Auditoría Inversa H8 v1.0: **COMPLETADA**.
+- Gate Integral H8: **ABIERTO · decisión humana pendiente**.
+- Críticos: **0**.
+- Mayores: **0**.
+- Menores: **3 deudas documentales**.
+- FD4: **MONTADO Y REVISADO** según reporte humano.
+- Paso 1 H8: segundo piloto completado; evaluación metodológica favorable.
+- Recomendación metodológica: **separar la decisión sobre canonización de Paso 1 del cierre curricular H8**.
+- Carril B H8: **permanece ACTIVO** hasta decisión del Gate.
+- H9: **CERRADO**.
+
+**Próximo movimiento único:** decisión humana del Gate Integral H8.
