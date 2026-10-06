@@ -1,6 +1,6 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 4.7  
+**Versión:** 4.8  
 **Estado:** ACTIVO  
 **Fecha:** 2026-10-02  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
@@ -509,3 +509,22 @@ Reglas:
 - Carril B H9 permanece **CERRADO**.
 - FD5 permanece **CERRADO hasta H10**.
 - La decisión sobre Paso 1 permanece **separada**.
+
+
+## 28. D-054 · FEHE-H9 aprobada
+
+```text
+Carril A H9 ACTIVO
+→ FEHE-H9 v0.1 CANDIDATA
+→ Gate FEHE-H9
+→ GO CON CONDICIONES MENORES · D-054
+→ FEHE-H9 v1.0 APROBADA
+→ Especificación OVAt-H9 v0.1 CANDIDATA
+→ Gate OVAt-H9
+```
+
+Reglas:
+
+- Carril B H9 permanece **CERRADO**.
+- FD5 permanece **CERRADO hasta H10**.
+- Paso 1 permanece fuera de esta decisión curricular.
