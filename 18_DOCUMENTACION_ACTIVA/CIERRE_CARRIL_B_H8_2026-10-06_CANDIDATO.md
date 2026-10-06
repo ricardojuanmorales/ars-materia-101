@@ -1,22 +1,22 @@
-# CIERRE DOCUMENTAL CARRIL B H8 — CANDIDATO
+# CIERRE DOCUMENTAL CARRIL B H8
 
 **Fecha:** 2026-10-06  
-**Estado:** PREPARADO · NO VIGENTE · CONDICIONADO AL GATE INTEGRAL H8  
+**Estado:** VIGENTE · CARRIL B H8 CERRADO DOCUMENTALMENTE · D-053  
 **Unidad:** H8 · La ciencia entra en la obra  
 **Movimiento:** **CARACTERIZAR Y EXPLICAR**
 
 ---
 
-# 1. Resultado preparado
+# 1. Resultado
 
-Si el Gate Integral H8 recibe GO o GO CON CONDICIONES sin bloqueantes:
+Mediante **D-053 · GO CON CONDICIONES NO BLOQUEANTES**:
 
-- H8 quedará **APROBADO COMO SISTEMA**;
-- Carril B H8 quedará **CERRADO DOCUMENTALMENTE**;
-- FD4 quedará cerrado como nodo H7+H8;
-- se autorizará reentrada curricular H9;
-- deudas documentales pasarán a backlog;
-- la decisión sobre Paso 1 se abrirá separadamente.
+- H8 queda **APROBADO COMO SISTEMA**;
+- Carril B H8 queda **CERRADO DOCUMENTALMENTE**;
+- FD4 queda cerrado como nodo H7+H8;
+- se activa reentrada curricular H9;
+- las deudas documentales pasan a backlog;
+- la decisión sobre Paso 1 permanece separada del cierre curricular.
 
 ---
 
@@ -48,4 +48,4 @@ Próximo movimiento:
 
 # 5. Estado
 
-> **NO VIGENTE hasta decisión humana del Gate Integral H8.**
+> **VIGENTE · CARRIL B H8 CERRADO DOCUMENTALMENTE · D-053**
