@@ -1,6 +1,6 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 5.2  
+**Versión:** 5.3  
 **Estado:** ACTIVO  
 **Fecha:** 2026-10-02  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
@@ -611,3 +611,24 @@ Reglas:
 - Patrón OVAt-H v1.0 permanece **sin cambio**.
 - Preproducción no crea F7 ni tarea estudiantil.
 - Preproducción no activa Carril B por sí sola.
+
+
+## 33. H9 · Preproducción completada y Gate de Realización abierto
+
+```text
+OVAt-H9 APROBADA · D-055
+→ Protocolo de Preproducción OVAt-H APROBADO · D-056
+→ Preproducción H9 v1.0 COMPLETADA
+→ Gate de Realización H9 ABIERTO
+→ [decisión humana]
+→ si REALIZACIÓN APROBADA / CON AJUSTES no bloqueantes
+→ activar Carril B H9
+→ F1 Bienvenida H9
+```
+
+Reglas:
+
+- semáforo H9: **0 ROJO**;
+- Carril B H9 permanece **CERRADO** hasta Gate;
+- FD5 permanece **CERRADO hasta H10**;
+- _Gray Column_ se trabaja mediante enlaces oficiales y mediación didáctica original salvo permiso/licencia verificable.
