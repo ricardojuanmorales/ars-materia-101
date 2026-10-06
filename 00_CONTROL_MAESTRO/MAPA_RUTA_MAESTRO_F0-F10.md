@@ -1,6 +1,6 @@
 # Ars Materia 101 — Mapa de Ruta Maestro F0–F10
 
-**Versión:** 4.6  
+**Versión:** 4.7  
 **Estado:** ACTIVO  
 **Fecha:** 2026-10-02  
 **Función:** carta de navegación estratégica; no sustituye Estado Maestro, Gates ni bitácoras.  
@@ -489,3 +489,23 @@ Regla de continuidad:
 Meta-regla metodológica:
 
 > **La decisión sobre canonización del Paso 1 queda separada del cierre curricular H8 y requiere decisión específica.**
+
+
+## 27. H9 · FEHE candidata y Gate abierto
+
+```text
+H8 APROBADO COMO SISTEMA · D-053
+→ Carril A H9 ACTIVO
+→ FEHE-H9 profunda v0.1 CANDIDATA
+→ Gate FEHE-H9 ABIERTO
+→ [decisión humana]
+→ si GO / GO CON CONDICIONES
+→ FEHE-H9 v1.0 APROBADA
+→ Especificación OVAt-H9 v0.1 CANDIDATA
+```
+
+Reglas:
+
+- Carril B H9 permanece **CERRADO**.
+- FD5 permanece **CERRADO hasta H10**.
+- La decisión sobre Paso 1 permanece **separada**.
