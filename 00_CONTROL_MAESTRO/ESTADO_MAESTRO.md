@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 6.4  
+**Versión:** 6.5  
 **Fecha:** 2026-10-06  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -575,3 +575,19 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - H9: no entra todavía en producción.
 
 **Próximo movimiento único:** decisión humana del Gate metodológico.
+
+
+## 33. Protocolo de Preproducción aprobado · D-056
+
+- Gate metodológico: **CERRADO · GO · D-056**.
+- Protocolo de Preproducción OVAt-H v1.0: **APROBADO**.
+- Naturaleza: **complementario proporcional**.
+- Patrón OVAt-H v1.0: **VALIDADO sin cambio**.
+- El protocolo no crea nueva tarea estudiantil ni nueva función F.
+- Puede abreviarse si riesgos ya están cerrados.
+- Siempre culmina en **Gate humano de Realización**.
+- No activa Carril B automáticamente.
+- H9 será la primera aplicación ya no piloto.
+- Carril B H9: **CERRADO**.
+
+**Próximo movimiento único:** producir Preproducción H9 conforme al protocolo aprobado.
