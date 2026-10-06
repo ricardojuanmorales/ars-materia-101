@@ -1,7 +1,7 @@
 # GATE OVAt-H9 — Ars Materia 101
 
 **Fecha de apertura:** 2026-10-06  
-**Estado:** ABIERTO · DECISIÓN HUMANA PENDIENTE  
+**Estado:** CERRADO · GO CON CONDICIONES MENORES · D-055  
 **Objeto:** Especificación OVAt-H9 v0.1 CANDIDATA  
 **Autoridad:** FEHE-H9 profunda v1.0 APROBADA · D-054; Patrón OVAt-H v1.0 VALIDADO · D-027.
 
@@ -116,10 +116,34 @@ Condiciones sugeridas:
 
 # 8. Decisión humana
 
-> **PENDIENTE**
+> **GO CON CONDICIONES MENORES · D-055**
+
+Se confirman:
+
+1. **Gray Column / Valentine MasKast** como caso rector H9;
+2. pintura acrílica como contraste sistémico breve;
+3. DCM-H9 de 8 campos / una vista;
+4. arquitectura F1-F6 sin FD5;
+5. carga objetivo 70–90 min;
+6. andamiaje mínimo selectivo;
+7. Tg cualitativa;
+8. polímeros/aditivos por función;
+9. H10 protegido;
+10. corpus Getty como núcleo;
+11. preproducción obligatoria antes de Carril B;
+12. Patrón OVAt-H v1.0 sin cambio.
+
+Condiciones menores vinculantes antes de producción:
+
+- cerrar corpus Getty exacto;
+- verificar derechos/licencias visuales;
+- registrar alt texts previstos;
+- resolver explícitamente el protocolo preproducción aplicable a H9.
 
 ---
 
 # 9. Próximo movimiento
 
-> **decisión humana del Gate OVAt-H9.**
+> **resolver y documentar el protocolo preproducción H9 antes de cualquier activación de Carril B.**
+
+El Gate **no activa Carril B H9** ni canoniza Paso 1.
