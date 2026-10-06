@@ -1,7 +1,7 @@
 # GATE METODOLÓGICO · PROTOCOLO DE PREPRODUCCIÓN OVAt-H
 
 **Fecha:** 2026-10-06  
-**Estado:** ABIERTO · DECISIÓN HUMANA PENDIENTE  
+**Estado:** CERRADO · GO · D-056  
 **Objeto:** Protocolo de Preproducción OVAt-H v1.0 CANDIDATO  
 **Autoridad:** D-053; D-054; D-055; pilotos H7-H8; Auditorías Inversas H7-H8; Patrón OVAt-H v1.0 VALIDADO · D-027.
 
@@ -110,10 +110,24 @@ Si recibe GO:
 
 # 6. Decisión humana
 
-> **PENDIENTE**
+> **GO · D-056**
+
+Se aprueba:
+
+> **adoptar el Paso 1 de Realización como Protocolo Complementario de Preproducción OVAt-H v1.0, proporcional y separado de la arquitectura F1-F6, sin modificar Patrón OVAt-H v1.0.**
+
+Condiciones vigentes:
+
+1. no crea nueva tarea estudiantil;
+2. no obliga a igual extensión documental en todas las H;
+3. puede abreviarse si riesgos ya están cerrados;
+4. siempre termina en Gate humano;
+5. no activa Carril B automáticamente;
+6. H9 debe aplicarlo antes de producción;
+7. Patrón OVAt-H v1.0 permanece VALIDADO sin cambio.
 
 ---
 
-# 7. Próximo movimiento si GO
+# 7. Próximo movimiento
 
 > **aplicar Protocolo de Preproducción OVAt-H a H9 → producir Preproducción H9 → Gate de Realización H9 → sólo entonces decidir Carril B H9.**
