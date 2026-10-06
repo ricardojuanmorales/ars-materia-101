@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 5.8  
+**Versión:** 5.9  
 **Fecha:** 2026-10-06  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -463,3 +463,19 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - H9: **CERRADO**.
 
 **Próximo movimiento único:** decisión humana del Gate Integral H8.
+
+
+## 27. Cierre integral H8 y reentrada H9 · D-053
+
+- Gate Integral H8: **CERRADO · GO CON CONDICIONES NO BLOQUEANTES · D-053**.
+- H8: **APROBADO COMO SISTEMA**.
+- Carril B H8: **CERRADO DOCUMENTALMENTE**.
+- FD4: **CERRADO** como nodo **H7 + H8 → DISCRIMINAR / DISEÑAR**.
+- Condiciones no bloqueantes: procedencia/licencias/alt texts finales, archivo canónico H8, reconciliación con `main`, medición de carga y QA técnico fino de accesibilidad.
+- Patrón OVAt-H v1.0: **VALIDADO sin cambio**.
+- Paso 1: segundo piloto favorable; **canonización pendiente de decisión metodológica separada**.
+- Carril A H9: **ACTIVO**.
+- H9: orientación canónica **DISEÑAR NUEVOS COMPORTAMIENTOS MATERIALES**.
+- H9 no entra en producción automática.
+
+**Próximo movimiento único:** producir **FEHE-H9 profunda CANDIDATA**.
