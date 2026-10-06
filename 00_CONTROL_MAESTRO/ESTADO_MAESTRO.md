@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 6.0  
+**Versión:** 6.1  
 **Fecha:** 2026-10-06  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -499,3 +499,21 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Paso 1: no se activa ni canoniza mediante esta FEHE.
 
 **Próximo movimiento único:** decisión humana del Gate FEHE-H9.
+
+
+## 29. FEHE-H9 aprobada · D-054
+
+- Gate FEHE-H9: **CERRADO · GO CON CONDICIONES MENORES · D-054**.
+- FEHE-H9 profunda v1.0: **APROBADA**.
+- Título: **El arte se vuelve sintético**.
+- Movimiento: **DISEÑAR NUEVOS COMPORTAMIENTOS MATERIALES**.
+- Concepto organizador: **COMPORTAMIENTO MATERIAL DISEÑADO**.
+- Producto reusable: **DCM-H9 · Diseño de Comportamiento Material**.
+- Caso preferente para cierre en OVAt: **De Wain Valentine, _Gray Column_ / Valentine MasKast Resin**.
+- Andamiaje: **MÍNIMO SELECTIVO · autonomía productiva con criterios**.
+- Condiciones vinculantes: Tg cualitativa; polímeros/aditivos por función; H10 protegido; DCM-H9 en una vista; contraste acrílico sólo si produce transferencia real; Paso 1 separado.
+- FD5: **CERRADO hasta H10**.
+- Carril B H9: **CERRADO**.
+- Patrón OVAt-H v1.0: **sin cambio**.
+
+**Próximo movimiento único:** producir Especificación OVAt-H9 v0.1 CANDIDATA.
