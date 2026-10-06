@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 6.2  
+**Versión:** 6.3  
 **Fecha:** 2026-10-06  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -537,3 +537,25 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Paso 1: **separado; no se activa ni canoniza mediante este Gate**.
 
 **Próximo movimiento único:** decisión humana del Gate OVAt-H9.
+
+
+## 31. OVAt-H9 aprobada · D-055
+
+- Gate OVAt-H9: **CERRADO · GO CON CONDICIONES MENORES · D-055**.
+- Especificación OVAt-H9 v0.1: **APROBADA**.
+- Caso rector: **De Wain Valentine, _Gray Column_ / Valentine MasKast Resin**.
+- Contraste: **pintura acrílica en emulsión como sistema formulado**.
+- Producto reusable: **DCM-H9 · 8 campos / una vista**.
+- Arquitectura: **F1-F6 sin FD5**.
+- Carga objetivo: **70–90 min**.
+- Andamiaje: **MÍNIMO SELECTIVO**.
+- Tg: **cualitativa**.
+- Polímeros/aditivos: **por función**.
+- FD5: **CERRADO hasta H10**.
+- Carril B H9: **CERRADO**.
+- Producción F1-F6: **NO AUTORIZADA todavía**.
+- Condiciones preproducción: corpus Getty exacto, derechos/licencias visuales, alt texts, protocolo preproducción aplicable.
+- Paso 1: **no canonizado ni activado por D-055**.
+- Patrón OVAt-H v1.0: **sin cambio**.
+
+**Próximo movimiento único:** resolver y documentar el protocolo preproducción H9 antes de cualquier activación de Carril B.
