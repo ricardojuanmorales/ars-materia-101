@@ -1,6 +1,6 @@
 # ESTADO MAESTRO — Ars Materia 101
 
-**Versión:** 6.6  
+**Versión:** 6.7  
 **Fecha:** 2026-10-06  
 **Estado:** VIGENTE  
 **Fuente de verdad:** GitHub `main`  
@@ -610,3 +610,20 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Carril B H9: **CERRADO**.
 
 **Próximo movimiento único:** decisión humana del Gate de Realización H9.
+
+
+## 35. Realización H9 aprobada · D-057
+
+- Gate de Realización H9: **CERRADO · REALIZACIÓN APROBADA CON AJUSTES LOCALES NO BLOQUEANTES · D-057**.
+- Preproducción H9: **APROBADA**.
+- Semáforo: **0 ROJO**.
+- Carril B H9: **ACTIVO**.
+- Producción H9: **AUTORIZADA SECUENCIALMENTE**.
+- Primer componente: **F1 · Bienvenida H9**.
+- F2: condicionado a verificación editorial/funcional de F1.
+- Ajustes ÁMBAR: diagramas, IA opcional, fragmentos Getty, alt texts y enlace final a _Gray Column_.
+- FD5: **CERRADO hasta H10**.
+- Patrón OVAt-H v1.0: **sin cambio**.
+- Protocolo de Preproducción OVAt-H v1.0: **sin cambio**.
+
+**Próximo movimiento único:** producir F1 · Bienvenida H9 v0.1 CANDIDATA.
