@@ -1,7 +1,7 @@
 # GATE DE REALIZACIÓN H9 — Ars Materia 101
 
 **Fecha:** 2026-10-06  
-**Estado:** ABIERTO · DECISIÓN HUMANA PENDIENTE  
+**Estado:** CERRADO · REALIZACIÓN APROBADA CON AJUSTES LOCALES NO BLOQUEANTES · D-057  
 **Objeto:** PREPRODUCCIÓN H9 v1.0 COMPLETADA  
 **Autoridad:** FEHE-H9 · D-054; OVAt-H9 · D-055; Protocolo de Preproducción OVAt-H v1.0 · D-056.
 
@@ -117,10 +117,21 @@ No se añade foro, FD5, segunda DCM, laboratorio o simulador.
 
 # 7. Decisión humana
 
-> **PENDIENTE**
+> **REALIZACIÓN APROBADA CON AJUSTES LOCALES NO BLOQUEANTES · D-057**
+
+Efectos:
+
+1. Preproducción H9 queda **APROBADA**.
+2. Carril B H9 queda **ACTIVO**.
+3. Se autoriza producción secuencial H9.
+4. El próximo componente autorizado es exclusivamente **F1 · Bienvenida H9**.
+5. F2 no se produce hasta verificar editorial y funcionalmente F1.
+6. Los ajustes ÁMBAR permanecen como decisiones locales de producción.
+7. FD5 permanece **CERRADO hasta H10**.
+8. Patrón OVAt-H v1.0 y Protocolo de Preproducción OVAt-H v1.0 permanecen sin cambio.
 
 ---
 
-# 8. Próximo movimiento si se aprueba
+# 8. Próximo movimiento
 
-> **activar Carril B H9 → producir F1 · Bienvenida H9 → verificar antes de F2.**
+> **Carril B H9 ACTIVO → producir F1 · Bienvenida H9 → verificar antes de F2.**
