@@ -3,12 +3,12 @@
 
 **Versión:** 1.0 COMPLETADA · LISTA PARA GATE HUMANO  
 **Fecha:** 2026-10-06  
-**Estado:** COMPLETADA · PENDIENTE DE GATE DE REALIZACIÓN  
+**Estado:** APROBADA · D-057  
 **Autoridad de entrada:** FEHE-H9 v1.0 APROBADA · D-054; Especificación OVAt-H9 v0.1 APROBADA · D-055; Protocolo de Preproducción OVAt-H v1.0 APROBADO · D-056.  
 **Naturaleza:** primera aplicación canónica no piloto del protocolo.  
 **Propósito:** cerrar corpus, derechos, representación, accesibilidad, carga, producto y tecnología antes de activar Carril B H9.  
 **Patrón OVAt-H v1.0:** VALIDADO · sin cambio.  
-**Carril B H9:** CERRADO.  
+**Carril B H9:** ACTIVO · D-057.  
 **FD5:** CERRADO hasta H10.
 
 ---
@@ -527,4 +527,8 @@ Recomendación:
 
 > **REALIZACIÓN APROBADA CON AJUSTES LOCALES NO BLOQUEANTES.**
 
-Carril B H9 permanece **CERRADO** hasta decisión humana del Gate.
+Carril B H9 queda **ACTIVO · D-057**.
+
+Próximo componente autorizado:
+
+> **F1 · Bienvenida H9**.
