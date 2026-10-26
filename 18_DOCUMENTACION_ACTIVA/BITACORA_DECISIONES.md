@@ -111,3 +111,12 @@ Estado:
 | 2026-10-06 | D-056 | GO al Gate metodológico; aprobar Protocolo de Preproducción OVAt-H v1.0 como protocolo complementario proporcional, sin modificar Patrón OVAt-H v1.0 | La evidencia acumulada en H7-H8 demuestra una función operacional estable para cerrar corpus, procedencia, representación, accesibilidad, carga, tecnología y fronteras antes de producción. El protocolo no crea una séptima función pedagógica ni una nueva tarea estudiantil, puede abreviarse proporcionalmente y siempre culmina en Gate humano de Realización antes de activar Carril B. H9 será la primera aplicación ya no piloto. | Protocolo de Preproducción OVAt-H, Gate metodológico, Estado Maestro, Mapa de Ruta, H9 preproducción | APROBADO |
 
 | 2026-10-06 | D-057 | REALIZACIÓN APROBADA CON AJUSTES LOCALES NO BLOQUEANTES en Gate de Realización H9; activar Carril B H9 y autorizar producción secuencial comenzando por F1 | La Preproducción H9 cierra corpus, derechos, representación, accesibilidad, carga, producto y tecnología con 0 riesgos ROJO. Los ajustes ÁMBAR son locales y reversibles: diagramas finales, IA opcional, selección de fragmentos Getty, alt texts y forma de enlazar Gray Column sin republicar imagen protegida. Se activa Carril B H9 y se autoriza comenzar exclusivamente por F1 · Bienvenida H9; F2 queda condicionado a verificación de F1. FD5 permanece cerrado hasta H10. | Gate Realización H9, Preproducción H9, Activación Carril B H9, Estado Maestro, Mapa de Ruta, producción H9 | APROBADO CON AJUSTES |
+
+
+## Nota de decisión humana · 2026-10-26 · FEHE-H10 piloto experimental
+
+Sin asignar D-XXX de Gate curricular ordinario, el docente instruye **crear FEHE-H10 profunda v0.1 y marcarla APROBADA PARA PILOTO EXPERIMENTAL** para completar el corpus documental del compendio FEHE H1–H10. Se registra como autorización experimental limitada, **no** como cierre del Gate FEHE-H10, aprobación de OVAt-H10, activación de Carril B H10, apertura de FD5 ni autorización Moodle. Esta operación transversal no modifica el siguiente paso curricular H9 bajo D-057.
+
+Archivo: `08_CURSOS_PROGRAMAS_Y_TRAYECTORIAS/FEHE_H1-H10/H10/CIFI4074_FEHE_H10_Profunda_v0.1_APROBADA_PARA_PILOTO_EXPERIMENTAL.md`.
+
+**Control:** corpus FEHE-H1–H10 con diez archivos individuales presentes; H1 conserva divergencia entre nombre CANDIDATA y decisión D-015; H10 es experimental y requiere un Gate posterior para aprobación ordinaria. Paquete estudiante/ZIP no producido; repositorio local sin verificación.
