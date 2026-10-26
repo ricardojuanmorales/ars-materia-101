@@ -627,3 +627,14 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Protocolo de Preproducción OVAt-H v1.0: **sin cambio**.
 
 **Próximo movimiento único:** producir F1 · Bienvenida H9 v0.1 CANDIDATA.
+
+
+## 36. Incorporación experimental FEHE-H10 y recálculo Bloque 00 · 2026-10-26
+
+- **FEHE-H10 profunda v0.1: APROBADA PARA PILOTO EXPERIMENTAL** por decisión humana expresa, alcance documental y exploratorio.
+- Ruta: `08_CURSOS_PROGRAMAS_Y_TRAYECTORIAS/FEHE_H1-H10/H10/CIFI4074_FEHE_H10_Profunda_v0.1_APROBADA_PARA_PILOTO_EXPERIMENTAL.md`.
+- **Inventario H1–H10 completo en presencia de documentos FEHE individuales (10/10), pero no homogéneo en autoridad:** H1 aparece con nombre CANDIDATA pese a aprobación D-015; H2–H9 cuentan con documentos FEHE v1.0 aprobados (con sus condiciones cuando aplican); H10 es piloto experimental, no Gate ordinario.
+- El documento FEHE-H10 **no** abre OVAt-H10, FD5, Carril B H10, producción Moodle ni autoriza uso de tratamientos sobre objetos reales.
+- El trabajo de compendio es frente documental transversal y **no altera la prioridad curricular H9** establecida mediante D-057.
+- **Bloque 00 recalculado:** fuentes marco y H1–H10 localizadas; trazabilidad y conversión editorial/Word/ZIP pendientes; sincronización de computadora local no comprobada.
+- **Próximo movimiento del compendio:** revisar en bloque conceptual la matriz de fuentes y autoridad, luego solicitar al docente sus ejemplos de estilo antes de desarrollar semillas.
