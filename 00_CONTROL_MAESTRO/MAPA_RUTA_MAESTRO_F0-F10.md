@@ -652,3 +652,8 @@ Reglas:
 - FD5 permanece **CERRADO hasta H10**;
 - ajustes ÁMBAR se resuelven localmente en producción;
 - Patrón OVAt-H v1.0 y Protocolo de Preproducción OVAt-H v1.0 permanecen **sin cambio**.
+
+
+## 35. Bloque documental transversal FEHE H1–H10 · 2026-10-26
+
+Se incorpora FEHE-H10 profunda v0.1 **APROBADA PARA PILOTO EXPERIMENTAL** en su ruta existente `08_CURSOS_PROGRAMAS_Y_TRAYECTORIAS/FEHE_H1-H10/H10/`. El corpus posee ahora diez FEHE individuales localizables; eso **no** equivale a diez Gates aprobados ni activa producción H10. La ruta ordinaria H9 continúa según D-057. En el carril documental del compendio, el Bloque 00 queda recalculado con la salvedad de autoridad de H1 y el estado experimental de H10; siguen pendientes las semillas estudiantiles, la aprobación editorial, los Word/MD de entrega, ZIP y QA de correspondencia. La sincronización local permanece sin verificar.
