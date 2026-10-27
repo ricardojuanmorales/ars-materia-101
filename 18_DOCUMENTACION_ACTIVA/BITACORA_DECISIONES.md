@@ -120,3 +120,8 @@ Sin asignar D-XXX de Gate curricular ordinario, el docente instruye **crear FEHE
 Archivo: `08_CURSOS_PROGRAMAS_Y_TRAYECTORIAS/FEHE_H1-H10/H10/CIFI4074_FEHE_H10_Profunda_v0.1_APROBADA_PARA_PILOTO_EXPERIMENTAL.md`.
 
 **Control:** corpus FEHE-H1–H10 con diez archivos individuales presentes; H1 conserva divergencia entre nombre CANDIDATA y decisión D-015; H10 es experimental y requiere un Gate posterior para aprobación ordinaria. Paquete estudiante/ZIP no producido; repositorio local sin verificación.
+
+
+## Nota operativa · 2026-10-27 · Compendio FEHE H1–H10
+
+El docente autorizó la producción de diez semillas de tríadas **APROBADAS PARA PILOTO EXPERIMENTAL**. Se generaron diez MD y diez DOCX, y paquete operativo ZIP. Se produjo asimismo la Guía general para tríadas en MD y DOCX y un nuevo ZIP con matriz, manifiesto SHA-256 e índice de enlaces canónicos. **Limitación de cierre:** la publicación en GitHub de los 20 archivos de semillas y de los originales convertidos a Word continúa pendiente. Se incorporan en `12_RECURSOS_ESTUDIANTE/COMPENDIO_FEHE_H1-H10/` una versión MD de la guía y un README que declara el estado real. La copia local externa no está sincronizada ni verificada. No modificar estados de Gates ni la prioridad curricular H9.
