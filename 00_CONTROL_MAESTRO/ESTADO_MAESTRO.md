@@ -638,3 +638,12 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - El trabajo de compendio es frente documental transversal y **no altera la prioridad curricular H9** establecida mediante D-057.
 - **Bloque 00 recalculado:** fuentes marco y H1–H10 localizadas; trazabilidad y conversión editorial/Word/ZIP pendientes; sincronización de computadora local no comprobada.
 - **Próximo movimiento del compendio:** revisar en bloque conceptual la matriz de fuentes y autoridad, luego solicitar al docente sus ejemplos de estilo antes de desarrollar semillas.
+
+
+## 37. Compendio FEHE H1–H10 · avance transversal · 2026-10-27
+
+- Diez semillas para tríadas **APROBADAS PARA PILOTO EXPERIMENTAL**: MD+DOCX, producidas como paquete de sesión y verificadas en ZIP.
+- Guía general para tríadas MD+DOCX producida como paquete de sesión; su versión MD resumida y README publicados en `12_RECURSOS_ESTUDIANTE/COMPENDIO_FEHE_H1-H10/`.
+- Originales FEHE H1–H10 y Marco FEHE siguen en sus rutas canónicas originales. El paquete operativo contiene **enlaces** a originales, **no copias exactas** ni sus conversiones Word.
+- Pendiente: publicar los 20 archivos de semillas en GitHub, incorporar copias verificadas de originales y Word derivados, QA definitivo, comprobar sincronización local; **no declarar cerrado el compendio integral**.
+- No se altera D-057, Carril B H9, ni se abre Gate H10, FD5 o Moodle H10.
