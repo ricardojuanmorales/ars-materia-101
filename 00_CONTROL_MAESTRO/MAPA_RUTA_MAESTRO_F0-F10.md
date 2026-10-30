@@ -678,3 +678,20 @@ H9 F1–F6 montaje reportado por docente
 ```
 
 **Control:** aprobación del piloto metodológico no es aprobación final del protocolo, no abre FD5 ni Moodle H10. Patrón OVAt-H v1.0 y Protocolo de Preproducción v1.0 permanecen intactos. La prueba no reutilizará ejemplos H8/H9; la necesidad de hacerlo se registrará como fallo de autosuficiencia. La auditoría inversa y Gate Integral H9 se tramitan separadamente.
+
+
+## 38. Cierre técnico A2 y entrada diagnóstica Gate 0 H10 · 2026-10-30
+
+```text
+Protocolo Maestro OVAt-H v0.3 · D-058
+→ A2: 27/27 originales en GitHub main, verificados byte a byte mediante script local
+→ Gate 0 H10: diagnóstico de autoridad curricular
+→ FEHE-H10 experimental existente (NO Gate ordinario)
+→ Gate FEHE-H10 humano pendiente
+→ [si GO] especificación OVAt-H10 candidata → Gate OVAt humano
+→ [si GO] preproducción proporcional → Gate de Realización humano
+→ [si GO] Carril B H10 / FD5 cuando autorizado → piloto producción secuencial
+→ QA / auditoría inversa → Gate integral y de transferencia
+```
+
+**No activar Moodle H10 todavía.** La publicación técnica del catálogo no canoniza el protocolo ni reemplaza los Gates. D-058 permanece vigente sin modificación.
