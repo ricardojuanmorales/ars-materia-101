@@ -662,3 +662,19 @@ Se incorpora FEHE-H10 profunda v0.1 **APROBADA PARA PILOTO EXPERIMENTAL** en su 
 ## 36. Avance documental del compendio FEHE H1–H10 · 2026-10-27
 
 Cobertura original FEHE H1–H10: 10/10 localizadas. Semillas H1–H10 piloto experimental: 10 MD + 10 Word producidas en paquete operativo. Guía de tríadas: MD/Word en paquete, versión MD reducida publicada en `12_RECURSOS_ESTUDIANTE/COMPENDIO_FEHE_H1-H10/`. Pendientes: originales exactos en ZIP, conversiones Word, publicación de las semillas, QA integral y sincronización local. El frente es documental y no altera Carril B H9 vigente ni autoriza H10 curricular.
+
+
+## 37. D-058 · Protocolo de Montaje OVAt-H v0.3 · piloto experimental controlado · 2026-10-30
+
+```text
+H9 F1–F6 montaje reportado por docente
+→ Protocolo Maestro v0.3 + 21 prompts · integridad local confirmada (27 entradas)
+→ GO PARA PILOTO EXPERIMENTAL CON CONDICIONES DE TRAZABILIDAD · D-058
+→ publicar 27/27 archivos íntegros en GitHub main y verificar SHA
+→ Gate 0 de habilitación curricular H10 (FEHE/OVAt/Preproducción/Gate Realización)
+→ [sólo si Gates aprueban] Carril B H10 + producción secuencial
+→ Moodle + QA + Auditoría Inversa
+→ Gate humano de transferencia metodológica
+```
+
+**Control:** aprobación del piloto metodológico no es aprobación final del protocolo, no abre FD5 ni Moodle H10. Patrón OVAt-H v1.0 y Protocolo de Preproducción v1.0 permanecen intactos. La prueba no reutilizará ejemplos H8/H9; la necesidad de hacerlo se registrará como fallo de autosuficiencia. La auditoría inversa y Gate Integral H9 se tramitan separadamente.
