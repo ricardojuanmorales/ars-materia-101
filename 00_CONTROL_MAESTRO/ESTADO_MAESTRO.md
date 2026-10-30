@@ -647,3 +647,15 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Originales FEHE H1–H10 y Marco FEHE siguen en sus rutas canónicas originales. El paquete operativo contiene **enlaces** a originales, **no copias exactas** ni sus conversiones Word.
 - Pendiente: publicar los 20 archivos de semillas en GitHub, incorporar copias verificadas de originales y Word derivados, QA definitivo, comprobar sincronización local; **no declarar cerrado el compendio integral**.
 - No se altera D-057, Carril B H9, ni se abre Gate H10, FD5 o Moodle H10.
+
+
+## 38. Autorización experimental del Protocolo de Montaje · D-058 · 2026-10-30
+
+- Docente comunica **GO PARA PILOTO EXPERIMENTAL CON CONDICIONES DE TRAZABILIDAD** para el Protocolo Maestro de Producción y Montaje OVAt-H v0.3 y su catálogo de 21 prompts.
+- **D-058** documenta exclusivamente la autorización metodológica experimental, no validación ni autorización curricular H10.
+- H9 F1–F6: montaje final reportado por el docente en sesión; auditoría inversa y Gate Integral H9 aún no documentados ni decididos.
+- A1: ZIP v0.3 verificado localmente, 27 entradas, 26/26 elementos con SHA-256 y tamaño coincidentes. SHA256 ZIP `49a24d30d6fbf8a05c2c0b7d2f438eddd8f362c3a03b1f51818c11dab952f2b8`.
+- A2: decisión y control de archivo registrados en GitHub; **publicación de los 27 archivos y conciliación por SHA en main pendientes**. No declarar el catálogo archivado canónicamente hasta comprobación 27/27.
+- Patrón OVAt-H v1.0 VALIDADO D-027 y Protocolo de Preproducción v1.0 APROBADO D-056 **sin modificación**.
+- H10 FEHE experimental no sustituye Gate FEHE/OVAt; Carril B H10, FD5 y producción Moodle H10 **NO AUTORIZADOS** por D-058.
+- Próximo movimiento documental: publicar íntegramente catálogo congelado, verificar hashes y luego Gate 0 H10; cierre integral H9 permanece proceso curricular distinto.
