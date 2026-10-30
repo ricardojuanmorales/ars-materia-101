@@ -659,3 +659,13 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Patrón OVAt-H v1.0 VALIDADO D-027 y Protocolo de Preproducción v1.0 APROBADO D-056 **sin modificación**.
 - H10 FEHE experimental no sustituye Gate FEHE/OVAt; Carril B H10, FD5 y producción Moodle H10 **NO AUTORIZADOS** por D-058.
 - Próximo movimiento documental: publicar íntegramente catálogo congelado, verificar hashes y luego Gate 0 H10; cierre integral H9 permanece proceso curricular distinto.
+
+
+## 39. A2 completo · Protocolo de Montaje v0.3 publicado · 2026-10-30
+
+- Se cierra la deuda de publicación identificada en §38: **27/27 archivos originales publicados y verificados byte a byte en GitHub `main`**, según salida del script local de reanudación facilitada por el docente.
+- La evidencia incluye 25 archivos `IGUAL`, dos archivos PM6 publicados y verificados, y post-auditoría del script `FINAL: 27/27`. Comprobación complementaria por conector: manifiesto y PM6 accesibles en `main`.
+- Línea base: `03_METODOLOGIA_Y_FLUJO_DE_TRABAJO/PROTOCOLOS/PILOTO_MONTAJE_OVAT_H_v0.3/`; **21 Prompts Maestros + 6 archivos complementarios**, v0.3 sin edición.
+- D-058 autoriza **piloto metodológico experimental con trazabilidad**; no valida aún el protocolo ni habilita Moodle H10.
+- **Gate 0 H10, diagnóstico inicial:** FEHE-H10 v0.1 APROBADA PARA PILOTO EXPERIMENTAL (2026-10-26), no equivale a Gate FEHE ordinario. OVAt-H10 y Gate de Realización no constan aprobados en el estado maestro recuperado. H10: **producción no autorizada**; FD5 reservado.
+- **Próximo movimiento único:** completar ficha Gate 0 de habilitación y tramitar aprobación curricular FEHE-H10 antes de OVAt-H10. Cierre integral H9 continúa diferenciado del piloto metodológico.
