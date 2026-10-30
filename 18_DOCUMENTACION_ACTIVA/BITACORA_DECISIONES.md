@@ -128,3 +128,8 @@ El docente autorizó la producción de diez semillas de tríadas **APROBADAS PAR
 
 
 | 2026-10-30 | D-058 | GO PARA PILOTO EXPERIMENTAL CON CONDICIONES DE TRAZABILIDAD al Protocolo Maestro de Producción y Montaje OVAt-H v0.3 (21 prompts) | Autoriza congelación local y preparación del piloto metodológico H10, **sin validar todavía transferencia ni autorizar producción curricular H10**. Integridad local del ZIP comprobada (27 entradas; 26/26 del manifiesto SHA-256); publicación íntegra GitHub y verificación 27/27 pendientes. Se exige bitácora por pieza, revisión humana, fuentes/licencias/DUA, carga, separación de paquetes PM y funciones F, y Gate 0 antes de Carril B/FD5 H10. Patrón OVAt-H v1.0 y Preproducción v1.0 sin modificación. | Decisión D-058; control de archivo piloto v0.3; Estado Maestro; Mapa de Ruta | APROBADO PARA PILOTO EXPERIMENTAL CON CONDICIONES DE TRAZABILIDAD |
+
+
+## Nota operativa de ejecución D-058 · 2026-10-30 · A2 cerrado
+
+Sin nueva decisión D-XXX: el docente reportó resultado terminal `FINAL: 27/27 publicados y verificados byte a byte en main` al ejecutar `publicar_y_verificar_v03_reanudable.py`. Los 25 archivos preexistentes coincidían con el ZIP original y los dos restantes PM6 se publicaron y verificaron. Se recuperaron adicionalmente por el conector GitHub el manifiesto y los PM6. Se cierra la condición técnica de archivo de D-058, manteniendo **v0.3 CANDIDATO APROBADO PARA PILOTO EXPERIMENTAL**, no validado. Gate 0 H10 sólo diagnóstico; FEHE experimental no equivale a Gate curricular ordinario, FD5 y Carril B H10 no autorizados.
