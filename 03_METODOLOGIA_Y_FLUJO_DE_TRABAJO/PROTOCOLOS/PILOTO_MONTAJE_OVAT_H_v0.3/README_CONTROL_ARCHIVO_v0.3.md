@@ -19,3 +19,13 @@ El paquete contiene 21 archivos `prompts/PM*-*.md`, un índice, protocolo, promp
 
 ## Control de transición
 No marcar ARCHIVADO/VERIFICADO EN MAIN hasta completar 27/27. No iniciar Gate 0 H10 suponiendo disponible un catálogo que no esté publicado íntegramente.
+
+
+## Control A2 · 2026-10-30 · verificación reproducida
+
+- ZIP original inspeccionado nuevamente: 27 archivos; 21 prompts.
+- CRC del ZIP: sin incidencias.
+- Manifiesto: 26/26 archivos listados concordantes en tamaño y SHA-256; el manifiesto (entrada 27) presente y legible.
+- **Bloqueo de publicación:** el conector de escritura GitHub no puede consumir directamente archivos del sistema de archivos local de esta sesión. No se sustituyen archivos originales por reconstrucciones ni se marca completada la publicación.
+- **Estado vinculante:** A1 completo; A2 registro canónico de autorización completo; A2 **archivo íntegro 27/27 PENDIENTE**.
+- **Acción de cierre:** publicar 27 originales y verificar el SHA-256 de cada blob recuperado de `main` antes del Gate 0 H10.
