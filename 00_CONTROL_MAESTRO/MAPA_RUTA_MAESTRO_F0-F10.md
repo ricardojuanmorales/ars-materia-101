@@ -726,3 +726,18 @@ FEHE-H10 v1.0 APROBADA · D-059
 ```
 
 FD5 permanece **RESERVADO**, sujeto a diseño, Tabla de Alineación V2.0 y autorización específica; no se abre automáticamente por D-060. Caso institucional, corpus/licencias, seguridad y controles de carga deben cerrarse en preproducción. Patrón OVAt-H v1.0 y Protocolo Preproducción v1.0 no cambian.
+
+
+## 41. Preproducción H10 candidata, caso rector institucional y Gate de Realización · 2026-10-31
+
+```text
+FEHE-H10 APROBADA · D-059
+→ OVAt-H10 APROBADA PARA PREPRODUCCIÓN · D-060
+→ Preproducción v0.1 CANDIDATA PRODUCIDA
+→ Caso candidato: The Night Watch / Rijksmuseum, investigación y barniz
+→ Gate de Realización H10 ABIERTO · DECISIÓN HUMANA PENDIENTE
+→ [si REALIZACIÓN APROBADA / CON AJUSTES NO BLOQUEANTES]
+→ Carril B H10 → F1 candidata → QA y producción secuencial F2–F6
+```
+
+No se atribuyen geles/nanomateriales al caso sin evidencia. Corpus institucional verificado, derechos de imágenes concretas y accesibilidad fina sujetos a QA. **FD5 reservado** hasta autorización independiente. Patrón OVAt v1.0, Preproducción v1.0 y piloto Montaje v0.3 intactos.
