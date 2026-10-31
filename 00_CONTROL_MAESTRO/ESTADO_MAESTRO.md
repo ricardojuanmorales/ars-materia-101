@@ -669,3 +669,15 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - D-058 autoriza **piloto metodológico experimental con trazabilidad**; no valida aún el protocolo ni habilita Moodle H10.
 - **Gate 0 H10, diagnóstico inicial:** FEHE-H10 v0.1 APROBADA PARA PILOTO EXPERIMENTAL (2026-10-26), no equivale a Gate FEHE ordinario. OVAt-H10 y Gate de Realización no constan aprobados en el estado maestro recuperado. H10: **producción no autorizada**; FD5 reservado.
 - **Próximo movimiento único:** completar ficha Gate 0 de habilitación y tramitar aprobación curricular FEHE-H10 antes de OVAt-H10. Cierre integral H9 continúa diferenciado del piloto metodológico.
+
+
+## 40. Gate FEHE-H10 cerrado y OVAt-H10 candidata · D-059 · 2026-10-31
+
+- **Gate FEHE-H10: CERRADO · GO CON CONDICIONES · D-059**, por aprobación humana expresa.
+- **FEHE-H10 profunda v1.0: APROBADA CON CONDICIONES**, preservando la v0.1 experimental como antecedente.
+- **OVAt-H10 v0.1: CANDIDATA PRODUCIDA**, único documento curricular autorizado por D-059; Gate OVAt-H10 **ABIERTO · decisión humana pendiente**.
+- Identidad: **DIAGNOSTICAR, DECIDIR Y CONSERVAR RESPONSABLEMENTE / DECISIÓN CONSERVATIVA SITUADA**; producto MDS-H10, una vista, ocho campos.
+- Condiciones: caso rector institucional; corpus/der. visuales; geles/nano por función; producto/carga; FD5 reservado; seguridad/ética; protocolos sin modificación.
+- **Carril B, FD5 y producción/montaje Moodle H10: NO AUTORIZADOS.** No declarar preproducción realizada ni Gate de Realización aprobado.
+- Archivos: `08_CURSOS_PROGRAMAS_Y_TRAYECTORIAS/FEHE_H1-H10/H10/CIFI4074_FEHE_H10_Profunda_v1.0_APROBADA.md`; `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_OVAt_H10_Especificacion_v0.1_CANDIDATA.md`; `18_DOCUMENTACION_ACTIVA/GATE_FEHE_H10.md`; `18_DOCUMENTACION_ACTIVA/DECISION_D-059_APROBACION_FEHE_H10_2026-10-31.md`.
+- **Próximo movimiento único:** Gate humano OVAt-H10 tras revisar especificación candidata y sus condiciones documentales. Cierre integral H9 mantiene carril separado.
