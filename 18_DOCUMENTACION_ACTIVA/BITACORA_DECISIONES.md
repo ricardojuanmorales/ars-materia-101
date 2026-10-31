@@ -136,3 +136,6 @@ Sin nueva decisión D-XXX: el docente reportó resultado terminal `FINAL: 27/27 
 
 
 | 2026-10-31 | D-059 | GO CON CONDICIONES al Gate FEHE-H10; aprobar FEHE-H10 profunda v1.0 y autorizar exclusivamente OVAt-H10 v0.1 CANDIDATA | La FEHE-H10 define DIAGNOSTICAR, DECIDIR Y CONSERVAR RESPONSABLEMENTE / DECISIÓN CONSERVATIVA SITUADA; MDS-H10 una vista/ocho campos. Siete condiciones vinculantes: caso institucional; corpus/licencias; geles/nano por función y límites; MDS y carga; FD5 reservado; ética/seguridad y comunidades; protocolos intactos. No se aprueba OVAt-H10 ni se activan FD5, Carril B o Moodle. | Gate FEHE-H10; FEHE-H10 v1.0; OVAt-H10 v0.1 CANDIDATA; Estado Maestro; Mapa de Ruta | APROBADO CON CONDICIONES |
+
+
+| 2026-10-31 | D-060 | Aprobación humana expedita del Gate OVAt-H10 · GO CON CONDICIONES · autorizar exclusivamente Preproducción H10 | Se aprueba OVAt-H10 v0.1 para preproducción proporcional, preservando candidata y siete condiciones vinculantes D-059: caso institucional, corpus/licencias, geles/nano por función y evidencia, MDS una vista/8 campos y carga, FD5 reservado, ética/seguridad/comunidades, protocolos sin modificación. No autoriza F1–F6, Carril B, FD5 ni Moodle; Gate de Realización pendiente. | Gate OVAt-H10; Decisión D-060; Especificación OVAt-H10 aprobada; Estado Maestro; Mapa de Ruta | APROBADO CON CONDICIONES PARA PREPRODUCCIÓN |
