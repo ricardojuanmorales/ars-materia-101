@@ -711,3 +711,18 @@ FEHE-H10 v0.1 APROBADA PARA PILOTO EXPERIMENTAL
 ```
 
 Siete condiciones D-059 vinculantes: caso rector, corpus/licencias, geles/nano proporcional, MDS-H10 de ocho campos y carga, FD5 bajo aprobación futura, seguridad/ética/comunidades, protocolos existentes sin modificación. Moodle y FD5 no autorizados por este Gate.
+
+
+## 40. D-060 · Gate OVAt-H10 cerrado con condiciones · 2026-10-31
+
+```text
+FEHE-H10 v1.0 APROBADA · D-059
+→ OVAt-H10 v0.1 CANDIDATA
+→ Gate OVAt-H10 · GO CON CONDICIONES · D-060
+→ OVAt-H10 v0.1 APROBADA PARA PREPRODUCCIÓN
+→ Preproducción H10 v0.1 CANDIDATA · ÚNICO PRÓXIMO MOVIMIENTO
+→ Gate humano de Realización H10
+→ [sólo si GO] Carril B H10 y producción F1–F6 con piloto Montaje v0.3
+```
+
+FD5 permanece **RESERVADO**, sujeto a diseño, Tabla de Alineación V2.0 y autorización específica; no se abre automáticamente por D-060. Caso institucional, corpus/licencias, seguridad y controles de carga deben cerrarse en preproducción. Patrón OVAt-H v1.0 y Protocolo Preproducción v1.0 no cambian.
