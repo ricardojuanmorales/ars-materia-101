@@ -692,3 +692,15 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Gate de Realización H10: **NO CELEBRADO**; Carril B H10: **CERRADO**; FD5: **RESERVADO NO ACTIVADO**; Moodle y producción F1–F6: **NO AUTORIZADOS**.
 - D-058 (Protocolo Montaje v0.3) permanece **APROBADO PARA PILOTO EXPERIMENTAL**, no validado.
 - **Próximo movimiento único:** producir **Preproducción H10 v0.1 CANDIDATA** bajo Protocolo de Preproducción OVAt-H v1.0 aprobado D-056, con corpus y caso a verificar, seguida de Gate humano de Realización.
+
+
+## 42. Preproducción H10 candidata producida · Gate de Realización abierto · 2026-10-31
+
+- **Preproducción OVAt-H10 v0.1 CANDIDATA PRODUCIDA**, conforme al Protocolo de Preproducción OVAt-H v1.0 · D-056, sustentada en FEHE D-059 y OVAt D-060.
+- Caso rector candidato verificado con fuentes institucionales: **Rembrandt, _The Night Watch_ (1642), Operation Night Watch, Rijksmuseum**; cronología investigación 2019, bastidor y soporte 2022, pruebas de barniz e inicio de retirada 2024.
+- Corpus primario de Rijksmuseum identificado y documentado; **no afirmar geles/nanomateriales usados en ese tratamiento**.
+- MDS-H10 de ocho campos/una vista; arquitectura F1–F6; carga estimada 70–85 minutos sin FD5. Licencias individuales de imágenes, alt texts, alternativas textuales de videos y carga real pendientes de QA dirigido.
+- **Gate de Realización H10: ABIERTO · FICHA CANDIDATA PRODUCIDA · DECISIÓN HUMANA PENDIENTE**. Recomendación técnica: REALIZACIÓN APROBADA CON AJUSTES LOCALES NO BLOQUEANTES; no es decisión aprobada.
+- **Carril B H10 CERRADO, F1–F6 NO AUTORIZADAS, FD5 RESERVADO y Moodle H10 NO ACTIVADO.** Piloto de Montaje v0.3 sigue no validado D-058.
+- Rutas: `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_PREPRODUCCION_OVAT_H10_v0.1_CANDIDATA.md` y `18_DOCUMENTACION_ACTIVA/GATE_REALIZACION_H10_v0.1_CANDIDATO.md`.
+- **Próximo movimiento único:** decisión humana Gate de Realización H10.
