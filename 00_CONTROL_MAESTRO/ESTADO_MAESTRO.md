@@ -681,3 +681,14 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - **Carril B, FD5 y producción/montaje Moodle H10: NO AUTORIZADOS.** No declarar preproducción realizada ni Gate de Realización aprobado.
 - Archivos: `08_CURSOS_PROGRAMAS_Y_TRAYECTORIAS/FEHE_H1-H10/H10/CIFI4074_FEHE_H10_Profunda_v1.0_APROBADA.md`; `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_OVAt_H10_Especificacion_v0.1_CANDIDATA.md`; `18_DOCUMENTACION_ACTIVA/GATE_FEHE_H10.md`; `18_DOCUMENTACION_ACTIVA/DECISION_D-059_APROBACION_FEHE_H10_2026-10-31.md`.
 - **Próximo movimiento único:** Gate humano OVAt-H10 tras revisar especificación candidata y sus condiciones documentales. Cierre integral H9 mantiene carril separado.
+
+
+## 41. Gate OVAt-H10 aprobado para preproducción · D-060 · 2026-10-31
+
+- Decisión humana: **APROBACIÓN HUMANA EXPEDITA**, formalizada como **GO CON CONDICIONES** al Gate OVAt-H10 · D-060.
+- **Especificación OVAt-H10 v0.1 APROBADA CON CONDICIONES PARA PREPRODUCCIÓN**, preservando versión CANDIDATA original.
+- Identidad: DIAGNOSTICAR, DECIDIR Y CONSERVAR RESPONSABLEMENTE / DECISIÓN CONSERVATIVA SITUADA. Producto MDS-H10 una vista/ocho campos. Carga candidata 70–85 min sin FD5.
+- Condiciones: caso institucional verificable y corpus/licencias; geles y nano solo por pertinencia documentada; MDS/carga; FD5 reservado y sujeto a Tabla V2.0/decisión futura; seguridad, ética y comunidades; sin modificar protocolos aprobados ni piloto v0.3.
+- Gate de Realización H10: **NO CELEBRADO**; Carril B H10: **CERRADO**; FD5: **RESERVADO NO ACTIVADO**; Moodle y producción F1–F6: **NO AUTORIZADOS**.
+- D-058 (Protocolo Montaje v0.3) permanece **APROBADO PARA PILOTO EXPERIMENTAL**, no validado.
+- **Próximo movimiento único:** producir **Preproducción H10 v0.1 CANDIDATA** bajo Protocolo de Preproducción OVAt-H v1.0 aprobado D-056, con corpus y caso a verificar, seguida de Gate humano de Realización.
