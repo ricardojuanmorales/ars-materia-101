@@ -695,3 +695,19 @@ Protocolo Maestro OVAt-H v0.3 · D-058
 ```
 
 **No activar Moodle H10 todavía.** La publicación técnica del catálogo no canoniza el protocolo ni reemplaza los Gates. D-058 permanece vigente sin modificación.
+
+
+## 39. D-059 · FEHE-H10 aprobada con condiciones · 2026-10-31
+
+```text
+FEHE-H10 v0.1 APROBADA PARA PILOTO EXPERIMENTAL
+→ Gate FEHE-H10 · GO CON CONDICIONES · D-059
+→ FEHE-H10 profunda v1.0 APROBADA CON CONDICIONES
+→ OVAt-H10 v0.1 CANDIDATA PRODUCIDA
+→ Gate OVAt-H10 ABIERTO · decisión humana pendiente
+→ [sólo si GO] Protocolo de Preproducción v1.0 proporcional
+→ Gate de Realización H10 humano
+→ [sólo si GO] Carril B H10 → producción secuencial con piloto v0.3
+```
+
+Siete condiciones D-059 vinculantes: caso rector, corpus/licencias, geles/nano proporcional, MDS-H10 de ocho campos y carga, FD5 bajo aprobación futura, seguridad/ética/comunidades, protocolos existentes sin modificación. Moodle y FD5 no autorizados por este Gate.
