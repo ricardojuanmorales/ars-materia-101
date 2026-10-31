@@ -139,3 +139,8 @@ Sin nueva decisión D-XXX: el docente reportó resultado terminal `FINAL: 27/27 
 
 
 | 2026-10-31 | D-060 | Aprobación humana expedita del Gate OVAt-H10 · GO CON CONDICIONES · autorizar exclusivamente Preproducción H10 | Se aprueba OVAt-H10 v0.1 para preproducción proporcional, preservando candidata y siete condiciones vinculantes D-059: caso institucional, corpus/licencias, geles/nano por función y evidencia, MDS una vista/8 campos y carga, FD5 reservado, ética/seguridad/comunidades, protocolos sin modificación. No autoriza F1–F6, Carril B, FD5 ni Moodle; Gate de Realización pendiente. | Gate OVAt-H10; Decisión D-060; Especificación OVAt-H10 aprobada; Estado Maestro; Mapa de Ruta | APROBADO CON CONDICIONES PARA PREPRODUCCIÓN |
+
+
+## Nota operativa · 2026-10-31 · Preproducción H10 candidata sin nueva decisión
+
+Se produjo y publicó en `main` la Preproducción OVAt-H10 v0.1 CANDIDATA y se abrió la ficha candidata del Gate de Realización H10. Caso rector candidato: Rembrandt, _The Night Watch_, Rijksmuseum, Operation Night Watch, con fuentes institucionales verificadas y restricciones expresas de atribución de geles/nano, derechos de imágenes, accesibilidad y carga. **No hay decisión humana de Realización ni activación Carril B H10, F1–F6, FD5 o Moodle.** El siguiente Gate conserva autoridad humana y D-058 continúa experimental.
