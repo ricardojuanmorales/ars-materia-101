@@ -186,3 +186,8 @@ Se redactó la descripción Moodle de F3 Lectura Oficial v0.2 ilustrada (10 pág
 ## Nota operativa · 2026-11-01 · PM2-H10 montaje reportado y apertura secuencial PM3
 
 El docente informó **«PM2 Montado, procedemos com PM3»**. La expresión constituye evidencia humana de **montaje reportado** del paquete PM2 (F2 Presentación + F3 Lectura, con descripciones), no evidencia independiente de QA Moodle ni aprobación retroactiva de archivos binarios no archivados en GitHub. Se habilita continuidad operativa a **PM3 = F4 Actividad Central** comenzando por PM3-01 Página v0.1 CANDIDATA. PM3-02/03/04/05/06 seguirán solo mediante producción y evaluación selectiva, sin crear tareas redundantes. FD5 RESERVADO. Sin nueva decisión D-XXX; D-061 rige Carril B H10.
+
+
+## Nota operativa · 2026-11-01 · PM3-01 Página de Actividad Central H10 candidata
+
+Bajo D-061 se publicó en GitHub `main` la página PM3-01 v0.1 CANDIDATA para F4, titulada *Decidir sin fingir certeza*. Incorpora *The Night Watch* / Rijksmuseum, evidencia institucional delimitada y alternativas académicas explícitamente hipotéticas; usa una sola MDS-H10 de ocho campos. **No existe aprobación humana de PM3-01, montaje Moodle ni QA verificada.** PM3-02/03/04/05/06 no iniciados; FD5 reservado. El protocolo experimental v0.3 no se modifica.
