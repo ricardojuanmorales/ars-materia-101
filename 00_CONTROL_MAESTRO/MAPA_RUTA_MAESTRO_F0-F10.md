@@ -741,3 +741,19 @@ FEHE-H10 APROBADA · D-059
 ```
 
 No se atribuyen geles/nanomateriales al caso sin evidencia. Corpus institucional verificado, derechos de imágenes concretas y accesibilidad fina sujetos a QA. **FD5 reservado** hasta autorización independiente. Patrón OVAt v1.0, Preproducción v1.0 y piloto Montaje v0.3 intactos.
+
+
+## 42. D-061 · Carril B H10 ACTIVO · F1 CANDIDATA PRODUCIDA · 2026-11-01
+
+```text
+FEHE-H10 APROBADA D-059
+→ OVAt-H10 APROBADA D-060
+→ Preproducción H10 CANDIDATA
+→ Gate de Realización H10 CERRADO · REALIZACIÓN APROBADA CON AJUSTES LOCALES NO BLOQUEANTES · D-061
+→ Carril B H10 ACTIVO
+→ F1 Bienvenida v0.1 CANDIDATA PRODUCIDA (PM1-01 piloto v0.3)
+→ revisión humana F1 + QA editorial/funcional
+→ [solo después de superar control F1] F2 candidata
+```
+
+FD5 permanece RESERVADO; no está autorizado Moodle H10 ni se declara realizado montaje/QA. Los ajustes de D-061 se registran por pieza sin modificar el Patrón OVAt v1.0, Preproducción v1.0 ni piloto Montaje v0.3.
