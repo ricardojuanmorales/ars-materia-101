@@ -176,3 +176,8 @@ El docente indicó proceder con Lectura Oficial y señaló confusión entre func
 ## Nota operativa · 2026-11-01 · Reconstrucción profunda F2/F3 H10 sin nueva decisión
 
 A partir de la crítica del docente sobre insuficiencia de profundidad y visualidad (F2: 17 vs. 25 diapositivas; F3: 6 vs. 10 páginas), se reconstruyeron **F2 v0.3 ILUSTRADA CANDIDATA con 25 diapositivas** y **F3 v0.2 ILUSTRADA CANDIDATA con 10 páginas y 8 ilustraciones**. Los archivos PPTX/PDF y DOCX/PDF se generaron y renderizaron localmente; sus huellas SHA se anotaron en registro GitHub. Se conservan versiones anteriores como antecedentes. El protocolo operativo piloto v0.3 no se modifica; se reconoce necesidad de un control posterior de suficiencia editorial. **No existe aprobación humana de estas nuevas candidatas**, ni publicación binaria en GitHub ni montaje Moodle. PM2-02 anterior desactualizada (17 láminas); PM2-04 pendiente; F4 y FD5 no activados.
+
+
+## Nota operativa · 2026-11-01 · PM2-04 Descripción Lectura Oficial H10
+
+Se redactó la descripción Moodle de F3 Lectura Oficial v0.2 ilustrada (10 páginas), en formato editorial estándar de H9, incluyendo citación y uso de IA. Publicada como **PM2-04 v0.1 CANDIDATA** en GitHub `main`, sin nueva D-XXX. Se validó la correspondencia temática y paginación frente al PDF de lectura. El docente no ha aprobado todavía F2 v0.3 ni F3 v0.2; Moodle, F4 y FD5 siguen pendientes.
