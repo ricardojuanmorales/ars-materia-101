@@ -757,3 +757,18 @@ FEHE-H10 APROBADA D-059
 ```
 
 FD5 permanece RESERVADO; no está autorizado Moodle H10 ni se declara realizado montaje/QA. Los ajustes de D-061 se registran por pieza sin modificar el Patrón OVAt v1.0, Preproducción v1.0 ni piloto Montaje v0.3.
+
+
+## 43. F1-H10 aprobada; F2 habilitada como candidata · 2026-11-01
+
+```text
+Carril B H10 ACTIVO · D-061
+→ F1 Bienvenida v0.1 CANDIDATA + Imagen PM1-02 + descripción PM1-03
+→ APROBACIÓN HUMANA EDITORIAL F1 · 2026-11-01
+→ Bienvenida F1 v1.0 APROBADA PARA MONTAJE y descripción archivada en GitHub
+→ PNG imagen: archivo binario/QA aún NO verificados en GitHub
+→ F2 Marco FEHE-H10 v0.1 CANDIDATA AUTORIZADA PARA PRODUCCIÓN
+→ [revisión humana y QA de F2] F3, no antes
+```
+
+**Estados separados:** aprobación editorial ≠ archivo de imagen ≠ montaje Moodle ≠ QA situado. D-058 sigue siendo piloto experimental; FD5 no se activa.
