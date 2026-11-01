@@ -802,3 +802,16 @@ F1-H10 aprobada editorialmente
 ```
 
 PPTX binario aún no archivado en GitHub; F3, FD5 y Moodle no activados/verificados. El piloto v0.3 sigue congelado.
+
+
+## 46. Aclaración F/PM, F3-H10 Lectura Oficial candidata · 2026-11-01
+
+```text
+FUNCIONES CANÓNICAS             PROMPTS DEL PAQUETE OPERATIVO PM2
+F2 Presentación FEHE         → PM2-01 presentación + PM2-02 descripción
+F3 Lectura/Profundización    → PM2-03 lectura + PM2-04 descripción
+F4 Actividad central         → PM3 (NO es la lectura)
+FD5 Espiral de Casos         → PM4 condicional, RESERVADO
+```
+
+F2 v0.2 y F3 v0.1 CANDIDATAS producidas. F3 Word/PDF local 6 páginas, control documental GitHub publicado; PM2-04 aún no elaborado. **No existe aprobación humana expresa F2**, ni montaje Moodle o autorización F4/FD5.
