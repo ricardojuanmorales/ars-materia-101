@@ -771,3 +771,11 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - La descripción sigue el formato estándar H9: título, dos párrafos sustantivos, cita sugerida y declaración detallada de IA. Contraste con PDF real 10 páginas y ocho imágenes (portada IA + siete diagramas).
 - Archivo: `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_OVAt_H10_F3_Descripcion_Lectura_Oficial_v0.1_CANDIDATA.md`.
 - **F2 v0.3 y F3 v0.2 continúan CANDIDATAS sin aprobación humana; Moodle no montado/QA no verificado.** No se activa F4 ni FD5.
+
+
+## 50. PM2-H10 montaje reportado; transición a PM3 · 2026-11-01
+
+- El docente declara **«PM2 Montado»**. Registrar **MONTADO REPORTADO POR DOCENTE** para paquete operativo PM2, que contiene **F2 Presentación FEHE (PM2-01/02)** y **F3 Lectura Oficial (PM2-03/04)**; no implica **QA MOODLE VERIFICADO**, ni publicación binaria en GitHub ni aprobación documental retroactiva de versiones candidatas. Solicitar aclaración solo si una auditoría posterior identifica discrepancia entre piezas montadas y registro.
+- **Siguiente paquete:** PM3, correspondiente a **F4 Actividad Central**. Secuencia operativa: PM3-01 página, PM3-02 descripción, PM3-03 guía de autoestudio con MDS, PM3-04 descripción guía, PM3-05 ilustración problematizadora, PM3-06 descripción imagen. Aplicación selectiva conforme a OVAt.
+- **Un solo producto reusable:** MDS-H10, ocho campos/una vista, sin entrega ni investigación duplicada; caso rector *The Night Watch*, Rijksmuseum. No solicitar tratamientos reales.
+- **Próximo movimiento único:** PM3-01 Página de Actividad Central v0.1 CANDIDATA para revisión docente; no generar todas las piezas de PM3 en lote. FD5 RESERVADO. QA de montaje PM2 pendiente.
