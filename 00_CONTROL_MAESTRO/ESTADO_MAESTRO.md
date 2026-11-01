@@ -763,3 +763,11 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - **Registro y SHA:** `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_F2_F3_RECONSTRUCCION_EDITORIAL_v0.1_CANDIDATA_CONTROL.md`.
 - **F2 v0.3 y F3 v0.2 NO APROBADAS todavía**. PM2-02 anterior describe 17 diapositivas, requiere actualización tras aprobación. PM2-04 aún no producida. **F4 y FD5 no activados; Moodle H10 NO montado/QA NO verificado.**
 - **Próximo único movimiento:** evaluación humana conjunta de F2 v0.3 y F3 v0.2, en comparación con modelos H9.
+
+
+## 49. PM2-04 · Descripción de Lectura Oficial H10 candidata · 2026-11-01
+
+- Se produjo y archivó en GitHub `main` la descripción Moodle **F3 Lectura Oficial H10 v0.2 ilustrada (10 páginas)** bajo **PM2-04 v0.1 CANDIDATA**.
+- La descripción sigue el formato estándar H9: título, dos párrafos sustantivos, cita sugerida y declaración detallada de IA. Contraste con PDF real 10 páginas y ocho imágenes (portada IA + siete diagramas).
+- Archivo: `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_OVAt_H10_F3_Descripcion_Lectura_Oficial_v0.1_CANDIDATA.md`.
+- **F2 v0.3 y F3 v0.2 continúan CANDIDATAS sin aprobación humana; Moodle no montado/QA no verificado.** No se activa F4 ni FD5.
