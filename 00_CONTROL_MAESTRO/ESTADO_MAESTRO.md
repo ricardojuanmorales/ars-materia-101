@@ -724,3 +724,13 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - **El binario PNG de la imagen PM1-02 NO consta archivado/verificado en GitHub**: pendiente incorporar, identificar hash, revisar rótulos y verificar QA visual. No afirmar F1 completa en Moodle.
 - **Moodle H10 NO MONTADO / QA NO VERIFICADO**; FD5 RESERVADO.
 - **Siguiente movimiento editorial:** producir F2 Marco FEHE-H10 v0.1 CANDIDATA con PM2-01, respetando revisión humana posterior; sin abrir F3. Montaje y QA F1 quedan en carril de implementación diferenciado.
+
+
+## 45. F2 · Presentación FEHE-H10 v0.1 CANDIDATA producida · 2026-11-01
+
+- Bajo Carril B H10 D-061, y tras aprobación editorial F1, se produjo el **PPTX editable F2 Marco FEHE-H10 v0.1 CANDIDATO**, con **17 diapositivas** (16 contenido + 1 fuentes), carga estimada 15–18 minutos, PM2-01 del piloto v0.3.
+- Eje: cuatro lentes FEHE → conservación como decisión, *Operation Night Watch* (Rijksmuseum), distinción evidencia/inferencia, alternativas, riesgos, ética, MDS ocho campos, puente F3.
+- **QA técnico local:** renderizadas 17/17, prueba sin desbordamientos. Diagramas propios editables, ninguna fotografía protegida ni figura científica falsamente atribuida.
+- **PPTX aún no archivado en GitHub**; storyboard/QA canónico sí publicado en `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_OVAt_H10_F2_Presentacion_FEHE_v0.1_CANDIDATA_STORYBOARD_QA.md`. La versión operativa PPTX es descargable desde la conversación; no afirmar sincronización local del docente.
+- **F2 pendiente de revisión y aprobación humana**; no montar ni declarar QA Moodle. PM2-02 descripción Moodle y F3 pendientes hasta revisión final de F2. FD5 RESERVADO. F1 aprobada editorialmente, sin constancia Moodle.
+- **Próximo movimiento único:** evaluación docente de PPTX F2 candidata.
