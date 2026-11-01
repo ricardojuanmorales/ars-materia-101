@@ -815,3 +815,17 @@ FD5 Espiral de Casos         → PM4 condicional, RESERVADO
 ```
 
 F2 v0.2 y F3 v0.1 CANDIDATAS producidas. F3 Word/PDF local 6 páginas, control documental GitHub publicado; PM2-04 aún no elaborado. **No existe aprobación humana expresa F2**, ni montaje Moodle o autorización F4/FD5.
+
+
+## 47. Reconstrucción profunda F2/F3 H10 · 2026-11-01
+
+```text
+Observación docente: desvío editorial 17/6 respecto del estándar solicitado 25/10
+→ F2-H10 v0.3 ILUSTRADA CANDIDATA · 25 láminas · QA PDF 25/25
+→ F3-H10 v0.2 ILUSTRADA CANDIDATA · 10 páginas · 8 figuras · QA PDF 10/10
+→ Registro canónico textual + SHA de artefactos de sesión
+→ REVISIÓN HUMANA conjunta F2/F3 PENDIENTE
+→ [solo tras aprobación] PM2-02 descripción F2 a 25 láminas, PM2-04 descripción F3 y cierre editorial
+```
+
+**F2 (función)=PM2-01/PM2-02; F3 (función)=PM2-03/PM2-04.** El paquete PM2 es operativo; no modifica la arquitectura curricular. Piloto v0.3 permanece congelado D-058; F4 y FD5 aún no autorizados/montados, Moodle sin QA.
