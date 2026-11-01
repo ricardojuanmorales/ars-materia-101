@@ -847,3 +847,16 @@ PM2 = F2 (Presentación PM2-01/02) + F3 (Lectura PM2-03/04)
 ```
 
 MDS-H10 única de ocho campos/una vista. FD5 del Espiral permanece RESERVADO y no se abre al ejecutar PM3.
+
+
+## 49. PM3-01 F4 H10 candidata · 2026-11-01
+
+```text
+PM2 MONTADO REPORTADO → PM3 = F4 Actividad Central
+→ PM3-01 Página v0.1 CANDIDATA PRODUCIDA en GitHub
+→ revisión docente y QA de página
+→ [si aprobación] PM3-02 descripción de actividad
+→ PM3-03/04 Guía MDS y descripción, PM3-05/06 ilustración y descripción, sujetos a secuencia
+```
+
+MDS ocho campos / una vista, único producto; FD5 reservado, PM3 no implica habilitación de foros ni actividades extra.
