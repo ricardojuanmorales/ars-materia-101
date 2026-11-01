@@ -704,3 +704,13 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - **Carril B H10 CERRADO, F1–F6 NO AUTORIZADAS, FD5 RESERVADO y Moodle H10 NO ACTIVADO.** Piloto de Montaje v0.3 sigue no validado D-058.
 - Rutas: `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_PREPRODUCCION_OVAT_H10_v0.1_CANDIDATA.md` y `18_DOCUMENTACION_ACTIVA/GATE_REALIZACION_H10_v0.1_CANDIDATO.md`.
 - **Próximo movimiento único:** decisión humana Gate de Realización H10.
+
+
+## 43. D-061 · Realización H10 aprobada; Carril B activo; F1 candidata · 2026-11-01
+
+- Gate humano de Realización H10: **CERRADO · REALIZACIÓN APROBADA CON AJUSTES LOCALES NO BLOQUEANTES · D-061**. Preproducción H10 aprobada para producción secuencial.
+- **Carril B H10 ACTIVO**, comenzando exclusivamente por **F1 · Bienvenida H10 v0.1 CANDIDATA**, ya producida y publicada en GitHub; **NO** aprobada aún para montaje.
+- Seis controles: enlaces/licencias verificables; precisión de fuentes y no atribuir geles/nano a *The Night Watch*; accesibilidad textual/alt; medición de carga; simulaciones académicas rotuladas; **FD5 RESERVADO**.
+- Protocolo de Montaje v0.3 sigue piloto experimental D-058, sin modificación ni validación; PM1-01 usado para producir F1 y registrar QA inicial.
+- **Moodle H10: NO MONTADO/NO VERIFICADO**; F2–F6 aún NO PRODUCIDAS. Gate Integral H9 independiente.
+- **Único próximo movimiento:** revisión docente / QA editorial y funcional de F1; no abrir F2 hasta superar control.
