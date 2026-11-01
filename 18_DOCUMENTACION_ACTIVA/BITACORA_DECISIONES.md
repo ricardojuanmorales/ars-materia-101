@@ -181,3 +181,8 @@ A partir de la crítica del docente sobre insuficiencia de profundidad y visuali
 ## Nota operativa · 2026-11-01 · PM2-04 Descripción Lectura Oficial H10
 
 Se redactó la descripción Moodle de F3 Lectura Oficial v0.2 ilustrada (10 páginas), en formato editorial estándar de H9, incluyendo citación y uso de IA. Publicada como **PM2-04 v0.1 CANDIDATA** en GitHub `main`, sin nueva D-XXX. Se validó la correspondencia temática y paginación frente al PDF de lectura. El docente no ha aprobado todavía F2 v0.3 ni F3 v0.2; Moodle, F4 y FD5 siguen pendientes.
+
+
+## Nota operativa · 2026-11-01 · PM2-H10 montaje reportado y apertura secuencial PM3
+
+El docente informó **«PM2 Montado, procedemos com PM3»**. La expresión constituye evidencia humana de **montaje reportado** del paquete PM2 (F2 Presentación + F3 Lectura, con descripciones), no evidencia independiente de QA Moodle ni aprobación retroactiva de archivos binarios no archivados en GitHub. Se habilita continuidad operativa a **PM3 = F4 Actividad Central** comenzando por PM3-01 Página v0.1 CANDIDATA. PM3-02/03/04/05/06 seguirán solo mediante producción y evaluación selectiva, sin crear tareas redundantes. FD5 RESERVADO. Sin nueva decisión D-XXX; D-061 rige Carril B H10.
