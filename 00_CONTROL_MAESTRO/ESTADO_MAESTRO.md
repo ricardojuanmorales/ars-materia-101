@@ -743,3 +743,12 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - **No existe aún aprobación humana expresa de F2 v0.2**: sólo autorización para producir la descripción. PPTX, descripción y montaje/QA Moodle no deben marcarse aprobados o verificados.
 - Protocolo v0.3 congelado D-058 sin modificación. F3 y FD5 no activados.
 - **Próximo movimiento único:** revisión y aprobación humana del paquete F2 v0.2 (PPTX + descripción).
+
+
+## 47. Correspondencia F/PM aclarada; F3-H10 Lectura Oficial candidata · 2026-11-01
+
+- **F2 Presentación FEHE:** PM2-01 (PPTX v0.2 ilustrada CANDIDATA) y PM2-02 (descripción Moodle CANDIDATA).
+- **F3 Lectura Oficial:** PM2-03 (DOCX/PDF v0.1 CANDIDATOS producidos y renderizados, 6 páginas) y PM2-04 (descripción PENDIENTE de aprobación de lectura). PM2 es paquete operativo que cubre dos funciones F2+F3, no una función curricular.
+- Registro canónico: `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_OVAt_H10_F3_Lectura_Oficial_v0.1_CANDIDATA_CONTROL.md`. Los binarios DOCX/PDF son archivos operativos de sesión, NO verificados en GitHub.
+- La solicitud de producir F3 **NO aprueba retroactivamente F2**. Ambas piezas se mantienen CANDIDATAS, con revisión docente pendiente; F4, FD5 y Moodle no activados.
+- Próximo movimiento: revisión humana de F2/F3; luego PM2-04 descripción de Lectura Oficial si se confirma el documento.
