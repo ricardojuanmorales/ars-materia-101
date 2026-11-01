@@ -787,3 +787,18 @@ Carril B H10 D-061
 ```
 
 FD5 reservado, F3 no iniciado, Moodle H10 no montado ni verificado. Protocolo experimental v0.3 sin mutaciones.
+
+
+## 45. F2-H10 v0.2 ilustrada + PM2-02 descripción candidata · 2026-11-01
+
+```text
+F1-H10 aprobada editorialmente
+→ F2-H10 v0.1 CANDIDATA (17 diapositivas)
+→ referencia estética H9 recuperada a petición del docente
+→ F2-H10 v0.2 ILUSTRADA CANDIDATA (portada IA conceptual, cuerpo preservado)
+→ PM2-02 Descripción Moodle v0.1 CANDIDATA archivada en GitHub
+→ evaluación humana de F2 PENDIENTE
+→ [sólo tras aprobación] cierre editorial F2 y siguiente módulo autorizado
+```
+
+PPTX binario aún no archivado en GitHub; F3, FD5 y Moodle no activados/verificados. El piloto v0.3 sigue congelado.
