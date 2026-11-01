@@ -772,3 +772,18 @@ Carril B H10 ACTIVO · D-061
 ```
 
 **Estados separados:** aprobación editorial ≠ archivo de imagen ≠ montaje Moodle ≠ QA situado. D-058 sigue siendo piloto experimental; FD5 no se activa.
+
+
+## 44. F2 H10 candidata producida · 2026-11-01
+
+```text
+Carril B H10 D-061
+→ F1 Bienvenida APROBADA EDITORIALMENTE
+→ PM2-01 · Presentación FEHE-H10 v0.1 CANDIDATA (PPTX 17 diapositivas)
+→ QA local de render/desbordamientos PASS
+→ Storyboard/QA MD publicado en GitHub, PPTX aún solo archivo operativo de sesión
+→ Gate editorial humano F2 PENDIENTE
+→ [tras aprobar F2] PM2-02 descripción Moodle / siguiente pieza según protocolo
+```
+
+FD5 reservado, F3 no iniciado, Moodle H10 no montado ni verificado. Protocolo experimental v0.3 sin mutaciones.
