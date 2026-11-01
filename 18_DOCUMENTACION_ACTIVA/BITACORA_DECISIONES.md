@@ -191,3 +191,8 @@ El docente informó **«PM2 Montado, procedemos com PM3»**. La expresión const
 ## Nota operativa · 2026-11-01 · PM3-01 Página de Actividad Central H10 candidata
 
 Bajo D-061 se publicó en GitHub `main` la página PM3-01 v0.1 CANDIDATA para F4, titulada *Decidir sin fingir certeza*. Incorpora *The Night Watch* / Rijksmuseum, evidencia institucional delimitada y alternativas académicas explícitamente hipotéticas; usa una sola MDS-H10 de ocho campos. **No existe aprobación humana de PM3-01, montaje Moodle ni QA verificada.** PM3-02/03/04/05/06 no iniciados; FD5 reservado. El protocolo experimental v0.3 no se modifica.
+
+
+## Nota operativa · 2026-11-01 · Montaje PM3-02 reportado y PM3-03 Guía H10 candidata
+
+El docente informa **«Montada PM3-02. Adelante con PM3-03.»** Se registra **MONTADO REPORTADO POR DOCENTE** para descripción de la página de Actividad Central, sin evidencia de QA situado. Se produjo Guía de Autoestudio PM3-03 H10 v0.1 ILUSTRADA CANDIDATA, Word editable y PDF (5 páginas) con mini-dossier Rijksmuseum, 3 esquemas originales, escenario de deliberación hipotético y única MDS-H10 de ocho campos en una vista. Render 5/5 y enlaces verificados en PDF; archivo de control en GitHub `main`; binarios todavía locales a esta sesión. Guía no aprobada ni montada. PM3-04/05/06 y FD5 pendientes. Sin nueva D-XXX.
