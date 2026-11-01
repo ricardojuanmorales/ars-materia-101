@@ -171,3 +171,8 @@ El docente aportó presentación ilustrada H9 como precedente editorial y solici
 ## Nota operativa · 2026-11-01 · Aclaración F/PM y Lectura Oficial H10
 
 El docente indicó proceder con Lectura Oficial y señaló confusión entre funciones F y paquetes PM. Se aclaró **F2=presentación (PM2-01/02); F3=lectura (PM2-03/04)**. Se produjeron F3 v0.1 DOCX y PDF candidatos (6 páginas), con lectura argumentativa diferenciada de F2, fuentes Rijksmuseum, límites explícitos de tratamiento/tecnologías y preparación de MDS. Se publicó registro MD de F3 en GitHub. **La producción de F3 no constituye aprobación humana de F2 ni F3**, no activa PM2-04, F4, FD5 o Moodle; no se crea D-XXX. PM2 v0.3 congelado sin modificación.
+
+
+## Nota operativa · 2026-11-01 · Reconstrucción profunda F2/F3 H10 sin nueva decisión
+
+A partir de la crítica del docente sobre insuficiencia de profundidad y visualidad (F2: 17 vs. 25 diapositivas; F3: 6 vs. 10 páginas), se reconstruyeron **F2 v0.3 ILUSTRADA CANDIDATA con 25 diapositivas** y **F3 v0.2 ILUSTRADA CANDIDATA con 10 páginas y 8 ilustraciones**. Los archivos PPTX/PDF y DOCX/PDF se generaron y renderizaron localmente; sus huellas SHA se anotaron en registro GitHub. Se conservan versiones anteriores como antecedentes. El protocolo operativo piloto v0.3 no se modifica; se reconoce necesidad de un control posterior de suficiencia editorial. **No existe aprobación humana de estas nuevas candidatas**, ni publicación binaria en GitHub ni montaje Moodle. PM2-02 anterior desactualizada (17 láminas); PM2-04 pendiente; F4 y FD5 no activados.
