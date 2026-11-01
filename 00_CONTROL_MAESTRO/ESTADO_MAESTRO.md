@@ -714,3 +714,13 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Protocolo de Montaje v0.3 sigue piloto experimental D-058, sin modificación ni validación; PM1-01 usado para producir F1 y registrar QA inicial.
 - **Moodle H10: NO MONTADO/NO VERIFICADO**; F2–F6 aún NO PRODUCIDAS. Gate Integral H9 independiente.
 - **Único próximo movimiento:** revisión docente / QA editorial y funcional de F1; no abrir F2 hasta superar control.
+
+
+## 44. F1-H10 aprobada editorialmente · 2026-11-01
+
+- Aprobación humana textual: **«F1 Aprobada»**. Abarca Bienvenida F1 y paquete PM1 de imagen conceptual/descripción ya presentado en conversación.
+- Bienvenida F1 v1.0 **APROBADA PARA MONTAJE** publicada en `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_OVAt_H10_F1_Bienvenida_v1.0_APROBADA_PARA_MONTAJE.md`; candidata original conservada.
+- Descripción breve aprobada de imagen PM1-03 y propuesta de alt text en `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_OVAt_H10_F1_Imagen_Conceptual_Descripcion_v1.0_APROBADA.md`.
+- **El binario PNG de la imagen PM1-02 NO consta archivado/verificado en GitHub**: pendiente incorporar, identificar hash, revisar rótulos y verificar QA visual. No afirmar F1 completa en Moodle.
+- **Moodle H10 NO MONTADO / QA NO VERIFICADO**; FD5 RESERVADO.
+- **Siguiente movimiento editorial:** producir F2 Marco FEHE-H10 v0.1 CANDIDATA con PM2-01, respetando revisión humana posterior; sin abrir F3. Montaje y QA F1 quedan en carril de implementación diferenciado.
