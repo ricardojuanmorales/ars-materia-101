@@ -151,3 +151,8 @@ Se produjo y publicó en `main` la Preproducción OVAt-H10 v0.1 CANDIDATA y se a
 ## Nota operativa · 2026-11-01 · F1-H10 candidata producida
 
 Usando PM1-01 del Protocolo Maestro de Montaje v0.3 congelado, se publicó F1 · Bienvenida H10 v0.1 CANDIDATA en `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/`, como primer componente de Carril B bajo D-061. QA editorial preliminar, sin revisión humana todavía y sin montaje Moodle. F2 permanece en espera de QA F1. FD5 cerrado.
+
+
+## Nota de aprobación humana de pieza · 2026-11-01 · F1-H10
+
+El docente declara **«F1 Aprobada»** tras revisar Bienvenida PM1-01, Imagen Conceptual Problematizadora PM1-02 y descripción breve PM1-03. **F1 queda APROBADA EDITORIALMENTE PARA MONTAJE**, sin nueva D-XXX, porque se trata del control secuencial bajo D-061. Se creó versión aprobada de Bienvenida F1 preservando candidata y se archivó descripción breve con cláusula de IA no probatoria. **Imagen PNG:** recurso de sesión generado, pero su archivo binario no está verificado en GitHub; incorporación canónica/QA visual quedan pendientes. **Moodle:** no montado ni QA verificado. **F2:** autorizada exclusivamente su producción como CANDIDATA, sometida a revisión antes de F3. Protocolo piloto v0.3 D-058 permanece congelado y FD5 RESERVADO.
