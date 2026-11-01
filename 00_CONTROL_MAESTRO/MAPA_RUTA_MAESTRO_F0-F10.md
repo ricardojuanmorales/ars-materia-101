@@ -829,3 +829,21 @@ Observación docente: desvío editorial 17/6 respecto del estándar solicitado 2
 ```
 
 **F2 (función)=PM2-01/PM2-02; F3 (función)=PM2-03/PM2-04.** El paquete PM2 es operativo; no modifica la arquitectura curricular. Piloto v0.3 permanece congelado D-058; F4 y FD5 aún no autorizados/montados, Moodle sin QA.
+
+
+## 48. PM2 montado reportado → PM3 F4 · 2026-11-01
+
+```text
+PM2 = F2 (Presentación PM2-01/02) + F3 (Lectura PM2-03/04)
+→ MONTADO REPORTADO POR DOCENTE · QA MOODLE AÚN NO VERIFICADO
+→ PM3 = F4 Actividad Central (NO FD5)
+   → PM3-01 Página de actividad CANDIDATA · PRÓXIMO
+   → PM3-02 Descripción de actividad
+   → PM3-03 Guía de autoestudio con MDS-H10
+   → PM3-04 Descripción de guía
+   → PM3-05 Ilustración problematizadora
+   → PM3-06 Descripción de ilustración
+→ revisión y montaje secuencial con QA por pieza
+```
+
+MDS-H10 única de ocho campos/una vista. FD5 del Espiral permanece RESERVADO y no se abre al ejecutar PM3.
