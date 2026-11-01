@@ -787,3 +787,12 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Página Moodle con caso rector *The Night Watch*, tres hitos institucionales, escenarios de decisión A/B/C **hipotéticos rotulados** y **MDS-H10 única de ocho campos**. Sin manipulación real ni entrega extra. Carga estimada 22–28 min.
 - **Estado:** CANDIDATA PARA REVISIÓN DOCENTE; NO MONTADA NI QA VERIFICADA. PM2 montado reportado por docente, QA separado pendiente. **PM3-02 a PM3-06 aún no producidos**; FD5 reservado.
 - **Próximo movimiento:** evaluación humana de PM3-01 antes de su descripción.
+
+
+## 52. PM3-02 montada reportada; PM3-03 Guía H10 candidata · 2026-11-01
+
+- Declaración humana **«Montada PM3-02»**, registrada como **MONTADO REPORTADO POR DOCENTE** para descripción de actividad. No equivale a QA Moodle verificado; no presume montaje de PM3-01.
+- Se produjo **PM3-03 Guía de Autoestudio v0.1 ILUSTRADA CANDIDATA** (Word editable y PDF local, 5 páginas, 3 figuras conceptuales, enlaces y MDS-H10 de ocho campos en una sola vista). Artefactos binarios en sesión, aún NO archivados/verificados en GitHub.
+- Registro de producción: `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_OVAt_H10_PM3-03_Guia_Autoestudio_v0.1_CANDIDATA_CONTROL.md`.
+- **Estado:** CANDIDATA PARA REVISIÓN DOCENTE; NO MONTADA NI QA VERIFICADA. PM3-04/05/06 pendientes; FD5 reservado; protocolo piloto v0.3 sin cambio.
+- **Próximo movimiento único:** evaluación humana de la guía PM3-03 antes de producir PM3-04.
