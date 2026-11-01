@@ -804,3 +804,12 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Ruta: `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_OVAt_H10_PM3-04_Descripcion_Guia_Autoestudio_v0.1_CANDIDATA.md`.
 - **PM3-04 NO MONTADA; QA Moodle no verificado**. Producción no implica aprobación docente de PM3-03 ni de PM3-04; PM3-05/06 sin iniciar y FD5 reservado. No modificar piloto v0.3.
 - **Próximo movimiento único:** revisión humana de PM3-04 antes de proceder a PM3-05.
+
+
+## 54. PM3-04 montaje reportado; PM3-05 ilustración H10 candidata · 2026-11-01
+
+- El docente declara **«PM3-04 Montada»**, registrado **MONTADO REPORTADO POR DOCENTE**, sin QA Moodle independiente ni aprobación documental retroactiva.
+- Bajo PM3-05 / F4 se generó una **ilustración problematizadora conceptual IA v0.1 CANDIDATA**, 1672×941 px, que presenta una decisión abierta ante un escenario ficticio evocador de *La ronda de noche*. La imagen no es fotografía, micrografía, registro del Rijksmuseum ni representación real de tratamientos. No se atribuyen decisiones o técnicas ilustradas al museo.
+- Registro y SHA-256: `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_OVAt_H10_PM3-05_Ilustracion_Problematizadora_v0.1_CANDIDATA_CONTROL.md`. PNG operativo disponible desde la sesión; **binario no archivado/verificado en GitHub**.
+- **Estado PM3-05:** CANDIDATA PARA REVISIÓN DOCENTE; NO MONTADA, QA situado pendiente. PM3-06 descripción/alt text PENDIENTE. FD5 RESERVADO. Piloto v0.3 congelado.
+- **Próximo movimiento:** evaluación humana de PM3-05, después descripción PM3-06 si procede.
