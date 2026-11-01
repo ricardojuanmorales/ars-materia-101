@@ -166,3 +166,8 @@ Se produjo la presentación editable F2-H10 con **17 láminas** en archivo PPTX 
 ## Nota operativa · 2026-11-01 · Revisión visual F2 y descripción PM2-02
 
 El docente aportó presentación ilustrada H9 como precedente editorial y solicitó recuperar especialmente la identidad visual inicial. Se generó F2-H10 v0.2 ILUSTRADA CANDIDATA (17 diapositivas, nueva portada con imagen IA conceptual F1, cuerpo v0.1 preservado), con renderizado local. A continuación, el docente solicitó ajustar la descripción al formato estándar H9 y expresó «Adelante» para registrarla. Se publicó en GitHub la descripción Moodle PM2-02 v0.1 **CANDIDATA**, con citación y declaración de IA proporcionadas. **No hay aprobación humana expresa de F2 v0.2, ni archivo binario GitHub ni montaje/QA Moodle.** No crear D-XXX y no abrir F3/FD5.
+
+
+## Nota operativa · 2026-11-01 · Aclaración F/PM y Lectura Oficial H10
+
+El docente indicó proceder con Lectura Oficial y señaló confusión entre funciones F y paquetes PM. Se aclaró **F2=presentación (PM2-01/02); F3=lectura (PM2-03/04)**. Se produjeron F3 v0.1 DOCX y PDF candidatos (6 páginas), con lectura argumentativa diferenciada de F2, fuentes Rijksmuseum, límites explícitos de tratamiento/tecnologías y preparación de MDS. Se publicó registro MD de F3 en GitHub. **La producción de F3 no constituye aprobación humana de F2 ni F3**, no activa PM2-04, F4, FD5 o Moodle; no se crea D-XXX. PM2 v0.3 congelado sin modificación.
