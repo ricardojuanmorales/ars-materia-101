@@ -796,3 +796,11 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Registro de producción: `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_OVAt_H10_PM3-03_Guia_Autoestudio_v0.1_CANDIDATA_CONTROL.md`.
 - **Estado:** CANDIDATA PARA REVISIÓN DOCENTE; NO MONTADA NI QA VERIFICADA. PM3-04/05/06 pendientes; FD5 reservado; protocolo piloto v0.3 sin cambio.
 - **Próximo movimiento único:** evaluación humana de la guía PM3-03 antes de producir PM3-04.
+
+
+## 53. PM3-04 · Descripción Guía de Autoestudio H10 candidata · 2026-11-01
+
+- Se produjo y archivó en GitHub `main` **PM3-04 Descripción Moodle de Guía de Autoestudio H10 v0.1 CANDIDATA**, con cuatro párrafos estándar de H8/H9 y citación/uso de IA, concordante con PM3-03 DOCX de 5 páginas, 3 diagramas y MDS ocho campos/una vista.
+- Ruta: `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_OVAt_H10_PM3-04_Descripcion_Guia_Autoestudio_v0.1_CANDIDATA.md`.
+- **PM3-04 NO MONTADA; QA Moodle no verificado**. Producción no implica aprobación docente de PM3-03 ni de PM3-04; PM3-05/06 sin iniciar y FD5 reservado. No modificar piloto v0.3.
+- **Próximo movimiento único:** revisión humana de PM3-04 antes de proceder a PM3-05.
