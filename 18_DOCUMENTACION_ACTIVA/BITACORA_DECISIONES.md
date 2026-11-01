@@ -161,3 +161,8 @@ El docente declara **«F1 Aprobada»** tras revisar Bienvenida PM1-01, Imagen Co
 ## Nota operativa · 2026-11-01 · F2 Presentación H10 v0.1 CANDIDATA
 
 Se produjo la presentación editable F2-H10 con **17 láminas** en archivo PPTX operativo y se publicó en GitHub `main` el storyboard y QA de PM2-01 v0.3. Render 17/17 y prueba de desbordamiento PASÓ. Presentación centrada en las cuatro lentes FEHE, *Operation Night Watch*, evidencia/diagnóstico, alternativas, riesgos, actores y MDS. Ninguna imagen de Rijksmuseum incrustada ni atribución de geles/nano. **PPTX binario aún no sincronizado en GitHub**; F2 **CANDIDATA SIN APROBACIÓN HUMANA**, Moodle/QA no realizado. PM2-02 y F3 no iniciados. No se crea D-XXX, FD5 continúa reservado.
+
+
+## Nota operativa · 2026-11-01 · Revisión visual F2 y descripción PM2-02
+
+El docente aportó presentación ilustrada H9 como precedente editorial y solicitó recuperar especialmente la identidad visual inicial. Se generó F2-H10 v0.2 ILUSTRADA CANDIDATA (17 diapositivas, nueva portada con imagen IA conceptual F1, cuerpo v0.1 preservado), con renderizado local. A continuación, el docente solicitó ajustar la descripción al formato estándar H9 y expresó «Adelante» para registrarla. Se publicó en GitHub la descripción Moodle PM2-02 v0.1 **CANDIDATA**, con citación y declaración de IA proporcionadas. **No hay aprobación humana expresa de F2 v0.2, ni archivo binario GitHub ni montaje/QA Moodle.** No crear D-XXX y no abrir F3/FD5.
