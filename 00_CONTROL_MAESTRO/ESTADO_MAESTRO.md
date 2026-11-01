@@ -779,3 +779,11 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - **Siguiente paquete:** PM3, correspondiente a **F4 Actividad Central**. Secuencia operativa: PM3-01 página, PM3-02 descripción, PM3-03 guía de autoestudio con MDS, PM3-04 descripción guía, PM3-05 ilustración problematizadora, PM3-06 descripción imagen. Aplicación selectiva conforme a OVAt.
 - **Un solo producto reusable:** MDS-H10, ocho campos/una vista, sin entrega ni investigación duplicada; caso rector *The Night Watch*, Rijksmuseum. No solicitar tratamientos reales.
 - **Próximo movimiento único:** PM3-01 Página de Actividad Central v0.1 CANDIDATA para revisión docente; no generar todas las piezas de PM3 en lote. FD5 RESERVADO. QA de montaje PM2 pendiente.
+
+
+## 51. PM3-01 H10 · Página de Actividad Central candidata · 2026-11-01
+
+- **PM3-01 v0.1 CANDIDATA PRODUCIDA** en Carril B D-061, función curricular **F4**, paquete operativo **PM3**. Archivo: `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_OVAt_H10_PM3-01_Pagina_Actividad_Central_v0.1_CANDIDATA.md`.
+- Página Moodle con caso rector *The Night Watch*, tres hitos institucionales, escenarios de decisión A/B/C **hipotéticos rotulados** y **MDS-H10 única de ocho campos**. Sin manipulación real ni entrega extra. Carga estimada 22–28 min.
+- **Estado:** CANDIDATA PARA REVISIÓN DOCENTE; NO MONTADA NI QA VERIFICADA. PM2 montado reportado por docente, QA separado pendiente. **PM3-02 a PM3-06 aún no producidos**; FD5 reservado.
+- **Próximo movimiento:** evaluación humana de PM3-01 antes de su descripción.
