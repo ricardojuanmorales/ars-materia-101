@@ -860,3 +860,17 @@ PM2 MONTADO REPORTADO → PM3 = F4 Actividad Central
 ```
 
 MDS ocho campos / una vista, único producto; FD5 reservado, PM3 no implica habilitación de foros ni actividades extra.
+
+
+## 50. PM3-02 montaje reportado; PM3-03 guía candidata · 2026-11-01
+
+```text
+PM3-01 Página de F4 v0.1 CANDIDATA (en GitHub)
+→ PM3-02 Descripción MONTADA REPORTADA POR DOCENTE (QA no verificado)
+→ PM3-03 Guía de Autoestudio ILUSTRADA v0.1 CANDIDATA (DOCX/PDF, 5 páginas, MDS única 8 campos)
+→ evaluación humana PM3-03 PENDIENTE
+→ [si procede] PM3-04 descripción de guía
+→ PM3-05 imagen y PM3-06 descripción, pendientes
+```
+
+F4 = PM3; no inventar segundo instrumento o entrega. FD5 reservado. Los archivos binarios PM3-03 no están publicados en GitHub.
