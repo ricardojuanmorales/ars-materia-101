@@ -196,3 +196,8 @@ Bajo D-061 se publicó en GitHub `main` la página PM3-01 v0.1 CANDIDATA para F4
 ## Nota operativa · 2026-11-01 · Montaje PM3-02 reportado y PM3-03 Guía H10 candidata
 
 El docente informa **«Montada PM3-02. Adelante con PM3-03.»** Se registra **MONTADO REPORTADO POR DOCENTE** para descripción de la página de Actividad Central, sin evidencia de QA situado. Se produjo Guía de Autoestudio PM3-03 H10 v0.1 ILUSTRADA CANDIDATA, Word editable y PDF (5 páginas) con mini-dossier Rijksmuseum, 3 esquemas originales, escenario de deliberación hipotético y única MDS-H10 de ocho campos en una vista. Render 5/5 y enlaces verificados en PDF; archivo de control en GitHub `main`; binarios todavía locales a esta sesión. Guía no aprobada ni montada. PM3-04/05/06 y FD5 pendientes. Sin nueva D-XXX.
+
+
+## Nota operativa · 2026-11-01 · PM3-04 Descripción Moodle de Guía H10
+
+A petición expresa del docente se produjo la descripción Moodle PM3-04 v0.1 CANDIDATA para Guía de Autoestudio PM3-03 de cinco páginas. La pieza sigue la cadencia editorial caso → dossier y MDS ocho campos → meta epistemológica → transferencia sin nueva matriz, e incorpora citación y declaración de IA. Publicada en GitHub `main`, sin nueva D-XXX ni aprobación/Moodle implícitos. PM3-05/06 no iniciados; FD5 reservado.
