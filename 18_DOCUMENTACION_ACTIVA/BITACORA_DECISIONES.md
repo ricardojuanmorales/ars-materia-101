@@ -156,3 +156,8 @@ Usando PM1-01 del Protocolo Maestro de Montaje v0.3 congelado, se publicó F1 ·
 ## Nota de aprobación humana de pieza · 2026-11-01 · F1-H10
 
 El docente declara **«F1 Aprobada»** tras revisar Bienvenida PM1-01, Imagen Conceptual Problematizadora PM1-02 y descripción breve PM1-03. **F1 queda APROBADA EDITORIALMENTE PARA MONTAJE**, sin nueva D-XXX, porque se trata del control secuencial bajo D-061. Se creó versión aprobada de Bienvenida F1 preservando candidata y se archivó descripción breve con cláusula de IA no probatoria. **Imagen PNG:** recurso de sesión generado, pero su archivo binario no está verificado en GitHub; incorporación canónica/QA visual quedan pendientes. **Moodle:** no montado ni QA verificado. **F2:** autorizada exclusivamente su producción como CANDIDATA, sometida a revisión antes de F3. Protocolo piloto v0.3 D-058 permanece congelado y FD5 RESERVADO.
+
+
+## Nota operativa · 2026-11-01 · F2 Presentación H10 v0.1 CANDIDATA
+
+Se produjo la presentación editable F2-H10 con **17 láminas** en archivo PPTX operativo y se publicó en GitHub `main` el storyboard y QA de PM2-01 v0.3. Render 17/17 y prueba de desbordamiento PASÓ. Presentación centrada en las cuatro lentes FEHE, *Operation Night Watch*, evidencia/diagnóstico, alternativas, riesgos, actores y MDS. Ninguna imagen de Rijksmuseum incrustada ni atribución de geles/nano. **PPTX binario aún no sincronizado en GitHub**; F2 **CANDIDATA SIN APROBACIÓN HUMANA**, Moodle/QA no realizado. PM2-02 y F3 no iniciados. No se crea D-XXX, FD5 continúa reservado.
