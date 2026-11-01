@@ -734,3 +734,12 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - **PPTX aún no archivado en GitHub**; storyboard/QA canónico sí publicado en `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_OVAt_H10_F2_Presentacion_FEHE_v0.1_CANDIDATA_STORYBOARD_QA.md`. La versión operativa PPTX es descargable desde la conversación; no afirmar sincronización local del docente.
 - **F2 pendiente de revisión y aprobación humana**; no montar ni declarar QA Moodle. PM2-02 descripción Moodle y F3 pendientes hasta revisión final de F2. FD5 RESERVADO. F1 aprobada editorialmente, sin constancia Moodle.
 - **Próximo movimiento único:** evaluación docente de PPTX F2 candidata.
+
+
+## 46. F2-H10 v0.2 ilustrada y descripción PM2-02 candidatas · 2026-11-01
+
+- Tras recibir la presentación H9 como referencia editorial, se actualizó la portada de F2-H10 a **v0.2 ILUSTRADA CANDIDATA**, reutilizando imagen conceptual de F1 generada con IA y preservando las restantes 16 diapositivas (total 17). PPTX renderizado localmente; no está archivado canónicamente como binario en GitHub.
+- Se creó **PM2-02 · Descripción de Presentación v0.1 CANDIDATA** conforme al formato estándar H9 aportado por el docente, en `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_OVAt_H10_F2_Descripcion_Presentacion_v0.1_CANDIDATA.md`.
+- **No existe aún aprobación humana expresa de F2 v0.2**: sólo autorización para producir la descripción. PPTX, descripción y montaje/QA Moodle no deben marcarse aprobados o verificados.
+- Protocolo v0.3 congelado D-058 sin modificación. F3 y FD5 no activados.
+- **Próximo movimiento único:** revisión y aprobación humana del paquete F2 v0.2 (PPTX + descripción).
