@@ -752,3 +752,14 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Registro canónico: `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_OVAt_H10_F3_Lectura_Oficial_v0.1_CANDIDATA_CONTROL.md`. Los binarios DOCX/PDF son archivos operativos de sesión, NO verificados en GitHub.
 - La solicitud de producir F3 **NO aprueba retroactivamente F2**. Ambas piezas se mantienen CANDIDATAS, con revisión docente pendiente; F4, FD5 y Moodle no activados.
 - Próximo movimiento: revisión humana de F2/F3; luego PM2-04 descripción de Lectura Oficial si se confirma el documento.
+
+
+## 48. Corrección editorial profunda F2/F3-H10 · 2026-11-01
+
+- **Observación humana:** v0.1/v0.2 F2 de 17 láminas y F3 v0.1 de 6 páginas no reproducían la profundidad y visualidad del estándar H9 facilitado por el docente.
+- **F2-H10 v0.3 ILUSTRADA CANDIDATA:** reconstruida a **25 diapositivas**, exportación PDF 25 páginas y revisión visual; PPTX operativo de sesión, sin publicación binaria canónica.
+- **F3-H10 v0.2 ILUSTRADA CANDIDATA:** reconstruida como lectura de **10 páginas**, DOCX+PDF, **8 imágenes** (portada conceptual IA más 7 diagramas originales), referencias institucionales con enlaces y alt text; DOCX/PDF operativos de sesión, sin publicación binaria canónica.
+- **QA técnico local:** exportación y renders conformes; desbordamiento visible de lámina 14 corregido; PDF de lectura con 9 hipervínculos a documentación institucional. Revisión docente, cotejo de enlaces y QA situado/Moodle siguen pendientes.
+- **Registro y SHA:** `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_F2_F3_RECONSTRUCCION_EDITORIAL_v0.1_CANDIDATA_CONTROL.md`.
+- **F2 v0.3 y F3 v0.2 NO APROBADAS todavía**. PM2-02 anterior describe 17 diapositivas, requiere actualización tras aprobación. PM2-04 aún no producida. **F4 y FD5 no activados; Moodle H10 NO montado/QA NO verificado.**
+- **Próximo único movimiento:** evaluación humana conjunta de F2 v0.3 y F3 v0.2, en comparación con modelos H9.
