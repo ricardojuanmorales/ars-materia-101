@@ -813,3 +813,11 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Registro y SHA-256: `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_OVAt_H10_PM3-05_Ilustracion_Problematizadora_v0.1_CANDIDATA_CONTROL.md`. PNG operativo disponible desde la sesión; **binario no archivado/verificado en GitHub**.
 - **Estado PM3-05:** CANDIDATA PARA REVISIÓN DOCENTE; NO MONTADA, QA situado pendiente. PM3-06 descripción/alt text PENDIENTE. FD5 RESERVADO. Piloto v0.3 congelado.
 - **Próximo movimiento:** evaluación humana de PM3-05, después descripción PM3-06 si procede.
+
+
+## 55. PM3-06 · Descripción ilustración H10 candidata · 2026-11-01
+
+- Se registró en GitHub `main` **PM3-06 Descripción Moodle + texto alternativo v0.1 CANDIDATA**, correspondiente exclusivamente a la imagen problematizadora **PM3-05 v0.2 ILUSTRADA CANDIDATA** tras revisión visual inspirada en H9. Archivo: `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_OVAt_H10_PM3-06_Descripcion_Ilustracion_v0.1_CANDIDATA.md`.
+- La descripción presenta historia material, esquema didáctico de capas, escalera observación/evidencia/inferencia/límite, opciones hipotéticas, valores y MDS-H10. Incluye advertencia expresa: **imagen IA no documental, ni análisis ni tratamiento real del Rijksmuseum**.
+- **PM3-05 y PM3-06 CANDIDATAS**, sin montaje/QA verificados. PM3-04 MONTADO REPORTADO POR DOCENTE. PNG v0.2 aún no verificado en GitHub. FD5 reservado; protocolo piloto v0.3 intacto.
+- Próximo movimiento: revisión humana PM3-05/06 y QA de montaje, no apertura automática de otra función.
