@@ -848,3 +848,12 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - **Control sensible:** FD5 mantiene valor **3 puntos** (Tabla V2.0); PM4-03 debe seguir **voluntaria y sin puntuación adicional**. Comprobar ajustes de Moodle y finalización no obligatoria.
 - Registro: `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_PM4_FD5_TAREA_OPCIONAL_MONTAJE_REPORTADO_Y_PM5_PRECHEQUEO_2026-11-01.md`.
 - **Siguiente movimiento:** PM5-01 verificar si F5 transferencia breve ya está integrada en PM3-03/FD5, contra OVAt-H10 §8 (contraste polimérico, 4 notas, 6–8 min, sin segunda MDS); solo producir página autónoma si falta. PM6 aún no iniciado; protocolo piloto v0.3 sin cambios.
+
+
+## 60. PM5-01 H10 · F5 transferencia integrada en guía PM3-03, constancia candidata · 2026-11-01
+
+- Se inspeccionó **contenido real del DOCX PM3-03** (5 páginas). En página 5, apartado «Transferencia breve, integrada y no obligatoria como segunda matriz», consta transferencia a una obra contemporánea con polímeros que envejecen, retomando valores, evidencia incompleta, prevención y señales de revisión; en página 4 se prohíbe una segunda ficha/MDS.
+- **Dictamen PM5-01 v0.1 CANDIDATO:** **F5 INTEGRADA EN PM3-03, página 5**, con oportunidad de ajuste editorial local no bloqueante para explicitar monitoreo y comparar prevención frente a opciones prematuras. No crear página PM5 autónoma ni actividad/entrega extra. **PM5-02 NO REQUERIDA** si el docente confirma integración.
+- Registro en GitHub: `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_PM5-01_F5_Transferencia_Integrada_Constancia_v0.1_CANDIDATA.md` con evidencia, matriz de cobertura y texto opcional de mejora que **NO ha sido insertado en el Word ni montado**.
+- **Pendientes:** confirmación docente, QA Moodle del DOCX/PDF definitivo y medición 6–8 minutos. FD5 y tarea opcional PM4 montadas por reporte humano; QA no verificado. Patrón/protocolo piloto v0.3 intactos.
+- **Próximo movimiento después de resolución:** PM6 Cierre H10 (F6), sin crear PM5 autónomo por defecto.
