@@ -830,3 +830,12 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Ficha de Gate FD5 v0.1 **CANDIDATA** y evaluación de Tarea Opcional PM4-03 v0.1 **CANDIDATA** publicadas en `18_DOCUMENTACION_ACTIVA/`. Dictamen técnico propuesto: **GO CON CONDICIONES PARA DISEÑO**, NO aprobación de Gate. FD5 sigue **RESERVADO** hasta decisión humana específica. Tarea opcional recomendada: **OMITIR por defecto**; si se requiere consolidación portable, solo voluntaria y sin nueva puntuación, autorización separada.
 - Fuente: `18_DOCUMENTACION_ACTIVA/GATE_FD5_H9-H10_v0.1_CANDIDATO_2026-11-01.md` y `18_DOCUMENTACION_ACTIVA/FD5_PM4_TAREA_OPCIONAL_EVALUACION_v0.1_CANDIDATA.md`.
 - Próximo movimiento: resolución humana FD5 y PM4-03; no montar PM4 por inercia.
+
+
+## 58. Gate humano FD5 cerrado, PM4-01 y diseño PM4-03 candidatos · 2026-11-01
+
+- **Decisión humana expresa:** GO CON CONDICIONES PARA DISEÑO Y PRODUCCIÓN CANDIDATA FD5 H9+H10, **montaje sujeto a revisión**. PM4-03 autorizada **solo como diseño candidato de consolidación voluntaria, sin puntuación adicional**, también sujeto a revisión. Acta: `18_DOCUMENTACION_ACTIVA/GATE_FD5_H9-H10_DECISION_HUMANA_2026-11-01.md`.
+- **PM4-01 FD5 v0.1 CANDIDATO** producido en `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_FD5_DECIDIR_SINTETIZAR_H9-H10_v0.1_CANDIDATO.md`. FD5: H9+H10, DECIDIR/SINTETIZAR, **3 puntos canónicos**, Cierre reflexivo del Portafolio de Casos; publicación y respuesta analítica, sin nuevo caso, sin nueva MDS/DCM, sin invadir PROEMA. Reparto 1+1+1, extensiones y carga 20–30 min son candidatos aún no aprobados.
+- **PM4-03 diseño interno v0.1 CANDIDATO** publicado: `18_DOCUMENTACION_ACTIVA/FD5_PM4-03_DISENO_CANDIDATO_CONSOLIDACION_VOLUNTARIA_v0.1.md`. Sin puntos, sin nueva investigación, NO página estudiantil ni actividad Moodle. PM4-02/04 no producidas.
+- **Estado:** Gate FD5 cerrado con alcance limitado; foro y tarea **NO APROBADOS PARA MONTAJE**, Moodle/QA pendientes. PM3 H10 MONTADO REPORTADO POR DOCENTE; QA independiente pendiente. Protocolo v0.3 y patrón validados intactos.
+- **Próximo movimiento único:** evaluación docente PM4-01 y diseño PM4-03; después PM4-02 si procede.
