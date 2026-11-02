@@ -839,3 +839,12 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - **PM4-03 diseño interno v0.1 CANDIDATO** publicado: `18_DOCUMENTACION_ACTIVA/FD5_PM4-03_DISENO_CANDIDATO_CONSOLIDACION_VOLUNTARIA_v0.1.md`. Sin puntos, sin nueva investigación, NO página estudiantil ni actividad Moodle. PM4-02/04 no producidas.
 - **Estado:** Gate FD5 cerrado con alcance limitado; foro y tarea **NO APROBADOS PARA MONTAJE**, Moodle/QA pendientes. PM3 H10 MONTADO REPORTADO POR DOCENTE; QA independiente pendiente. Protocolo v0.3 y patrón validados intactos.
 - **Próximo movimiento único:** evaluación docente PM4-01 y diseño PM4-03; después PM4-02 si procede.
+
+
+## 59. FD5 y tarea opcional MONTADAS reportadas; control PM5 siguiente · 2026-11-01
+
+- El docente declaró «FD5 y actividad opcional montadas». **PM4-01 FD5 H9+H10** y **PM4-03 Tarea Opcional** pasan a estado **MONTADO REPORTADO POR DOCENTE**, sin QA Moodle independiente verificado. No presumir que las descripciones PM4-02/PM4-04 existen como piezas autónomas.
+- **Tensión de autoridad pendiente:** el Gate humano FD5 de 2026-11-01 había autorizado diseño/producción candidata y limitado montaje a revisión; el montaje informado es hecho operativo, NO evidencia por sí mismo de aprobación editorial previa o cumplimiento de las condiciones. Registrar y reconciliar en QA situado sin promocionar retroactivamente candidatas.
+- **Control sensible:** FD5 mantiene valor **3 puntos** (Tabla V2.0); PM4-03 debe seguir **voluntaria y sin puntuación adicional**. Comprobar ajustes de Moodle y finalización no obligatoria.
+- Registro: `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_PM4_FD5_TAREA_OPCIONAL_MONTAJE_REPORTADO_Y_PM5_PRECHEQUEO_2026-11-01.md`.
+- **Siguiente movimiento:** PM5-01 verificar si F5 transferencia breve ya está integrada en PM3-03/FD5, contra OVAt-H10 §8 (contraste polimérico, 4 notas, 6–8 min, sin segunda MDS); solo producir página autónoma si falta. PM6 aún no iniciado; protocolo piloto v0.3 sin cambios.
