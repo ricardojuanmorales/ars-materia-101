@@ -236,3 +236,8 @@ El docente decidió literalmente: «aprobar PM5-01 como INTEGRADA CON AJUSTE LOC
 ## Nota operativa · 2026-11-02 · PM6-01 montado y PM6-02 descripción H10 candidata
 
 Declaración humana: «PM6-01 montado. Procedemos con PM6-02.» Se registra PM6-01 como **MONTADO REPORTADO POR DOCENTE**, no QA independiente. Se produjo y archivó `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_H10_PM6-02_Descripcion_Cierre_v0.1_CANDIDATA.md`, descripción Moodle de tres párrafos conforme al patrón PM6-02 v0.3 y al cierre PM6-01: decisión conservativa situada, trayectorias H1–H10/FD5/PROEMA y continuidad sin H11. PM6-02 **CANDIDATA PARA REVISIÓN**, no montada ni verificada. H10 no declarado cerrado como sistema; QA Moodle y condiciones editoriales previas pendientes. Piloto v0.3 no modificado, sin nueva D-XXX.
+
+
+## Nota operativa · 2026-11-02 · PM6-02 montado reportado y Auditoría Inversa H10 v1.0
+
+Por instrucción humana «PM6-02 montado. Adelante Auditoria Inversa H10», se registra **PM6-02 MONTADO REPORTADO POR DOCENTE**, QA independiente aún no verificado. Se cotejaron FEHE-H10 D-059, OVAt-H10 D-060, Gate Realización D-061, Gate FD5 GO condicionado, Tabla V2.0, piloto PM v0.3, registros F2/F3, PM3, PM5 y PM6, y precedentes de Auditoría Inversa H7/H8. Se publicó `18_DOCUMENTACION_ACTIVA/AUDITORIA_INVERSA_H10_v1.0_CANDIDATA_2026-11-02.md` con lectura **FAVORABLE EN DISEÑO**, **0 críticos documentados, 3 mayores QA/trazabilidad/evaluación y 4 menores/locales**, y plan P0/P1/P2. No existe comprobación directa de Moodle, ni coincidencia final de binarios archivados, ni cierre documental de condiciones FD5. **Gate Integral H10 NO CERRADO, Carril B activo, H10 NO APROBADA COMO SISTEMA.** Sin nueva D-XXX ni modificación del piloto v0.3.
