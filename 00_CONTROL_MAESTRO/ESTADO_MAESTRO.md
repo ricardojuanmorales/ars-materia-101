@@ -874,3 +874,12 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Producida y archivada en GitHub `main` **PM6-02 Descripción Moodle del Cierre H10 v0.1 CANDIDATA**, tres párrafos según patrón: juicio conservativo; progreso H1–H10 con FD5 y PROEMA separados; continuidad sin inventar H11. Ruta: `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_H10_PM6-02_Descripcion_Cierre_v0.1_CANDIDATA.md`.
 - **PM6-02 no montada ni QA verificada**; falta revisión docente y cotejo de descripción con contenido final Moodle. **No declarar H10 aprobado como sistema ni cierre integral**. FD5 y tarea opcional montadas por reporte; QA pendiente; PM5-01 integrada con ajuste local no bloqueante que no consta aplicado a binario. Piloto v0.3 intacto.
 - **Próximo movimiento:** evaluación humana y montaje PM6-02, seguido de auditoría inversa/Gate Integral H10 cuando corresponda.
+
+
+## 63. PM6-02 montado reportado y Auditoría Inversa H10 v1.0 candidata · 2026-11-02
+
+- El docente declara **«PM6-02 montado. Adelante Auditoria Inversa H10.»** Se registra **PM6-02 MONTADO REPORTADO POR DOCENTE**, sin QA Moodle independiente verificado. PM6-01 había sido montado por reporte anterior; PM2, PM3 y FD5/opcional también. PM1: existencia editorial aprobada, montaje particular no acreditado mediante registro explícito en la auditoría.
+- Publicada en GitHub `main` **Auditoría Inversa H10 v1.0 CANDIDATA**: `18_DOCUMENTACION_ACTIVA/AUDITORIA_INVERSA_H10_v1.0_CANDIDATA_2026-11-02.md`.
+- **Dictamen:** coherencia FEHE→OVAt→F1–F6+FD5 FAVORABLE EN DISEÑO; cumplimiento de implementación y QA situado NO CERTIFICADO. **0 críticos documentados, 3 mayores de aseguramiento (recorrido QA LMS, versiones/binarios/PM2-02 17 vs F2 25, Gate FD5 y configuración evaluativa), 4 grupos menores/locales** (ajuste F5, alt texts, descripciones PM4, carga real). El conteo no constituye QA del LMS.
+- **Estado de H10:** Carril B activo; NO APROBADA COMO SISTEMA; Gate Integral H10 aún no cerrado. PM6-02 montada reportada ≠ cierre integral. F5 PM5-01 integrada aprobada, ajuste local no bloqueante pendiente verificación. Protocolo piloto v0.3 congelado.
+- **Siguiente movimiento:** QA situado proporcional con evidencia de PM1–PM6/FD5, reconciliación evaluativa y de versiones, después preparación de Gate Integral H10 para decisión humana.
