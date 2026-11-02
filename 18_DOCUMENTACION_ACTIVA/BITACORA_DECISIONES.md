@@ -206,3 +206,8 @@ A petición expresa del docente se produjo la descripción Moodle PM3-04 v0.1 CA
 ## Nota operativa · 2026-11-01 · PM3-06 Descripción de imagen H10
 
 El docente solicitó producir PM3-06 tras la revisión de PM3-05. Se publicó en GitHub `main` texto Moodle y alt text v0.1 CANDIDATO vinculado a PM3-05 **v0.2** (no la primera imagen). La descripción identifica explícitamente escena y esquemas IA como mediaciones didácticas; no resultados de Rijksmuseum ni decisiones reales. Imagen y descripción pendientes de aprobación, montaje y QA. No nueva D-XXX, FD5 reservado; piloto v0.3 sin cambios.
+
+
+## Nota operativa · 2026-11-01 · Gate FD5 y evaluación de Tarea Opcional
+
+El docente confirmó PM3 H10 **montado** y ordenó proceder al Gate FD5 y evaluar una tarea opcional. Cotejadas Tabla V2.0 y Espiral D-024: FD5 H9+H10 (DECIDIR/SINTETIZAR) 3 puntos en semana 12; producto Cierre reflexivo del Portafolio de Casos. Publicados Gate FD5 **candidato** y evaluación de tarea PM4-03 **candidata** en `18_DOCUMENTACION_ACTIVA/`; se propone GO CON CONDICIONES PARA DISEÑO y omitir tarea por defecto, por redundancia. **Ninguna aprobación humana ni apertura de foro/tarea** se infiere de estas recomendaciones. QA Moodle PM3 pendiente; FD5 sigue RESERVADO.
