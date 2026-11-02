@@ -874,3 +874,18 @@ PM3-01 Página de F4 v0.1 CANDIDATA (en GitHub)
 ```
 
 F4 = PM3; no inventar segundo instrumento o entrega. FD5 reservado. Los archivos binarios PM3-03 no están publicados en GitHub.
+
+
+## 51. Gate FD5 GO condicionado y producción PM4-01/PM4-03 candidata · 2026-11-01
+
+```text
+PM3 F4 H10 MONTADO REPORTADO (QA Moodle no verificado)
+→ Gate específico FD5 H9+H10 CERRADO: GO CON CONDICIONES PARA DISEÑO Y PRODUCCIÓN CANDIDATA
+→ PM4-01 FD5 Foro v0.1 CANDIDATO (3 puntos, cierre reflexivo Portafolio)
+→ PM4-03 DISEÑO INTERNO v0.1 CANDIDATO (voluntario, no evaluado, sin superficie Moodle)
+→ REVISIÓN HUMANA PENDIENTE de ambas propuestas
+→ [solo tras aprobación] PM4-02 descripción de foro y posterior montaje/QA
+→ PM4-04 NO ACTIVADA hasta decisión separada de tarea opcional
+```
+
+FD5 no equivale a F4; PM3 implementó F4 y PM4 contiene el nodo longitudinal FD5. Gate humano limitado no autoriza montar automáticamente.
