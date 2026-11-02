@@ -821,3 +821,12 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - La descripción presenta historia material, esquema didáctico de capas, escalera observación/evidencia/inferencia/límite, opciones hipotéticas, valores y MDS-H10. Incluye advertencia expresa: **imagen IA no documental, ni análisis ni tratamiento real del Rijksmuseum**.
 - **PM3-05 y PM3-06 CANDIDATAS**, sin montaje/QA verificados. PM3-04 MONTADO REPORTADO POR DOCENTE. PNG v0.2 aún no verificado en GitHub. FD5 reservado; protocolo piloto v0.3 intacto.
 - Próximo movimiento: revisión humana PM3-05/06 y QA de montaje, no apertura automática de otra función.
+
+
+## 57. Evaluación Gate FD5 y tarea opcional · 2026-11-01
+
+- PM3 H10: **MONTADO REPORTADO POR DOCENTE**; QA Moodle independiente pendiente.
+- Tabla Alineación V2.0 verificada: FD5 en semana 12 (2–6 noviembre 2026), **3 puntos**, Clase; Espiral D-024: H9+H10, **DECIDIR/SINTETIZAR**, salida **Cierre reflexivo del Portafolio de Casos**, andamiaje mínimo.
+- Ficha de Gate FD5 v0.1 **CANDIDATA** y evaluación de Tarea Opcional PM4-03 v0.1 **CANDIDATA** publicadas en `18_DOCUMENTACION_ACTIVA/`. Dictamen técnico propuesto: **GO CON CONDICIONES PARA DISEÑO**, NO aprobación de Gate. FD5 sigue **RESERVADO** hasta decisión humana específica. Tarea opcional recomendada: **OMITIR por defecto**; si se requiere consolidación portable, solo voluntaria y sin nueva puntuación, autorización separada.
+- Fuente: `18_DOCUMENTACION_ACTIVA/GATE_FD5_H9-H10_v0.1_CANDIDATO_2026-11-01.md` y `18_DOCUMENTACION_ACTIVA/FD5_PM4_TAREA_OPCIONAL_EVALUACION_v0.1_CANDIDATA.md`.
+- Próximo movimiento: resolución humana FD5 y PM4-03; no montar PM4 por inercia.
