@@ -231,3 +231,8 @@ Por instrucción docente «Adelante PM5-01», se evaluó la guía **DOCX PM3-03 
 ## Nota operativa · 2026-11-01 · Decisión PM5 integrado y producción PM6-01 H10
 
 El docente decidió literalmente: «aprobar PM5-01 como INTEGRADA CON AJUSTE LOCAL NO BLOQUEANTE, sin producir PM5-02, y avanzar después a PM6». Se publicó acta `18_DOCUMENTACION_ACTIVA/DECISION_PM5-01_H10_F5_INTEGRADA_GO_2026-11-01.md`: F5 integrada en PM3-03 p. 5; ajuste local no bloqueante **no implementado ni QA verificado**; PM5-02 NO REQUERIDA. Se produjo Cierre H10 `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_H10_PM6-01_Cierre_v0.1_CANDIDATO.md`, conforme OVAt-H10 F6 y prompt PM6-01 piloto v0.3, con síntesis H1–H10, epistemología de evidencia/juicio/límite, FD5/tarea opcional montadas según reporte, PROEMA separada, fuentes institucionales y continuidad sin inventar H11. **PM6-01 candidato para revisión docente, no montado**; PM6-02 no iniciado; QA Moodle global pendiente. No nueva D-XXX, no modificación del piloto v0.3.
+
+
+## Nota operativa · 2026-11-02 · PM6-01 montado y PM6-02 descripción H10 candidata
+
+Declaración humana: «PM6-01 montado. Procedemos con PM6-02.» Se registra PM6-01 como **MONTADO REPORTADO POR DOCENTE**, no QA independiente. Se produjo y archivó `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_H10_PM6-02_Descripcion_Cierre_v0.1_CANDIDATA.md`, descripción Moodle de tres párrafos conforme al patrón PM6-02 v0.3 y al cierre PM6-01: decisión conservativa situada, trayectorias H1–H10/FD5/PROEMA y continuidad sin H11. PM6-02 **CANDIDATA PARA REVISIÓN**, no montada ni verificada. H10 no declarado cerrado como sistema; QA Moodle y condiciones editoriales previas pendientes. Piloto v0.3 no modificado, sin nueva D-XXX.
