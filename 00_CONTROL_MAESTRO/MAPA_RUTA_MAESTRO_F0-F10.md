@@ -919,3 +919,17 @@ PM3-03 Guía Autoestudio H10, p. 5 «Transferencia breve» VERIFICADA EN DOCX
 ```
 
 Carga F5 6–8 minutos estimados, sin nueva MDS ni entrega; FD5/tarea opcional PM4 montadas por docente sin QA independiente.
+
+
+## 54. PM5 integrado aprobado → PM6-01 Cierre H10 candidato · 2026-11-01
+
+```text
+PM5-01 F5 INTEGRADA EN Guía PM3-03 p. 5 · APROBADA POR DOCENTE CON AJUSTE LOCAL NO BLOQUEANTE
+→ PM5-02 NO REQUERIDA · no producir página/entrega de transferencia
+→ PM6-01 F6 Cierre H10 v0.1 CANDIDATO PUBLICADO EN GITHUB
+   → revisión humana PM6-01 PENDIENTE; no montado ni QA Moodle verificado
+   → [tras revisión] PM6-02 descripción Moodle CANDIDATA
+   → [tras montaje y QA] auditoría/cierre integral H10 según autoridad
+```
+
+PM4 FD5 y opcional MONTADAS REPORTADAS, sin QA independiente y con condiciones editoriales del Gate que requieren reconciliación; PROEMA separada, sin H11 inventada.
