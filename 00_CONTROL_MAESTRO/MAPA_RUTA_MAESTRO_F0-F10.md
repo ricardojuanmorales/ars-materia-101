@@ -947,3 +947,19 @@ PM5-01 F5 INTEGRADA APROBADA · PM5-02 NO REQUERIDA
 ```
 
 No convertir montaje reportado en QA verificado; FD5 y tarea opcional también pendientes de reconciliación QA; no modificar protocolo piloto v0.3.
+
+
+## 56. PM6-02 montado reportado → Auditoría Inversa H10 completada documentalmente · 2026-11-02
+
+```text
+PM6-02 MONTADO REPORTADO POR DOCENTE (no QA independiente)
+→ Auditoría Inversa H10 v1.0 CANDIDATA publicada en GitHub main
+→ diseño curricular FAVORABLE, despliegue NO CERTIFICADO
+→ P0: QA LMS PM1–PM6 / FD5 y opcional + configuración de 3 puntos/voluntariedad
+→ P1: reconciliar F2 25 diapositivas vs descripción de 17; binarios finales y derechos/alt texts
+→ P2: ajuste F5 no bloqueante, medir carga
+→ [con evidencia] Gate Integral H10 para decisión humana
+→ [solo si GO humano] H10 APROBADA COMO SISTEMA y Carril B CERRADO
+```
+
+Piloto v0.3 continúa congelado; no imputar resultados QA no observados.
