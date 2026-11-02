@@ -889,3 +889,19 @@ PM3 F4 H10 MONTADO REPORTADO (QA Moodle no verificado)
 ```
 
 FD5 no equivale a F4; PM3 implementó F4 y PM4 contiene el nodo longitudinal FD5. Gate humano limitado no autoriza montar automáticamente.
+
+
+## 52. PM4 FD5 y opcional montadas reportadas → Prechequeo PM5 · 2026-11-01
+
+```text
+Gate FD5 GO CON CONDICIONES para candidatos (montaje sujeto a revisión)
+→ PM4-01 FD5 MONTADO REPORTADO POR DOCENTE (QA pendiente, 3 puntos)
+→ PM4-03 Tarea Opcional MONTADA REPORTADA POR DOCENTE (QA pendiente, sin puntos nuevos)
+→ reconciliar Gate editorial y recursos efectivamente montados; PM4-02/04 no confirmadas como superficies separadas
+→ PM5-01 Gate integración F5: cotejar contraste polimérico + 4 notas con PM3-03 y FD5
+   → si cubierto: INTEGRADO EN [recurso]; no nueva página
+   → si no: página autónoma mínima CANDIDATA y revisión humana
+→ PM6 cierre según secuencia, sin adelantar montaje
+```
+
+PM4 es Espiral FD5, no F4; montaje reportado no equivale a QA Moodle verificado.
