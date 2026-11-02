@@ -933,3 +933,17 @@ PM5-01 F5 INTEGRADA EN Guía PM3-03 p. 5 · APROBADA POR DOCENTE CON AJUSTE LOCA
 ```
 
 PM4 FD5 y opcional MONTADAS REPORTADAS, sin QA independiente y con condiciones editoriales del Gate que requieren reconciliación; PROEMA separada, sin H11 inventada.
+
+
+## 55. PM6-01 montado reportado → PM6-02 candidata · 2026-11-02
+
+```text
+PM5-01 F5 INTEGRADA APROBADA · PM5-02 NO REQUERIDA
+→ PM6-01 Cierre H10 MONTADO REPORTADO POR DOCENTE, QA no verificado
+→ PM6-02 Descripción Moodle CANDIDATA publicada en GitHub main
+→ revisión docente PM6-02 PENDIENTE
+→ [si montaje] QA situado y auditoría inversa H10
+→ Gate Integral H10 SOLO con evidencia y decisión humana
+```
+
+No convertir montaje reportado en QA verificado; FD5 y tarea opcional también pendientes de reconciliación QA; no modificar protocolo piloto v0.3.
