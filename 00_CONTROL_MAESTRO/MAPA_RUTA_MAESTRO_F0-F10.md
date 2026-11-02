@@ -905,3 +905,17 @@ Gate FD5 GO CON CONDICIONES para candidatos (montaje sujeto a revisión)
 ```
 
 PM4 es Espiral FD5, no F4; montaje reportado no equivale a QA Moodle verificado.
+
+
+## 53. PM5-01 F5 H10 · Evaluación de integración · 2026-11-01
+
+```text
+PM3-03 Guía Autoestudio H10, p. 5 «Transferencia breve» VERIFICADA EN DOCX
+→ F5 INTEGRADA EN PM3-03, p. 5 · dictamen PM5-01 v0.1 CANDIDATO
+→ ajuste opcional no bloqueante: explicitar monitoreo, opciones y cuatro notas, NO APLICADO
+→ PM5-02 NO REQUERIDA si docente confirma vía integrada
+→ revisión humana y QA Moodle de archivo efectivamente montado pendientes
+→ después: PM6 F6 Cierre H10 según secuencia
+```
+
+Carga F5 6–8 minutos estimados, sin nueva MDS ni entrega; FD5/tarea opcional PM4 montadas por docente sin QA independiente.
