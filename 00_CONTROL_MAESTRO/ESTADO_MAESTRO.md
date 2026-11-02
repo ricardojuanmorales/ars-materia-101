@@ -857,3 +857,12 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Registro en GitHub: `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_PM5-01_F5_Transferencia_Integrada_Constancia_v0.1_CANDIDATA.md` con evidencia, matriz de cobertura y texto opcional de mejora que **NO ha sido insertado en el Word ni montado**.
 - **Pendientes:** confirmación docente, QA Moodle del DOCX/PDF definitivo y medición 6–8 minutos. FD5 y tarea opcional PM4 montadas por reporte humano; QA no verificado. Patrón/protocolo piloto v0.3 intactos.
 - **Próximo movimiento después de resolución:** PM6 Cierre H10 (F6), sin crear PM5 autónomo por defecto.
+
+
+## 61. PM5-01 aprobada como integrada; PM6-01 Cierre H10 candidato · 2026-11-01
+
+- **Decisión humana textual:** «aprobar PM5-01 como INTEGRADA CON AJUSTE LOCAL NO BLOQUEANTE, sin producir PM5-02, y avanzar después a PM6». Registrada en `18_DOCUMENTACION_ACTIVA/DECISION_PM5-01_H10_F5_INTEGRADA_GO_2026-11-01.md`.
+- F5 **INTEGRADA EN Guía PM3-03, p. 5**; mejora local no bloqueante pendiente de incorporación/QA en archivo definitivo. **PM5-02 NO REQUERIDA**; ninguna página autónoma ni entrega nueva.
+- Bajo Carril B D-061 y prompt piloto PM6-01 v0.3, se produjo **Cierre H10 v0.1 CANDIDATO**, publicado en `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_H10_PM6-01_Cierre_v0.1_CANDIDATO.md`. Incluye progreso H1–H10, epistemología, FD5 montado reportado, opcional voluntaria, PROEMA separada, fuentes Rijksmuseum y continuidad sin inventar H11.
+- **PM6-01 NO APROBADO NI MONTADO, QA MOODLE NO VERIFICADO. PM6-02 no producido.** Gate FD5 y opcional sujetos a reconciliación editorial/QA por montaje reportado posterior a autorización solo candidata. Protocolo piloto v0.3 intacto.
+- Próximo movimiento: **revisión docente de PM6-01** y, si procede, producción secuencial PM6-02.
