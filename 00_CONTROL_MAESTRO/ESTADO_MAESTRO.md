@@ -866,3 +866,11 @@ No abrir OVAt-H7, Moodle H7 ni FD4 antes de FEHE-H7 y su Gate.
 - Bajo Carril B D-061 y prompt piloto PM6-01 v0.3, se produjo **Cierre H10 v0.1 CANDIDATO**, publicado en `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_H10_PM6-01_Cierre_v0.1_CANDIDATO.md`. Incluye progreso H1–H10, epistemología, FD5 montado reportado, opcional voluntaria, PROEMA separada, fuentes Rijksmuseum y continuidad sin inventar H11.
 - **PM6-01 NO APROBADO NI MONTADO, QA MOODLE NO VERIFICADO. PM6-02 no producido.** Gate FD5 y opcional sujetos a reconciliación editorial/QA por montaje reportado posterior a autorización solo candidata. Protocolo piloto v0.3 intacto.
 - Próximo movimiento: **revisión docente de PM6-01** y, si procede, producción secuencial PM6-02.
+
+
+## 62. PM6-01 montado reportado; PM6-02 descripción candidata · 2026-11-02
+
+- El docente confirma: **«PM6-01 montado. Procedemos con PM6-02.»** PM6-01 Cierre H10 se registra **MONTADO REPORTADO POR DOCENTE**, sin QA Moodle verificado ni aprobación editorial retroactiva.
+- Producida y archivada en GitHub `main` **PM6-02 Descripción Moodle del Cierre H10 v0.1 CANDIDATA**, tres párrafos según patrón: juicio conservativo; progreso H1–H10 con FD5 y PROEMA separados; continuidad sin inventar H11. Ruta: `19_IMPLEMENTACION_Y_DESPLIEGUE/OVAT_Y_MOODLE/H10/CIFI4074_H10_PM6-02_Descripcion_Cierre_v0.1_CANDIDATA.md`.
+- **PM6-02 no montada ni QA verificada**; falta revisión docente y cotejo de descripción con contenido final Moodle. **No declarar H10 aprobado como sistema ni cierre integral**. FD5 y tarea opcional montadas por reporte; QA pendiente; PM5-01 integrada con ajuste local no bloqueante que no consta aplicado a binario. Piloto v0.3 intacto.
+- **Próximo movimiento:** evaluación humana y montaje PM6-02, seguido de auditoría inversa/Gate Integral H10 cuando corresponda.
