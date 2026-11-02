@@ -211,3 +211,8 @@ El docente solicitó producir PM3-06 tras la revisión de PM3-05. Se publicó en
 ## Nota operativa · 2026-11-01 · Gate FD5 y evaluación de Tarea Opcional
 
 El docente confirmó PM3 H10 **montado** y ordenó proceder al Gate FD5 y evaluar una tarea opcional. Cotejadas Tabla V2.0 y Espiral D-024: FD5 H9+H10 (DECIDIR/SINTETIZAR) 3 puntos en semana 12; producto Cierre reflexivo del Portafolio de Casos. Publicados Gate FD5 **candidato** y evaluación de tarea PM4-03 **candidata** en `18_DOCUMENTACION_ACTIVA/`; se propone GO CON CONDICIONES PARA DISEÑO y omitir tarea por defecto, por redundancia. **Ninguna aprobación humana ni apertura de foro/tarea** se infiere de estas recomendaciones. QA Moodle PM3 pendiente; FD5 sigue RESERVADO.
+
+
+## Decisión humana · 2026-11-01 · Gate FD5 GO condicionado y PM4-03 diseño voluntario
+
+Texto docente: «Decisión humana Gate FD5: GO CON CONDICIONES PARA DISEÑO Y PRODUCCIÓN CANDIDATA de FD5, manteniendo montaje sujeto a revisión. Decisión sobre PM4-03: AUTORIZAR solo diseño candidato de tarea opcional de consolidación voluntaria, sin puntuación adicional, sujeto a revisión. Registra la decisión y procede según autoridad.» Se cerró Gate mediante `GATE_FD5_H9-H10_DECISION_HUMANA_2026-11-01.md` **sin asignar D-XXX no autorizado**. Se produjeron y publicaron en GitHub `main` PM4-01 Foro FD5 v0.1 CANDIDATO (3 puntos Tabla V2.0, cierre reflexivo Portafolio D-024, H9+H10, pregunta DECIDIR/SINTETIZAR) y PM4-03 **diseño interno** de consolidación voluntaria, sin puntos, sin nueva entrega obligatoria. Ambos requieren evaluación docente antes de montaje; no se generaron PM4-02 ni PM4-04; protocolo piloto v0.3 intacto. PM3 H10 montado por declaración docente, QA independiente pendiente.
