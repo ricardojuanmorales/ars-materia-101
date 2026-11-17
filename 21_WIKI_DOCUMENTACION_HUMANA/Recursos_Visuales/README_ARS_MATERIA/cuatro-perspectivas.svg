@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 280" role="img" aria-labelledby="title description">
+<title id="title">Cuatro perspectivas convergentes de Ars Materia</title>
+<desc id="description">Cuatro perspectivas, histórico-cultural, material-científica, epistemológica y patrimonial-contemporánea, convergen sobre el estudio de una trayectoria material y sus evidencias.</desc>
+<rect width="1100" height="280" rx="18" fill="#f8f5ee"/>
+<g stroke="#b0b7ad" stroke-width="2" fill="none"><path d="M255 73Q420 73 550 138"/><path d="M845 73Q680 73 550 138"/><path d="M255 214Q420 214 550 138"/><path d="M845 214Q680 214 550 138"/></g>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+<rect x="44" y="32" rx="14" width="425" height="66" fill="#e7e2d6" stroke="#c4b398"/><text x="256" y="61" font-size="19" font-weight="bold" fill="#433f3a">Histórico-cultural</text><text x="256" y="81" font-size="13" fill="#6c6259">Contextos · técnicas · circulación</text>
+<rect x="631" y="32" rx="14" width="425" height="66" fill="#dfeae6" stroke="#91b6a8"/><text x="844" y="61" font-size="19" font-weight="bold" fill="#214c46">Material-científica</text><text x="844" y="81" font-size="13" fill="#54756d">Composición · procesos · transformaciones</text>
+<rect x="44" y="181" rx="14" width="425" height="66" fill="#e8e4f0" stroke="#b8a6c8"/><text x="256" y="209" font-size="19" font-weight="bold" fill="#514563">Epistemológica</text><text x="256" y="230" font-size="13" fill="#6d627d">Evidencia · inferencia · límites</text>
+<rect x="631" y="181" rx="14" width="425" height="66" fill="#f2e4d6" stroke="#d4ad8f"/><text x="844" y="209" font-size="19" font-weight="bold" fill="#80503e">Patrimonial-contemporánea</text><text x="844" y="230" font-size="13" fill="#926952">Conservación · decisiones · presente</text>
+<circle cx="550" cy="139" r="64" fill="#183b45" stroke="#c9a57c" stroke-width="4"/><text x="550" y="133" font-size="16" font-weight="bold" fill="#fff3df">TRAYECTORIA</text><text x="550" y="152" font-size="16" font-weight="bold" fill="#fff3df">MATERIAL</text>
+</g></svg>
