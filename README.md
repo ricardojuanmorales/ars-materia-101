@@ -1,6 +1,8 @@
 # 🧱 Ars Materia 101
 ## Ciencia de materiales en el arte: historias, evidencias y decisiones
 
+![Ars Materia 101: ciencia, arte e historia articulados mediante trayectorias materiales](21_WIKI_DOCUMENTACION_HUMANA/Recursos_Visuales/README_ARS_MATERIA/hero-ars-materia.svg)
+
 **Materia · técnica · cultura · conocimiento · patrimonio**
 
 > Toda obra tiene una historia material. Soportes, pigmentos, fibras, metales, cerámicas y transformaciones conservan huellas de decisiones humanas y procesos físicos que podemos investigar y discutir.
@@ -22,6 +24,12 @@ Este repositorio **no es un Moodle instalable ni una reproducción íntegra del 
 **¿Qué aprendemos sobre una obra cuando sus materiales se convierten en evidencia histórica, científica y cultural?**
 
 Ars Materia permite reconstruir trayectorias materiales; conectar composición, fabricación y transformaciones con decisiones técnicas; reconocer límites de inferencia; y formular preguntas sobre circulación, conservación, uso y significado. No reduce el arte a la química: invita a que la ciencia y la historia del arte se interroguen mutuamente.
+
+## 🔭 Cuatro perspectivas, una trayectoria material
+
+![Diagrama de cuatro perspectivas convergentes: histórico-cultural, material-científica, epistemológica y patrimonial-contemporánea](21_WIKI_DOCUMENTACION_HUMANA/Recursos_Visuales/README_ARS_MATERIA/cuatro-perspectivas.svg)
+
+La materialidad artística se investiga mediante perspectivas que dialogan sin sustituirse: los contextos históricos, los procesos físico-químicos, la calidad de las inferencias y las decisiones patrimoniales contemporáneas.
 
 ## 🧬 Cómo funciona
 
