@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" role="img" aria-labelledby="t d">
+<title id="t">Ars Materia 101: trayectorias de la materia</title>
+<desc id="d">Banner editorial azul noche con un núcleo mineral geométrico, estratos de materiales y líneas que conectan ciencia, historia, epistemología y patrimonio.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#102637"/><stop offset=".55" stop-color="#183c48"/><stop offset="1" stop-color="#2a4044"/></linearGradient>
+ <linearGradient id="rock" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#f2c989"/><stop offset=".48" stop-color="#ca8065"/><stop offset="1" stop-color="#8a4c53"/></linearGradient>
+ <linearGradient id="fog" x1="0" x2="1"><stop stop-color="#8bbdb1" stop-opacity=".16"/><stop offset="1" stop-color="#e3d1a8" stop-opacity="0"/></linearGradient>
+ <pattern id="grain" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="3" cy="4" r=".8" fill="#fff" opacity=".13"/><circle cx="20" cy="18" r=".6" fill="#fff" opacity=".12"/></pattern>
+</defs>
+<rect width="1200" height="380" rx="20" fill="url(#bg)"/><rect width="1200" height="380" rx="20" fill="url(#grain)"/>
+<path d="M0 319Q160 275 340 332T665 308T1200 300V380H0Z" fill="#d59b71" opacity=".12"/>
+<path d="M0 346Q190 295 360 350T690 331T1200 326V380H0Z" fill="#e5c393" opacity=".13"/>
+<g fill="none" stroke="#b4d2ca" stroke-opacity=".23" stroke-width="1.5">
+<path d="M729 44L836 101L946 49L1091 114L1179 64"/><path d="M724 299L839 252L969 319L1092 257L1200 292"/>
+<path d="M839 101L839 252M946 49L969 319M1091 114L1092 257"/>
+</g>
+<g transform="translate(947 180)">
+<circle r="126" fill="url(#fog)"/><circle r="131" fill="none" stroke="#b9d0c2" stroke-opacity=".32"/>
+<path d="M-83 -30L-23 -117L72 -84L120 14L41 112L-67 83L-116 13Z" fill="url(#rock)" stroke="#f7d9ad" stroke-width="1.5"/>
+<path d="M-83 -30L12 -28L-23 -117Z" fill="#f6d59b" opacity=".83"/>
+<path d="M12 -28L72 -84L120 14L24 31Z" fill="#9e5260" opacity=".8"/>
+<path d="M12 -28L24 31L41 112L-67 83Z" fill="#cf8c6f"/>
+<path d="M-83 -30L-116 13L-67 83L12 -28Z" fill="#88aa9e"/>
+<path d="M24 31L120 14L41 112Z" fill="#f1b982" opacity=".8"/>
+<path d="M-23 -117L12 -28L72 -84M12 -28L-67 83M12 -28L24 31" fill="none" stroke="#ffe4bd" stroke-opacity=".6"/>
+<circle cx="-116" cy="13" r="4" fill="#c6e2d4"/><circle cx="120" cy="14" r="4" fill="#c6e2d4"/>
+</g>
+<g font-family="Georgia, 'Times New Roman', serif" fill="#f8ead4">
+<text x="70" y="101" font-size="21" letter-spacing="6" fill="#b6d8cc">CIENCIA · ARTE · HISTORIA</text>
+<text x="67" y="194" font-size="78" font-weight="bold">Ars Materia</text>
+<text x="71" y="248" font-size="36" letter-spacing="6">101</text>
+</g>
+<path d="M71 271H571" stroke="#d2a276" stroke-width="2"/>
+<text x="71" y="313" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#e9e7dd" letter-spacing="1.4">TRAYECTORIAS MATERIALES · EVIDENCIA · PATRIMONIO</text>
+<g font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.4" fill="#d9ddd0">
+<text x="782" y="32">MATERIA</text><text x="1071" y="344">MEMORIA</text>
+</g>
+</svg>
